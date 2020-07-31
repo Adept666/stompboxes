@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Distortion +"
-Date "2020-06-28"
+Date "2020-08-01"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -551,9 +551,9 @@ F 1 "B100K" V 1250 3750 100 0001 R CNN
 F 2 "SBKCL:RP-PDB181-K-F-PCB" V 1250 3750 60  0001 R CNN
 F 3 "" V 1250 3750 60  0001 R CNN
 F 4 "DISTORTION" V 1150 3600 100 0000 R CNN "Title"
-F 5 "100 кОм (B)" V 1300 3600 60  0000 R CNN "Resistance"
-F 6 "PDB181-E415F" V 1400 3600 60  0000 R CNN "Product"
-F 7 "Bourns" V 1500 3600 60  0000 R CNN "Manufacturer"
+F 5 "1 MОм (C)" V 1300 3600 60  0000 R CNN "Resistance"
+F 6 "RV16AF-10-15K" V 1400 3600 60  0000 R CNN "Product"
+F 7 "Alpha" V 1500 3600 60  0000 R CNN "Manufacturer"
 	1    1250 3750
 	0    -1   1    0   
 $EndComp
@@ -1006,8 +1006,8 @@ F 2 "SBKCL:RP-PDB181-K-F-PCB" V 9750 2750 60  0001 R CNN
 F 3 "" V 9750 2750 60  0001 R CNN
 F 4 "OUTPUT" V 9850 2600 100 0000 R CNN "Title"
 F 5 "10 кОм (A)" V 9700 2600 60  0000 R CNN "Resistance"
-F 6 "PDB181-E415F" V 9600 2600 60  0000 R CNN "Product"
-F 7 "Bourns" V 9500 2600 60  0000 R CNN "Manufacturer"
+F 6 "RV16AF-10-15K" V 9600 2600 60  0000 R CNN "Product"
+F 7 "Alpha" V 9500 2600 60  0000 R CNN "Manufacturer"
 	1    9750 2750
 	0    1    -1   0   
 $EndComp
