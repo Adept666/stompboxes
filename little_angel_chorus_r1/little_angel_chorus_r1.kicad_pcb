@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title "Little Angel Chorus")
-    (date 2020-08-01)
+    (date 2020-09-17)
     (rev 1A)
     (company "Igor Ivanov")
     (comment 1 https://github.com/Adept666)
@@ -20,8 +20,8 @@
   )
 
   (layers
-    (0 F.Cu jumper)
-    (31 B.Cu signal)
+    (0 F.Cu jumper hide)
+    (31 B.Cu signal hide)
     (36 B.SilkS user)
     (37 F.SilkS user)
     (38 B.Mask user)
@@ -216,13 +216,13 @@
     (add_net VC)
   )
 
-  (module SBKCL:G0473_little_angel_chorus_r1a locked (layer F.Cu) (tedit 5EF85597) (tstamp 5E65E7BC)
+  (module SBKCL:G0473_little_angel_chorus_r1a locked (layer F.Cu) (tedit 5EF85597) (tstamp 5F62D670)
     (at 105.41 148.59)
     (path /5E73CB02)
-    (fp_text reference VE1 (at 0 -60.325) (layer F.SilkS) hide
+    (fp_text reference VE1 (at 0 55.88) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value G0473 (at 0 -61.595) (layer F.Fab) hide
+    (fp_text value G0473 (at 0 54.61) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start -46.75 -59.5) (end 46.75 -59.5) (layer Eco1.User) (width 0.4))
@@ -269,10 +269,10 @@
   (module SBKCL:RP-RK1233N1-KC-PCB (layer F.Cu) (tedit 5ED4AC40) (tstamp 5E7D1981)
     (at 134.62 122.08)
     (path /5E9C074E)
-    (fp_text reference RP2 (at 0 -7.239) (layer F.SilkS)
+    (fp_text reference RP2 (at 0 12.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value B50K (at 0 -8.509) (layer F.Fab) hide
+    (fp_text value B50K (at 0 6.19) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_circle (center 0 7.5) (end 1.1 7.5) (layer Eco1.User) (width 0.4))
@@ -320,13 +320,13 @@
       (net 51 "Net-(RP2-Pad1)"))
   )
 
-  (module SBKCL:RP-RK1233N1-KC-PCB (layer F.Cu) (tedit 5ED4AC40) (tstamp 5ED53684)
+  (module SBKCL:RP-RK1233N1-KC-PCB (layer F.Cu) (tedit 5ED4AC40) (tstamp 5F62E101)
     (at 76.2 122.08)
     (path /5E72C4AF)
-    (fp_text reference RP1 (at 0 -7.239) (layer F.SilkS)
+    (fp_text reference RP1 (at 0 12.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value B50K (at 0 -8.509) (layer F.Fab) hide
+    (fp_text value B50K (at 0 6.19) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_circle (center 0 7.5) (end 1.1 7.5) (layer Eco1.User) (width 0.4))
