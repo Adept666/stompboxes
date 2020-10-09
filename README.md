@@ -1,6 +1,6 @@
 # ТТКРЧПДЛ / Тут короче педали
 
-Здесь хранятся схемы и чертежи гитарных педалек ТТКРЧПДЛ (штаб-квартира: Омск, Сибирь). Купить педальки или задать вопросы можно через группу [вконтакте](http://vk.com/stompboxes). Заценить звук можно на [YouTube-канале](http://youtube.com/channel/UCtStMn9qLL_V5MzlzgSMkUA).
+Здесь хранятся схемы и чертежи гитарных педалек ТТКРЧПДЛ (штаб-квартира: Омск, Сибирь). Купить педальки или задать вопросы можно через группу [вконтакте](http://vk.com/stompboxes). Заценить звук можно на [YouTube-канале](http://youtube.com/channel/UCtStMn9qLL_V5MzlzgSMkUA). Донаты на дальнейшие разработки собираю через [Patreon](http://patreon.com/stompboxes).
 
 ![Distortion + PCBs](http://sun9-67.userapi.com/ioU71lmwXr9TK0_9o4IcflxXugrnQxBiaA8EZA/to2xvcd5ym0.jpg)
 
@@ -25,6 +25,16 @@
 [F_Fab](/little_angel_chorus_r1/output/little_angel_chorus_r1_fab_top.pdf)
 
 [B_Fab](/little_angel_chorus_r1/output/little_angel_chorus_r1_fab_bottom.pdf)
+
+## Requirements (Требования)
+
+Работа с исходными файлами осуществляется в программе [KiCad](http://kicad-pcb.org).
+
+Для просмотра и редактирования принципиальных схем необходимо подключить следующие библиотеки символов:
+* [KCL](http://github.com/Adept666/KCL)
+* [SBKCL](http://github.com/Adept666/stompboxes/tree/master/SBKCL)
+
+Для работы с чертежами печатных узлов подключение библиотек не требуется, так как все использованные футпринты вшиты в файлы *.kicad_pcb. При необходимости футпринты могут быть найдены в библиотеках [KCL](http://github.com/Adept666/KCL) и [SBKCL](http://github.com/Adept666/stompboxes/tree/master/SBKCL).
 
 ## Author (Автор)
 
