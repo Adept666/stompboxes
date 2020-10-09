@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Big Muff (NYC)"
-Date "2020-10-08"
+Date "2020-10-09"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -456,10 +456,6 @@ F 4 "1N5817" H 4000 11900 60  0000 C CNN "Product"
 $EndComp
 Wire Wire Line
 	4200 11750 4500 11750
-Wire Wire Line
-	20000 -500 20000 500 
-Wire Wire Line
-	19500 0    20500 0   
 $Comp
 L KCL:POWER_COM #PWR0130
 U 1 1 5F414B04
