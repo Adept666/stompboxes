@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Little Angel Chorus"
-Date "2020-10-08"
+Date "2020-10-10"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -484,13 +484,13 @@ $Comp
 L KCL:CONNECTOR_M_BARREL_SW XP1
 U 1 1 5E72C4A2
 P 2250 11500
-F 0 "XP1" H 2500 10650 100 0000 C CNN
+F 0 "XP1" H 2500 10400 100 0000 C CNN
 F 1 "722RA" H 2250 11500 100 0001 C CNN
 F 2 "KCL:CON-(L)7X2RA(H)" H 2250 11500 60  0001 C CNN
 F 3 "" H 2250 11500 60  0001 C CNN
-F 4 "9V" H 2500 10800 100 0000 C CNN "Title"
-F 5 "722RA" H 2500 11700 60  0000 C CNN "Product"
-F 6 "Switchcraft" H 2500 11800 60  0000 C CNN "Manufacturer"
+F 4 "9V" H 2500 10550 100 0000 C CNN "Title"
+F 5 "722RA" H 2500 10700 60  0000 C CNN "Product"
+F 6 "Switchcraft" H 2500 10800 60  0000 C CNN "Manufacturer"
 	1    2250 11500
 	-1   0    0    1   
 $EndComp

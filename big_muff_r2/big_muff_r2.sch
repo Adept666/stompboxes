@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Big Muff (NYC)"
-Date "2020-10-09"
+Date "2020-10-10"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -259,9 +259,9 @@ F 3 "" H 11250 14000 60  0001 C CNN
 	1    11250 14000
 	1    0    0    -1  
 $EndComp
-Wire Notes Line width 15 style solid
+Wire Notes Line style solid
 	11250 13000 11250 13200
-Wire Notes Line width 15 style solid
+Wire Notes Line style solid
 	11250 13800 11250 14000
 Wire Wire Line
 	11250 13000 12000 13000
@@ -329,13 +329,13 @@ $Comp
 L KCL:CONNECTOR_M_BARREL_SW XP1
 U 1 1 5E7A1138
 P 3500 12250
-F 0 "XP1" H 3750 11400 100 0000 C CNN
+F 0 "XP1" H 3750 11150 100 0000 C CNN
 F 1 "DC-005S" H 3500 12250 100 0001 C CNN
 F 2 "KCL:CON-DC-005S" H 3500 12250 60  0001 C CNN
 F 3 "" H 3500 12250 60  0001 C CNN
-F 4 "9V" H 3750 11550 100 0000 C CNN "Title"
-F 5 "DC-005S" H 3750 12450 60  0000 C CNN "Product"
-F 6 "Daier" H 3750 12550 60  0000 C CNN "Manufacturer"
+F 4 "9V" H 3750 11300 100 0000 C CNN "Title"
+F 5 "DC-005S" H 3750 11450 60  0000 C CNN "Product"
+F 6 "Daier" H 3750 11550 60  0000 C CNN "Manufacturer"
 	1    3500 12250
 	-1   0    0    1   
 $EndComp
