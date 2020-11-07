@@ -12,6 +12,12 @@
 
 [B_Fab](/big_muff_r2/output/big_muff_r2_fab_bottom.pdf)
 
+## Fuzz Factory [REV1]
+
+[Schematic](/fuzz_factory_r1/output/fuzz_factory_r1_schematic.pdf)
+
+[F_Fab](/fuzz_factory_r1/output/fuzz_factory_r1_fab_top.pdf)
+
 ## Distortion + [REV2]
 
 [Schematic](/distortion_+_r2/output/distortion_+_r2_schematic.pdf)
