@@ -20,6 +20,14 @@
 
 [B_Fab](/big_muff_r2_nyc/output/big_muff_r2_nyc_fab_bottom.pdf)
 
+## Deep Blue Delay [REV3]
+
+[Schematic](/deep_blue_delay_r3/output/deep_blue_delay_r3_schematic.pdf)
+
+[F_Fab](/deep_blue_delay_r3/output/deep_blue_delay_r3_fab_top.pdf)
+
+[B_Fab](/deep_blue_delay_r3/output/deep_blue_delay_r3_fab_bottom.pdf)
+
 ## Fuzz Factory [REV1]
 
 [Schematic](/fuzz_factory_r1/output/fuzz_factory_r1_schematic.pdf)
