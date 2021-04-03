@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Little Angel Chorus"
-Date "2020-10-10"
+Date "2021-04-03"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1431,7 +1431,7 @@ F 3 "" V 6250 4000 60  0001 R CNN
 F 4 "DEPTH" V 6150 3850 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 6300 3850 60  0000 R CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 6400 3850 60  0000 R CNN "Product"
-F 7 "Китай" V 6500 3850 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 6500 3850 60  0000 R CNN "Manufacturer"
 	1    6250 4000
 	0    -1   1    0   
 $EndComp
@@ -1476,7 +1476,7 @@ F 3 "" V 4750 3000 60  0001 R CNN
 F 4 "SPEED" V 4650 2850 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 4800 2850 60  0000 R CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 4900 2850 60  0000 R CNN "Product"
-F 7 "Китай" V 5000 2850 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 5000 2850 60  0000 R CNN "Manufacturer"
 	1    4750 3000
 	0    -1   1    0   
 $EndComp
