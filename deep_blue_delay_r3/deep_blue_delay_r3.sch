@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Deep Blue Delay"
-Date "2021-01-16"
+Date "2021-04-03"
 Rev "3B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1338,7 +1338,7 @@ F 3 "" V 3000 10500 60  0001 R CNN
 F 4 "DELAY" V 3100 10350 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 2950 10350 60  0000 R CNN "Resistance"
 F 6 "R16K1-L20F" V 2850 10350 60  0000 R CNN "Product"
-F 7 "Song Huel Electric" V 2750 10350 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 2750 10350 60  0000 R CNN "Manufacturer"
 	1    3000 10500
 	0    1    -1   0   
 $EndComp
@@ -1821,7 +1821,7 @@ F 3 "" V 10750 8500 60  0001 R CNN
 F 4 "REPEAT" V 10850 8350 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 10700 8350 60  0000 R CNN "Resistance"
 F 6 "R16K1-L20F" V 10600 8350 60  0000 R CNN "Product"
-F 7 "Song Huel Electric" V 10500 8350 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 10500 8350 60  0000 R CNN "Manufacturer"
 	1    10750 8500
 	0    1    -1   0   
 $EndComp
@@ -1836,7 +1836,7 @@ F 3 "" H 9750 5500 60  0001 C CNN
 F 4 "LEVEL" H 9750 5150 100 0000 C CNN "Title"
 F 5 "50 кОм (B)" H 9750 5000 60  0000 C CNN "Resistance"
 F 6 "R16K1-L20F" H 9750 4900 60  0000 C CNN "Product"
-F 7 "Song Huel Electric" H 9750 4800 60  0000 C CNN "Manufacturer"
+F 7 "Song Huei Electric" H 9750 4800 60  0000 C CNN "Manufacturer"
 	1    9750 5500
 	1    0    0    -1  
 $EndComp
