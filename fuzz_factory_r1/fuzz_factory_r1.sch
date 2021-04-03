@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Fuzz Factory"
-Date "2020-11-13"
+Date "2021-04-03"
 Rev "MB:1B/PB:1B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -157,7 +157,7 @@ F 3 "" V 6500 8500 60  0001 R CNN
 F 4 "VOL" V 6600 8350 100 0000 R CNN "Title"
 F 5 "5,0 кОм (B)" V 6450 8350 60  0000 R CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 6350 8350 60  0000 R CNN "Product"
-F 7 "Китай" V 6250 8350 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 6250 8350 60  0000 R CNN "Manufacturer"
 	1    6500 8500
 	0    1    -1   0   
 $EndComp
@@ -172,7 +172,7 @@ F 3 "" V 6500 5250 60  0001 R CNN
 F 4 "DRIVE" V 6400 5100 100 0000 R CNN "Title"
 F 5 "10 кОм (B)" V 6550 5100 60  0000 R CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 6650 5100 60  0000 R CNN "Product"
-F 7 "Китай" V 6750 5100 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 6750 5100 60  0000 R CNN "Manufacturer"
 	1    6500 5250
 	0    -1   1    0   
 $EndComp
@@ -223,7 +223,7 @@ F 3 "" V 4500 8500 60  0001 R CNN
 F 4 "GATE" V 4600 8350 100 0000 R CNN "Title"
 F 5 "10 кОм (B)" V 4450 8350 60  0000 R CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 4350 8350 60  0000 R CNN "Product"
-F 7 "Китай" V 4250 8350 60  0000 R CNN "Manufacturer"
+F 7 "Song Huei Electric" V 4250 8350 60  0000 R CNN "Manufacturer"
 	1    4500 8500
 	0    1    -1   0   
 $EndComp
@@ -240,7 +240,7 @@ F 3 "" V 8000 5250 60  0001 L CNN
 F 4 "COMP" V 8100 5550 100 0000 L CNN "Title"
 F 5 "10 кОм (B)" V 7950 5550 60  0000 L CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 7850 5550 60  0000 L CNN "Product"
-F 7 "Китай" V 7750 5550 60  0000 L CNN "Manufacturer"
+F 7 "Song Huei Electric" V 7750 5550 60  0000 L CNN "Manufacturer"
 	1    8000 5250
 	0    1    -1   0   
 $EndComp
@@ -899,7 +899,7 @@ F 3 "" V 5500 3250 60  0001 L CNN
 F 4 "STAB" V 5600 3550 100 0000 L CNN "Title"
 F 5 "5,0 кОм (B)" V 5450 3550 60  0000 L CNN "Resistance"
 F 6 "RK1233N1-L15KC" V 5350 3550 60  0000 L CNN "Product"
-F 7 "Китай" V 5250 3550 60  0000 L CNN "Manufacturer"
+F 7 "Song Huei Electric" V 5250 3550 60  0000 L CNN "Manufacturer"
 	1    5500 3250
 	0    1    -1   0   
 $EndComp
