@@ -1,4 +1,4 @@
-update=Сб 24 окт 2020 08:05:56
+update=Сб 03 апр 2021 18:35:49
 version=1
 last_client=kicad
 [cvpcb]
@@ -9,6 +9,16 @@ version=1
 [eeschema]
 version=1
 LibDir=
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=46
+SubpartFirstId=49
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=70
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -25,7 +35,8 @@ MinViaDrill=0.3
 MinMicroViaDiameter=0
 MinMicroViaDrill=0
 MinHoleToHole=0.25
-TrackWidth1=0.6
+TrackWidth1=1
+TrackWidth2=0.6
 ViaDiameter1=2
 ViaDrill1=1
 dPairWidth1=0.2
@@ -202,11 +213,11 @@ Enabled=0
 [pcbnew/Layer.Dwgs.User]
 Enabled=1
 [pcbnew/Layer.Cmts.User]
-Enabled=1
+Enabled=0
 [pcbnew/Layer.Eco1.User]
 Enabled=1
 [pcbnew/Layer.Eco2.User]
-Enabled=1
+Enabled=0
 [pcbnew/Layer.Edge.Cuts]
 Enabled=1
 [pcbnew/Layer.Margin]
@@ -225,7 +236,7 @@ Enabled=0
 [pcbnew/Netclasses/Default]
 Name=Default
 Clearance=0
-TrackWidth=0.6
+TrackWidth=1
 ViaDiameter=2
 ViaDrill=1
 uViaDiameter=0.3
@@ -233,13 +244,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=46
-SubpartFirstId=49
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=70
-ERC_TestSimilarLabels=1

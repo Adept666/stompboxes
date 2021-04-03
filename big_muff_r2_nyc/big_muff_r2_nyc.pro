@@ -1,4 +1,4 @@
-update=Вс 30 июн 2019 13:47:16
+update=Сб 03 апр 2021 18:33:59
 version=1
 last_client=kicad
 [cvpcb]
@@ -35,7 +35,8 @@ MinViaDrill=0.3
 MinMicroViaDiameter=0
 MinMicroViaDrill=0
 MinHoleToHole=0.25
-TrackWidth1=0.6
+TrackWidth1=1
+TrackWidth2=0.6
 ViaDiameter1=2
 ViaDrill1=1
 dPairWidth1=0.2
@@ -212,11 +213,11 @@ Enabled=0
 [pcbnew/Layer.Dwgs.User]
 Enabled=1
 [pcbnew/Layer.Cmts.User]
-Enabled=1
+Enabled=0
 [pcbnew/Layer.Eco1.User]
 Enabled=1
 [pcbnew/Layer.Eco2.User]
-Enabled=1
+Enabled=0
 [pcbnew/Layer.Edge.Cuts]
 Enabled=1
 [pcbnew/Layer.Margin]
@@ -235,7 +236,7 @@ Enabled=0
 [pcbnew/Netclasses/Default]
 Name=Default
 Clearance=0
-TrackWidth=0.6
+TrackWidth=1
 ViaDiameter=2
 ViaDrill=1
 uViaDiameter=0.3
