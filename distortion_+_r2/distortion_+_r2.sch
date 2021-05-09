@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Distortion +"
-Date "2020-10-08"
+Date "2021-05-09"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -80,9 +80,9 @@ F 4 "COM" H 10000 6000 100 0001 C CNN "Label"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10000 6000 10000 5900
+	10000 6000 10000 5850
 Wire Wire Line
-	10000 4850 10000 5200
+	10000 4850 10000 5150
 Wire Wire Line
 	10000 4000 10000 4150
 $Comp
@@ -114,15 +114,15 @@ $EndComp
 $Comp
 L KCL:RESISTOR_GENERAL R1
 U 1 1 5E643187
-P 10000 5550
-F 0 "R1" V 10150 5400 100 0000 R CNN
-F 1 "103" V 10000 5550 100 0001 R CNN
-F 2 "KCL:R-MFR-12" V 10000 5550 60  0001 R CNN
-F 3 "" V 10000 5550 60  0001 R CNN
-F 4 "10 кОм" V 10050 5400 60  0000 R CNN "Resistance"
-F 5 "5%" V 9950 5400 60  0000 R CNN "Tolerance"
-F 6 "0,125 Вт" V 9850 5400 60  0000 R CNN "Power"
-	1    10000 5550
+P 10000 5500
+F 0 "R1" V 10150 5350 100 0000 R CNN
+F 1 "103" V 10000 5500 100 0001 R CNN
+F 2 "KCL:R-MFR-12" V 10000 5500 60  0001 R CNN
+F 3 "" V 10000 5500 60  0001 R CNN
+F 4 "10 кОм" V 10050 5350 60  0000 R CNN "Resistance"
+F 5 "5%" V 9950 5350 60  0000 R CNN "Tolerance"
+F 6 "0,125 Вт" V 9850 5350 60  0000 R CNN "Power"
+	1    10000 5500
 	0    -1   -1   0   
 $EndComp
 Text Label 9800 4000 0    70   ~ 0
