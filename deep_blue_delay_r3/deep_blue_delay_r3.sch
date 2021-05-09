@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Deep Blue Delay"
-Date "2021-04-03"
+Date "2021-05-09"
 Rev "3B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -80,9 +80,9 @@ F 4 "COM" H 9250 21000 100 0001 C CNN "Label"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9250 21000 9250 20900
+	9250 21000 9250 20850
 Wire Wire Line
-	9250 19850 9250 20200
+	9250 19850 9250 20150
 Wire Wire Line
 	9250 19000 9250 19150
 $Comp
@@ -114,15 +114,15 @@ $EndComp
 $Comp
 L KCL:RESISTOR_GENERAL R1
 U 1 1 5FAFA9D4
-P 9250 20550
-F 0 "R1" V 9400 20400 100 0000 R CNN
-F 1 "103" V 9250 20550 100 0001 R CNN
-F 2 "KCL:R-SM-0805" V 9250 20550 60  0001 R CNN
-F 3 "" V 9250 20550 60  0001 R CNN
-F 4 "10 кОм" V 9300 20400 60  0000 R CNN "Resistance"
-F 5 "1%" V 9200 20400 60  0000 R CNN "Tolerance"
-F 6 "0805" V 9100 20400 60  0000 R CNN "Package"
-	1    9250 20550
+P 9250 20500
+F 0 "R1" V 9400 20350 100 0000 R CNN
+F 1 "103" V 9250 20500 100 0001 R CNN
+F 2 "KCL:R-SM-0805" V 9250 20500 60  0001 R CNN
+F 3 "" V 9250 20500 60  0001 R CNN
+F 4 "10 кОм" V 9300 20350 60  0000 R CNN "Resistance"
+F 5 "1%" V 9200 20350 60  0000 R CNN "Tolerance"
+F 6 "0805" V 9100 20350 60  0000 R CNN "Package"
+	1    9250 20500
 	0    -1   -1   0   
 $EndComp
 Text Label 9050 19000 0    70   ~ 0
