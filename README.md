@@ -28,17 +28,23 @@
 
 [B_Fab](/deep_blue_delay_r3/output/deep_blue_delay_r3_fab_bottom.pdf)
 
+## Distortion + [REV2]
+
+[Schematic](/distortion_+_r2/output/distortion_+_r2_schematic.pdf)
+
+[F_Fab](/distortion_+_r2/output/distortion_+_r2_fab_top.pdf)
+
 ## Fuzz Factory [REV1]
 
 [Schematic](/fuzz_factory_r1/output/fuzz_factory_r1_schematic.pdf)
 
 [F_Fab](/fuzz_factory_r1/output/fuzz_factory_r1_fab_top.pdf)
 
-## Distortion + [REV2]
+## Good Grief Overdrive [REV1]
 
-[Schematic](/distortion_+_r2/output/distortion_+_r2_schematic.pdf)
+[Schematic](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_schematic.pdf)
 
-[F_Fab](/distortion_+_r2/output/distortion_+_r2_fab_top.pdf)
+[F_Fab](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_fab_top.pdf)
 
 ## Little Angel Chorus [REV1]
 
