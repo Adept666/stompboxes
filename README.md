@@ -44,9 +44,9 @@
 
 ## Fuzz Factory [REV1]
 
-[Schematic](/fuzz_factory_r1/output/fuzz_factory_r1_schematic.pdf)
+[Schematic](/fuzz_factory_r1c_r1b/output/fuzz_factory_r1c_r1b_schematic.pdf)
 
-[F_Fab](/fuzz_factory_r1/output/fuzz_factory_r1_fab_top.pdf)
+[F_Fab](/fuzz_factory_r1c_r1b/output/fuzz_factory_r1c_r1b_fab_top.pdf)
 
 ## Good Grief Overdrive [REV1]
 
