@@ -34,6 +34,14 @@
 
 [F_Fab](/distortion_+_r2/output/distortion_+_r2_fab_top.pdf)
 
+## Fishtaur [REV1]
+
+[Schematic](/fishtaur_r1a/output/fishtaur_r1a_schematic.pdf)
+
+[F_Fab](/fishtaur_r1a/output/fishtaur_r1a_fab_top.pdf)
+
+[Gerber](/fishtaur_r1a/output/fishtaur_r1a_gerber.zip)
+
 ## Fuzz Factory [REV1]
 
 [Schematic](/fuzz_factory_r1/output/fuzz_factory_r1_schematic.pdf)
