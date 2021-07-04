@@ -46,9 +46,25 @@
 
 ## Fuzz Factory [REV1]
 
+### Main Board [REV1C] / Potentiometer Board [REV1B]
+
 [Schematic](/fuzz_factory_r1c_r1b/output/fuzz_factory_r1c_r1b_schematic.pdf)
 
 [F_Fab](/fuzz_factory_r1c_r1b/output/fuzz_factory_r1c_r1b_fab_top.pdf)
+
+[Gerber (Main Board)](/fuzz_factory_r1c_r1b/output/fuzz_factory_main_board_r1c_gerber.zip)
+
+[Gerber (Potentiometer Board)](/fuzz_factory_r1b_r1b/output/fuzz_factory_potentiometer_board_r1b_gerber.zip)
+
+### Main Board [REV1B] / Potentiometer Board [REV1B]
+
+[Schematic](/fuzz_factory_r1b_r1b/output/fuzz_factory_r1b_r1b_schematic.pdf)
+
+[F_Fab](/fuzz_factory_r1b_r1b/output/fuzz_factory_r1b_r1b_fab_top.pdf)
+
+[Gerber (Main Board)](/fuzz_factory_r1b_r1b/output/fuzz_factory_main_board_r1b_gerber.zip)
+
+[Gerber (Potentiometer Board)](/fuzz_factory_r1b_r1b/output/fuzz_factory_potentiometer_board_r1b_gerber.zip)
 
 ## Good Grief Overdrive [REV1]
 
