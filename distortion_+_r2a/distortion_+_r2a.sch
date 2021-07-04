@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Distortion +"
-Date "2021-05-09"
+Date "2021-07-04"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -930,7 +930,7 @@ U 1 1 5E69D32A
 P 10500 1250
 F 0 "VE1" H 10500 1750 100 0000 C CNN
 F 1 "B013" H 10500 1250 100 0001 C CNN
-F 2 "SBKCL:B013_distortion_+_r2a" H 10500 1250 60  0001 C CNN
+F 2 "SBEL:B013_A1" H 10500 1250 60  0001 C CNN
 F 3 "" H 10500 1250 60  0001 C CNN
 F 4 "B013" H 10500 1650 60  0000 C CNN "Product"
 F 5 "Gainta" H 10500 1550 60  0000 C CNN "Manufacturer"

@@ -1,4 +1,4 @@
-update=Сб 03 апр 2021 18:12:35
+update=Чт 20 мая 2021 19:02:13
 version=1
 last_client=kicad
 [cvpcb]
@@ -217,7 +217,7 @@ Enabled=0
 [pcbnew/Layer.Eco1.User]
 Enabled=1
 [pcbnew/Layer.Eco2.User]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Edge.Cuts]
 Enabled=1
 [pcbnew/Layer.Margin]

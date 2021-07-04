@@ -30,9 +30,11 @@
 
 ## Distortion + [REV2]
 
-[Schematic](/distortion_+_r2/output/distortion_+_r2_schematic.pdf)
+[Schematic](/distortion_+_r2a/output/distortion_+_r2a_schematic.pdf)
 
-[F_Fab](/distortion_+_r2/output/distortion_+_r2_fab_top.pdf)
+[F_Fab](/distortion_+_r2a/output/distortion_+_r2a_fab_top.pdf)
+
+[Gerber](/distortion_+_r2a/output/distortion_+_r2a_gerber.zip)
 
 ## Fishtaur [REV1]
 
