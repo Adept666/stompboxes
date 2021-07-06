@@ -5,7 +5,7 @@ $Descr A1 33110 23386
 encoding utf-8
 Sheet 1 1
 Title "Fishtaur"
-Date "2021-07-04"
+Date "2021-07-07"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -311,7 +311,7 @@ F 2 "KCL:R-MFR-25" H 13250 8500 60  0001 C CNN
 F 3 "" H 13250 8500 60  0001 C CNN
 F 4 "430 кОм" H 13250 8850 60  0000 C CNN "Resistance"
 F 5 "1%" H 13250 8750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 13250 8650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 13250 8650 60  0000 C CNN "Power"
 	1    13250 8500
 	1    0    0    -1  
 $EndComp
@@ -373,7 +373,7 @@ F 2 "KCL:R-MFR-25" H 12000 8500 60  0001 C CNN
 F 3 "" H 12000 8500 60  0001 C CNN
 F 4 "15 кОм" H 12000 8850 60  0000 C CNN "Resistance"
 F 5 "1%" H 12000 8750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 12000 8650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 12000 8650 60  0000 C CNN "Power"
 	1    12000 8500
 	1    0    0    -1  
 $EndComp
@@ -398,7 +398,7 @@ F 2 "KCL:R-MFR-25" H 15250 7250 60  0001 C CNN
 F 3 "" H 15250 7250 60  0001 C CNN
 F 4 "1,0 кОм" H 15250 7600 60  0000 C CNN "Resistance"
 F 5 "1%" H 15250 7500 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 15250 7400 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 15250 7400 60  0000 C CNN "Power"
 	1    15250 7250
 	1    0    0    -1  
 $EndComp
@@ -489,7 +489,7 @@ F 2 "KCL:R-MFR-25" H 18000 7250 60  0001 C CNN
 F 3 "" H 18000 7250 60  0001 C CNN
 F 4 "47 кОм" H 18000 7600 60  0000 C CNN "Resistance"
 F 5 "1%" H 18000 7500 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 18000 7400 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 18000 7400 60  0000 C CNN "Power"
 	1    18000 7250
 	1    0    0    -1  
 $EndComp
@@ -605,7 +605,7 @@ F 2 "KCL:R-MFR-25" H 18000 5500 60  0001 C CNN
 F 3 "" H 18000 5500 60  0001 C CNN
 F 4 "15 кОм" H 18000 5850 60  0000 C CNN "Resistance"
 F 5 "1%" H 18000 5750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 18000 5650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 18000 5650 60  0000 C CNN "Power"
 	1    18000 5500
 	1    0    0    -1  
 $EndComp
@@ -619,7 +619,7 @@ F 2 "KCL:R-MFR-25" H 15250 5500 60  0001 C CNN
 F 3 "" H 15250 5500 60  0001 C CNN
 F 4 "1,5 кОм" H 15250 5850 60  0000 C CNN "Resistance"
 F 5 "5%" H 15250 5750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 15250 5650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 15250 5650 60  0000 C CNN "Power"
 	1    15250 5500
 	1    0    0    -1  
 $EndComp
@@ -665,7 +665,7 @@ F 2 "KCL:R-MFR-25" H 9000 7000 60  0001 C CNN
 F 3 "" H 9000 7000 60  0001 C CNN
 F 4 "10 кОм" H 9000 7350 60  0000 C CNN "Resistance"
 F 5 "1%" H 9000 7250 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 9000 7150 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 9000 7150 60  0000 C CNN "Power"
 	1    9000 7000
 	1    0    0    -1  
 $EndComp
@@ -719,7 +719,7 @@ F 2 "KCL:R-MFR-25" H 3250 7500 60  0001 C CNN
 F 3 "" H 3250 7500 60  0001 C CNN
 F 4 "10 кОм" H 3250 7850 60  0000 C CNN "Resistance"
 F 5 "1%" H 3250 7750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 3250 7650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 3250 7650 60  0000 C CNN "Power"
 	1    3250 7500
 	1    0    0    -1  
 $EndComp
@@ -819,7 +819,7 @@ F 2 "KCL:R-MFR-25" H 18000 4000 60  0001 C CNN
 F 3 "" H 18000 4000 60  0001 C CNN
 F 4 "560 Ом" H 18000 4350 60  0000 C CNN "Resistance"
 F 5 "1%" H 18000 4250 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 18000 4150 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 18000 4150 60  0000 C CNN "Power"
 	1    18000 4000
 	1    0    0    -1  
 $EndComp
@@ -881,7 +881,7 @@ F 2 "KCL:R-MFR-25" H 25750 4750 60  0001 C CNN
 F 3 "" H 25750 4750 60  0001 C CNN
 F 4 "4,7 кОм" H 25750 5100 60  0000 C CNN "Resistance"
 F 5 "5%" H 25750 5000 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 25750 4900 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 25750 4900 60  0000 C CNN "Power"
 	1    25750 4750
 	1    0    0    -1  
 $EndComp
@@ -914,7 +914,7 @@ F 2 "KCL:R-MFR-25" H 27750 7250 60  0001 C CNN
 F 3 "" H 27750 7250 60  0001 C CNN
 F 4 "560 Ом" H 27750 7600 60  0000 C CNN "Resistance"
 F 5 "1%" H 27750 7500 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 27750 7400 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 27750 7400 60  0000 C CNN "Power"
 	1    27750 7250
 	1    0    0    -1  
 $EndComp
@@ -938,20 +938,6 @@ F 4 "COM" H 28250 8250 100 0001 C CNN "Label"
 $EndComp
 Wire Wire Line
 	28250 8100 28250 8250
-$Comp
-L KCL:RESISTOR_GENERAL R29
-U 1 1 60BE1971
-P 29250 7750
-F 0 "R29" H 29250 8200 100 0000 C CNN
-F 1 "683" H 29250 7750 100 0001 C CNN
-F 2 "KCL:R-MFR-25" H 29250 7750 60  0001 C CNN
-F 3 "" H 29250 7750 60  0001 C CNN
-F 4 "68 кОм" H 29250 8100 60  0000 C CNN "Resistance"
-F 5 "1%" H 29250 8000 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 29250 7900 60  0000 C CNN "Package"
-	1    29250 7750
-	1    0    0    -1  
-$EndComp
 Text Label 15850 7250 0    70   ~ 0
 LED-CIR
 Wire Wire Line
@@ -1139,7 +1125,7 @@ F 2 "KCL:R-MFR-25" H 25750 5500 60  0001 C CNN
 F 3 "" H 25750 5500 60  0001 C CNN
 F 4 "100 кОм" H 25750 5850 60  0000 C CNN "Resistance"
 F 5 "1%" H 25750 5750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 25750 5650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 25750 5650 60  0000 C CNN "Power"
 	1    25750 5500
 	1    0    0    -1  
 $EndComp
@@ -1200,7 +1186,7 @@ F 2 "KCL:R-MFR-25" H 21750 6500 60  0001 C CNN
 F 3 "" H 21750 6500 60  0001 C CNN
 F 4 "390 кОм" H 21750 6850 60  0000 C CNN "Resistance"
 F 5 "1%" H 21750 6750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 21750 6650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 21750 6650 60  0000 C CNN "Power"
 	1    21750 6500
 	1    0    0    -1  
 $EndComp
@@ -1275,7 +1261,7 @@ F 2 "KCL:R-MFR-25" H 24500 7000 60  0001 C CNN
 F 3 "" H 24500 7000 60  0001 C CNN
 F 4 "100 кОм" H 24500 7350 60  0000 C CNN "Resistance"
 F 5 "1%" H 24500 7250 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 24500 7150 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 24500 7150 60  0000 C CNN "Power"
 	1    24500 7000
 	1    0    0    -1  
 $EndComp
@@ -1543,7 +1529,7 @@ F 2 "KCL:R-MFR-25" H 29250 6500 60  0001 C CNN
 F 3 "" H 29250 6500 60  0001 C CNN
 F 4 "68 кОм" H 29250 6850 60  0000 C CNN "Resistance"
 F 5 "1%" H 29250 6750 60  0000 C CNN "Tolerance"
-F 6 "0,25 Вт" H 29250 6650 60  0000 C CNN "Package"
+F 6 "0,25 Вт" H 29250 6650 60  0000 C CNN "Power"
 	1    29250 6500
 	1    0    0    -1  
 $EndComp
@@ -2241,5 +2227,19 @@ F 3 "" V 22250 13200 60  0001 L CNN
 F 4 "COM" V 22250 13200 100 0001 L CNN "Label"
 	1    22250 13200
 	0    1    1    0   
+$EndComp
+$Comp
+L KCL:RESISTOR_GENERAL R29
+U 1 1 60BE1971
+P 29250 7750
+F 0 "R29" H 29250 8200 100 0000 C CNN
+F 1 "683" H 29250 7750 100 0001 C CNN
+F 2 "KCL:R-MFR-25" H 29250 7750 60  0001 C CNN
+F 3 "" H 29250 7750 60  0001 C CNN
+F 4 "68 кОм" H 29250 8100 60  0000 C CNN "Resistance"
+F 5 "1%" H 29250 8000 60  0000 C CNN "Tolerance"
+F 6 "0,25 Вт" H 29250 7900 60  0000 C CNN "Power"
+	1    29250 7750
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
