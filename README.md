@@ -22,11 +22,13 @@
 
 ## Deep Blue Delay [REV3]
 
-[Schematic](/deep_blue_delay_r3/output/deep_blue_delay_r3_schematic.pdf)
+[Schematic](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_schematic.pdf)
 
-[F_Fab](/deep_blue_delay_r3/output/deep_blue_delay_r3_fab_top.pdf)
+[F_Fab](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_fab_top.pdf)
 
-[B_Fab](/deep_blue_delay_r3/output/deep_blue_delay_r3_fab_bottom.pdf)
+[B_Fab](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_fab_bottom.pdf)
+
+[Gerber](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_gerber.zip)
 
 ## Distortion + [REV2]
 

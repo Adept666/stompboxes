@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Deep Blue Delay"
-Date "2021-05-09"
+Date "2021-07-29"
 Rev "3B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -394,7 +394,7 @@ U 1 1 5FAFA9D8
 P 12000 16750
 F 0 "VE1" H 12000 17250 100 0000 C CNN
 F 1 "B013" H 12000 16750 100 0001 C CNN
-F 2 "SBKCL:B013_deep_blue_delay_r3a" H 12000 16750 60  0001 C CNN
+F 2 "SBEL:B013_D1" H 12000 16750 60  0001 C CNN
 F 3 "" H 12000 16750 60  0001 C CNN
 F 4 "B013" H 12000 17150 60  0000 C CNN "Product"
 F 5 "Gainta" H 12000 17050 60  0000 C CNN "Manufacturer"
