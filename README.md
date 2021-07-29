@@ -74,11 +74,13 @@
 
 ## Little Angel Chorus [REV1]
 
-[Schematic](/little_angel_chorus_r1/output/little_angel_chorus_r1_schematic.pdf)
+[Schematic](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_schematic.pdf)
 
-[F_Fab](/little_angel_chorus_r1/output/little_angel_chorus_r1_fab_top.pdf)
+[F_Fab](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_fab_top.pdf)
 
-[B_Fab](/little_angel_chorus_r1/output/little_angel_chorus_r1_fab_bottom.pdf)
+[B_Fab](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_fab_bottom.pdf)
+
+[Gerber](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_gerber.zip)
 
 ## Requirements (Требования)
 

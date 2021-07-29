@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Little Angel Chorus"
-Date "2021-05-09"
+Date "2021-07-29"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -409,7 +409,7 @@ U 1 1 5E73CB02
 P 20750 3000
 F 0 "VE1" H 20750 3500 100 0000 C CNN
 F 1 "G0473" H 20750 3000 100 0001 C CNN
-F 2 "SBKCL:G0473_little_angel_chorus_r1a" H 20750 3000 60  0001 C CNN
+F 2 "SBEL:G0473_A1" H 20750 3000 60  0001 C CNN
 F 3 "" H 20750 3000 60  0001 C CNN
 F 4 "G0473" H 20750 3400 60  0000 C CNN "Product"
 F 5 "Gainta" H 20750 3300 60  0000 C CNN "Manufacturer"
@@ -1813,8 +1813,8 @@ F 0 "D1" H 5500 12900 100 0000 C CNN
 F 1 "78L05" H 5500 12500 100 0001 C CNN
 F 2 "KCL:P-TO-92-OUT-GND-IN" H 5500 12500 60  0001 C CNN
 F 3 "" H 5500 12500 60  0001 C CNN
-F 4 "L78L05ACZ" H 5500 12800 60  0000 C CNN "Product"
-F 5 "STMicroelectronics" H 5500 12700 60  0000 C CNN "Manufacturer"
+F 4 "78L05" H 5500 12800 60  0000 C CNN "Product"
+F 5 "TO-92" H 5500 12700 60  0000 C CNN "Package"
 	1    5500 12500
 	1    0    0    -1  
 $EndComp
