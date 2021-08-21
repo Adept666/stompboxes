@@ -84,6 +84,16 @@
 
 [Gerber](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_gerber.zip)
 
+## Salty Phaser [REV1]
+
+[Schematic](/salty_phaser_r1a/output/salty_phaser_r1a_schematic.pdf)
+
+[F_Fab](/salty_phaser_r1a/output/salty_phaser_r1a_fab_top.pdf)
+
+[B_Fab](/salty_phaser_r1a/output/salty_phaser_r1a_fab_bottom.pdf)
+
+[Gerber](/salty_phaser_r1a/output/salty_phaser_r1a_gerber.zip)
+
 ## Requirements (Требования)
 
 Работа с исходными файлами осуществляется в программе [KiCad](http://kicad-pcb.org).
