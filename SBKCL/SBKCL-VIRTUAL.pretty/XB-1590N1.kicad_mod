@@ -1,0 +1,18 @@
+(module XB-1590N1 (layer F.Cu) (tedit 61D4150B)
+  (fp_text reference REF** (at 0 -0.762) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value XB-1590N1 (at 0 -2.032) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_line (start 19.74 -9) (end 19.74 0) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 10.74 -9) (end 10.74 0) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -10.74 -9) (end -10.74 0) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -19.74 -9) (end -19.74 0) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 10.74 -9) (end 19.74 -9) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -19.74 -9) (end -10.74 -9) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -21.59 0) (end -21.59 26.67) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -21.59 26.67) (end 21.59 26.67) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -21.59 0) (end 21.59 0) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 21.59 0) (end 21.59 26.67) (layer Dwgs.User) (width 0.2))
+)
