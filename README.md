@@ -94,6 +94,14 @@
 
 [Gerber](/salty_phaser_r1a/output/salty_phaser_r1a_gerber.zip)
 
+## Тремоло Саши Огородникова [REV1]
+
+[Schematic](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_schematic.pdf)
+
+[F_Fab](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_fab_top.pdf)
+
+[B_Fab](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_fab_bottom.pdf)
+
 ## Requirements (Требования)
 
 Работа с исходными файлами осуществляется в программе [KiCad](http://kicad-pcb.org).
