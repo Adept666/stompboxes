@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 24)
     (tracks 146)
     (zones 0)
     (modules 46)
@@ -1751,6 +1751,19 @@
       (net 1 COM) (solder_mask_margin 0.2))
   )
 
+  (gr_line (start 85.09 184.785) (end 84.455 185.42) (layer B.SilkS) (width 0.2))
+  (gr_line (start 120.65 154.305) (end 120.3325 154.6225) (layer B.SilkS) (width 0.2))
+  (gr_line (start 120.65 143.51) (end 120.65 154.305) (layer B.SilkS) (width 0.2))
+  (gr_line (start 88.9 167.64) (end 87.63 167.64) (layer B.SilkS) (width 0.2))
+  (gr_line (start 123.19 167.64) (end 121.92 167.64) (layer B.SilkS) (width 0.2))
+  (gr_line (start 84.455 185.42) (end 83.82 185.42) (layer B.SilkS) (width 0.2))
+  (gr_line (start 85.09 182.88) (end 85.09 184.785) (layer B.SilkS) (width 0.2))
+  (gr_line (start 96.52 181.61) (end 95.25 182.88) (layer B.SilkS) (width 0.2) (tstamp 61D7618D))
+  (gr_line (start 95.25 182.88) (end 95.25 186.69) (layer B.SilkS) (width 0.2))
+  (gr_line (start 96.52 170.4975) (end 96.52 181.61) (layer B.SilkS) (width 0.2))
+  (gr_line (start 114.3 160.3375) (end 114.3 164.7825) (layer B.SilkS) (width 0.2))
+  (gr_line (start 95.25 182.88) (end 83.82 182.88) (layer B.SilkS) (width 0.2))
+  (gr_line (start 111.76 167.64) (end 99.06 167.64) (layer B.SilkS) (width 0.2))
   (gr_text C (at 109.22 173.355) (layer F.SilkS) (tstamp 61D5E724)
     (effects (font (size 1 1) (thickness 0.2)))
   )
