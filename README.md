@@ -30,6 +30,14 @@
 
 [Gerber](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_gerber.zip)
 
+## Edamamer [REV1]
+
+[Schematic](/edamamer_r1a/output/edamamer_r1a_schematic.pdf)
+
+[F_Fab](/edamamer_r1a/output/edamamer_r1a_fab_top.pdf)
+
+[B_Fab](/edamamer_r1a/output/edamamer_r1a_fab_bottom.pdf)
+
 ## Distortion + [REV2]
 
 [Schematic](/distortion_+_r2a/output/distortion_+_r2a_schematic.pdf)
