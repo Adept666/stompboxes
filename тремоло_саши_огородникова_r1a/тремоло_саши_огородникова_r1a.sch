@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Тремоло Саши Огородникова"
-Date "2022-01-05"
+Date "2022-01-09"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1277,7 +1277,7 @@ U 1 1 619BF44E
 P 8500 7500
 F 0 "SB1" H 8500 8300 100 0000 C CNN
 F 1 "PBS-24-302SP" H 8500 7500 100 0001 C CNN
-F 2 "SBKCL-TH-ML:SW-PBS-24-302SP-2.5-PNL-13.0" H 8500 7500 60  0001 C CNN
+F 2 "KCL-TH-ML:SW-PBS-24-302SP-2.5-PNL-13.0" H 8500 7500 60  0001 C CNN
 F 3 "" H 8500 7500 60  0001 C CNN
 F 4 "PBS-24-302SP" H 8500 8200 60  0000 C CNN "Product"
 F 5 "Daier" H 8500 8100 60  0000 C CNN "Manufacturer"
