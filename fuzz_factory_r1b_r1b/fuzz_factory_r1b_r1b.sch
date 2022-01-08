@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Fuzz Factory"
-Date "2021-07-04"
+Date "2022-01-08"
 Rev "MB:1B/PB:1B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -339,9 +339,9 @@ $EndComp
 Wire Wire Line
 	750  6750 1350 6750
 Text Label 8700 8500 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Text Label 800  6750 0    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	2750 6250 3100 6250
 $Comp
@@ -948,9 +948,9 @@ Wire Wire Line
 Wire Wire Line
 	12850 4700 13500 4700
 Text Label 13200 5000 2    70   ~ 0
-IN-SCH
+IN-CIR
 Text Label 13200 4000 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	12850 4000 13250 4000
 Wire Wire Line
@@ -1015,7 +1015,7 @@ U 1 1 5E64318D
 P 14500 8000
 F 0 "HL1" V 14400 7700 100 0000 R CNN
 F 1 "FYL-5013UWC" V 14500 8000 100 0001 R CNN
-F 2 "KCL:LED-ROUND-05.0-UNI-SH-SPACER" V 14500 8000 60  0001 R CNN
+F 2 "KCL:LED-ROUND-05.0-UNI-SH-SPACER-PNL-5.3" V 14500 8000 60  0001 R CNN
 F 3 "" V 14500 8000 60  0001 R CNN
 F 4 "FYL-5013UWC" V 14500 7700 60  0000 R CNN "Product"
 F 5 "Foryard" V 14600 7700 60  0000 R CNN "Manufacturer"
@@ -1091,7 +1091,7 @@ Wire Wire Line
 Wire Wire Line
 	12750 6500 12750 6650
 Text Label 13200 6500 2    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	13250 6500 12750 6500
 $Comp
@@ -1254,7 +1254,7 @@ $EndComp
 Wire Wire Line
 	12750 8850 12750 9000
 Text Label 13200 8000 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	13250 8000 12750 8000
 $Comp
