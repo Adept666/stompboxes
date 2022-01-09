@@ -38,6 +38,8 @@
 
 [B_Fab](/edamamer_r1a/output/edamamer_r1a_fab_bottom.pdf)
 
+[Gerber](/edamamer_r1a/output/edamamer_r1a_gerber.zip)
+
 ## Distortion + [REV2]
 
 [Schematic](/distortion_+_r2a/output/distortion_+_r2a_schematic.pdf)
@@ -55,6 +57,16 @@
 [Gerber](/fishtaur_r1a/output/fishtaur_r1a_gerber.zip)
 
 ## Fuzz Factory [REV1]
+
+### Main Board [REV1D] / Potentiometer Board [REV1C]
+
+[Schematic](/fuzz_factory_r1d_r1c/output/fuzz_factory_r1d_r1c_schematic.pdf)
+
+[F_Fab](/fuzz_factory_r1d_r1c/output/fuzz_factory_r1d_r1c_fab_top.pdf)
+
+[Gerber (Main Board)](/fuzz_factory_r1d_r1c/output/fuzz_factory_main_board_r1d_gerber.zip)
+
+[Gerber (Potentiometer Board)](/fuzz_factory_r1d_r1c/output/fuzz_factory_potentiometer_board_r1c_gerber.zip)
 
 ### Main Board [REV1C] / Potentiometer Board [REV1B]
 
@@ -109,6 +121,8 @@
 [F_Fab](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_fab_top.pdf)
 
 [B_Fab](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_fab_bottom.pdf)
+
+[Gerber](/тремоло_саши_огородникова_r1a/output/тремоло_саши_огородникова_r1a_gerber.zip)
 
 ## Requirements (Требования)
 
