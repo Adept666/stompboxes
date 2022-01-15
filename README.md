@@ -6,19 +6,19 @@
 
 ## Big Muff [REV2] (Bass)
 
-[Schematic](/big_muff_r2_bass/output/big_muff_r2_bass_schematic.pdf)
+[Schematic](/big_muff_r2a/bass/output/big_muff_r2a_bass_schematic.pdf)
 
-[F_Fab](/big_muff_r2_bass/output/big_muff_r2_bass_fab_top.pdf)
+[F_Fab](/big_muff_r2a/bass/output/big_muff_r2a_bass_fab_top.pdf)
 
-[B_Fab](/big_muff_r2_bass/output/big_muff_r2_bass_fab_bottom.pdf)
+[B_Fab](/big_muff_r2a/bass/output/big_muff_r2a_bass_fab_bottom.pdf)
 
 ## Big Muff [REV2] (NYC)
 
-[Schematic](/big_muff_r2_nyc/output/big_muff_r2_nyc_schematic.pdf)
+[Schematic](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_schematic.pdf)
 
-[F_Fab](/big_muff_r2_nyc/output/big_muff_r2_nyc_fab_top.pdf)
+[F_Fab](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_fab_top.pdf)
 
-[B_Fab](/big_muff_r2_nyc/output/big_muff_r2_nyc_fab_bottom.pdf)
+[B_Fab](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_fab_bottom.pdf)
 
 ## Deep Blue Delay [REV3]
 
