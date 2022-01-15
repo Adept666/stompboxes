@@ -4,7 +4,11 @@
 
 ![Distortion + PCBs](http://sun9-67.userapi.com/ioU71lmwXr9TK0_9o4IcflxXugrnQxBiaA8EZA/to2xvcd5ym0.jpg)
 
-## Big Muff [REV2] (Bass)
+## Big Muff [REV2]
+
+[Gerber](/big_muff_r2a/output/big_muff_r2a_gerber.zip)
+
+### Bass
 
 [Schematic](/big_muff_r2a/bass/output/big_muff_r2a_bass_schematic.pdf)
 
@@ -12,7 +16,7 @@
 
 [B_Fab](/big_muff_r2a/bass/output/big_muff_r2a_bass_fab_bottom.pdf)
 
-## Big Muff [REV2] (NYC)
+### NYC
 
 [Schematic](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_schematic.pdf)
 
@@ -113,6 +117,22 @@
 [B_Fab](/salty_phaser_r1a/output/salty_phaser_r1a_fab_bottom.pdf)
 
 [Gerber](/salty_phaser_r1a/output/salty_phaser_r1a_gerber.zip)
+
+## Копка Земли [REV1]
+
+[Gerber](/копка_земли_r1a/output/копка_земли_r1a_gerber.zip)
+
+### Down-Tuned
+
+[Schematic](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_schematic.pdf)
+
+[F_Fab](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_fab_top.pdf)
+
+### Standard-Tuned
+
+[Schematic](/копка_земли_r1a/standard-tuned/output/копка_земли_r1a_standard-tuned_schematic.pdf)
+
+[F_Fab](/копка_земли_r1a/standard-tuned/output/копка_земли_r1a_standard-tuned_fab_top.pdf)
 
 ## Тремоло Саши Огородникова [REV1]
 
