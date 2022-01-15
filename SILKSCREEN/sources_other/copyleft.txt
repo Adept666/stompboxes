@@ -26,11 +26,20 @@ jumping_fish.svg (http://freesvg.org/jumping-fish-vector-image)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+mole.png
+Алексей Джерасимов (http://vk.com/struktualnyj_lingvist)
+CC BY-SA 4.0
+http://creativecommons.org/licenses/by-sa/4.0
+
 ocean_waves.svg (http://uxwing.com/ocean-waves-icon)
 UXWing License
 http://uxwing.com/license
 
 salty_cracker.jpg
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+shovel.svg (http://www.svgrepo.com/svg/88016/shovel)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
