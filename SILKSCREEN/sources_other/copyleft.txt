@@ -39,6 +39,11 @@ salty_cracker.jpg
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+sasha_ogorodnikov.jpg
+Мария Алейникова (http://vk.com/mariya.blik)
+CC BY-SA 4.0
+http://creativecommons.org/licenses/by-sa/4.0
+
 shovel.svg (http://www.svgrepo.com/svg/88016/shovel)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
