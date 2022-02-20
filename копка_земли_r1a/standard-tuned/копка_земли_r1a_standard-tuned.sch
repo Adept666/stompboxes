@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Копка Земли (Standard-Tuned)"
-Date "2022-01-15"
+Date "2022-02-20"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1652,7 +1652,7 @@ L KCL:RESISTOR_GENERAL R2
 U 1 1 61E22E65
 P 13500 12250
 F 0 "R2" V 13650 12100 100 0000 R CNN
-F 1 "105" V 13500 12250 100 0001 R CNN
+F 1 "X" V 13500 12250 100 0001 R CNN
 F 2 "KCL-TH-ML:R-MFR-25" V 13500 12250 60  0001 R CNN
 F 3 "" V 13500 12250 60  0001 R CNN
 F 4 "1,0 МОм" V 13550 12100 60  0000 R CNN "Resistance"
