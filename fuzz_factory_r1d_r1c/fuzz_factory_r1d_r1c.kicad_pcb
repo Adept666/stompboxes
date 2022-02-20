@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 45)
+    (drawings 46)
     (tracks 204)
     (zones 0)
     (modules 43)
@@ -12,7 +12,7 @@
   (page A4)
   (title_block
     (title "Fuzz Factory")
-    (date 2022-01-09)
+    (date 2022-02-20)
     (rev MB:1D/PB:1C)
     (company "Igor Ivanov")
     (comment 1 https://github.com/Adept666)
@@ -174,7 +174,7 @@
     (fp_text reference R9 (at -4.445 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)) (justify left))
     )
-    (fp_text value 105 (at 0 0 180) (layer F.Fab)
+    (fp_text value X (at 0 0 180) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start -1.7 -0.95) (end 1.7 -0.95) (layer F.Fab) (width 0.2))
@@ -1552,6 +1552,9 @@
     (fp_arc (start 52.25 27.1) (end 52.25 23.85) (angle -90) (layer Eco1.User) (width 0.4))
   )
 
+  (gr_text "1. R9 не устанавливать." (at 176.53 162.56) (layer F.Fab) (tstamp 62128144)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
   (gr_line (start 196.215 108.28) (end 199.39 108.28) (layer F.SilkS) (width 0.2))
   (gr_line (start 199.39 106.68) (end 199.39 108.28) (layer F.SilkS) (width 0.2) (tstamp 61DA2635))
   (gr_line (start 95.25 106.68) (end 95.25 108.28) (layer F.SilkS) (width 0.2) (tstamp 61DA260C))
@@ -1645,7 +1648,6 @@
   (segment (start 194.43 114.3) (end 194.43 111.64) (width 1) (layer B.Cu) (net 8))
   (segment (start 194.43 111.64) (end 198.12 107.95) (width 1) (layer B.Cu) (net 8))
   (segment (start 198.12 107.95) (end 198.12 105.41) (width 1) (layer B.Cu) (net 8))
-  (segment (start 104.14 115.57) (end 110.49 115.57) (width 0.6) (layer B.Cu) (net 33))
   (segment (start 179.07 97.79) (end 176.53 97.79) (width 1) (layer B.Cu) (net 9))
   (segment (start 176.53 97.79) (end 173.99 100.33) (width 1) (layer B.Cu) (net 9))
   (segment (start 173.99 100.33) (end 173.99 106.68) (width 1) (layer B.Cu) (net 9))
@@ -1813,6 +1815,7 @@
   (segment (start 139.89 131.89) (end 138.43 133.35) (width 1) (layer B.Cu) (net 32))
   (segment (start 138.43 133.35) (end 135.89 133.35) (width 1) (layer B.Cu) (net 32))
   (segment (start 135.89 133.35) (end 129.54 133.35) (width 1) (layer B.Cu) (net 32))
+  (segment (start 104.14 115.57) (end 110.49 115.57) (width 0.6) (layer B.Cu) (net 33))
   (segment (start 112.395 115.57) (end 113.03 114.935) (width 0.6) (layer B.Cu) (net 33))
   (segment (start 110.49 115.57) (end 112.395 115.57) (width 0.6) (layer B.Cu) (net 33))
   (segment (start 113.03 113.665) (end 113.665 113.03) (width 0.6) (layer B.Cu) (net 33))

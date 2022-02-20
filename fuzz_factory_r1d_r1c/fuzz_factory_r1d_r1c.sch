@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Fuzz Factory"
-Date "2022-01-09"
+Date "2022-02-20"
 Rev "MB:1D/PB:1C"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1376,7 +1376,7 @@ L KCL:RESISTOR_GENERAL R9
 U 1 1 61DC0879
 P 15000 7000
 F 0 "R9" V 15150 6850 100 0000 R CNN
-F 1 "105" V 15000 7000 100 0001 R CNN
+F 1 "X" V 15000 7000 100 0001 R CNN
 F 2 "KCL-TH-SL:R-MFR-12" V 15000 7000 60  0001 R CNN
 F 3 "" V 15000 7000 60  0001 R CNN
 F 4 "1,0 МОм" V 15050 6850 60  0000 R CNN "Resistance"
