@@ -94,14 +94,6 @@
 
 ## Good Grief Overdrive [REV1]
 
-### [REV1A]
-
-[Schematic](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_schematic.pdf)
-
-[F_Fab](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_fab_top.pdf)
-
-[Gerber](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_gerber.zip)
-
 ### [REV1B]
 
 [Schematic](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_schematic.pdf)
@@ -109,6 +101,14 @@
 [F_Fab](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_fab_top.pdf)
 
 [Gerber](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_gerber.zip)
+
+### [REV1A]
+
+[Schematic](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_schematic.pdf)
+
+[F_Fab](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_fab_top.pdf)
+
+[Gerber](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_gerber.zip)
 
 ## Little Angel Chorus [REV1]
 
