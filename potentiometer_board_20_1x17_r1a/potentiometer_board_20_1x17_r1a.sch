@@ -4,8 +4,8 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "Potentiometer Board 20 17"
-Date "2021-01-16"
+Title "Potentiometer Board 20 1x17"
+Date "2022-03-31"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
