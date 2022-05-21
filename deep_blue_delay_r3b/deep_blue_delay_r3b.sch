@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Deep Blue Delay"
-Date "2022-03-29"
+Date "2022-05-21"
 Rev "3B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -37,9 +37,9 @@ Wire Wire Line
 Wire Wire Line
 	7100 17700 7750 17700
 Text Label 7450 18000 2    70   ~ 0
-IN-SCH
+IN-CIR
 Text Label 7450 17000 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	7100 17000 7500 17000
 Wire Wire Line
@@ -180,7 +180,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 19000 7000 19150
 Text Label 7450 19000 2    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	7500 19000 7000 19000
 $Comp
@@ -487,7 +487,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 20500 7000 20650
 Text Label 7450 20500 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	7500 20500 7000 20500
 $Comp
@@ -524,7 +524,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 4250 5350 4250
 Text Label 14450 4500 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	10750 7600 10750 7350
 Wire Wire Line
@@ -1107,7 +1107,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" H 7500 4500 60  0001 C CNN
 	1    0    0    1   
 $EndComp
 Text Label 4800 4250 0    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	6750 9500 7000 9500
 Wire Wire Line
@@ -1797,20 +1797,6 @@ $EndComp
 Wire Wire Line
 	12500 18250 12500 18125
 $Comp
-L KCL:RESISTOR_GENERAL R6
-U 1 1 5DC87CB4
-P 7000 11750
-F 0 "R6" H 7000 12200 100 0000 C CNN
-F 1 "330" H 7000 11750 100 0001 C CNN
-F 2 "KCL:R-SM-0805" H 7000 11750 60  0001 C CNN
-F 3 "" H 7000 11750 60  0001 C CNN
-F 4 "33 Ом" H 7000 12100 60  0000 C CNN "Resistance"
-F 5 "1%" H 7000 12000 60  0000 C CNN "Tolerance"
-F 6 "0805" H 7000 11900 60  0000 C CNN "Package"
-	1    7000 11750
-	1    0    0    -1  
-$EndComp
-$Comp
 L KCL:RESISTOR_VARIABLE RP2
 U 1 1 5E986834
 P 10750 8500
@@ -1845,4 +1831,17 @@ Wire Wire Line
 	9750 6500 10750 6500
 Wire Wire Line
 	8750 6500 9750 6500
+$Comp
+L KCL:RESISTOR_GENERAL R6
+U 1 1 5DC87CB4
+P 7000 11750
+F 0 "R6" H 7000 12100 100 0000 C CNN
+F 1 "0" H 7000 11750 100 0001 C CNN
+F 2 "KCL:R-SM-0805" H 7000 11750 60  0001 C CNN
+F 3 "" H 7000 11750 60  0001 C CNN
+F 4 "0" H 7000 12000 60  0000 C CNN "Resistance"
+F 5 "0805" H 7000 11900 60  0000 C CNN "Package"
+	1    7000 11750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
