@@ -132,15 +132,33 @@
 
 ## Копка Земли [REV1]
 
+### [REV1B]
+
+[Gerber](/копка_земли_r1b/output/копка_земли_r1b_gerber.zip)
+
+### [B] Down-Tuned
+
+[Schematic](/копка_земли_r1b/down-tuned/output/копка_земли_r1b_down-tuned_schematic.pdf)
+
+[F_Fab](/копка_земли_r1b/down-tuned/output/копка_земли_r1b_down-tuned_fab_top.pdf)
+
+### [B] Standard-Tuned
+
+[Schematic](/копка_земли_r1b/standard-tuned/output/копка_земли_r1b_standard-tuned_schematic.pdf)
+
+[F_Fab](/копка_земли_r1b/standard-tuned/output/копка_земли_r1b_standard-tuned_fab_top.pdf)
+
+### [REV1A]
+
 [Gerber](/копка_земли_r1a/output/копка_земли_r1a_gerber.zip)
 
-### Down-Tuned
+### [A] Down-Tuned
 
 [Schematic](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_schematic.pdf)
 
 [F_Fab](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_fab_top.pdf)
 
-### Standard-Tuned
+### [A] Standard-Tuned
 
 [Schematic](/копка_земли_r1a/standard-tuned/output/копка_земли_r1a_standard-tuned_schematic.pdf)
 
