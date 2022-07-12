@@ -1,4 +1,4 @@
-update=Чт 31 мар 2022 20:09:23
+update=Вс 12 июн 2022 21:17:50
 version=1
 last_client=kicad
 [cvpcb]
@@ -209,7 +209,7 @@ Enabled=0
 [pcbnew/Layer.B.Mask]
 Enabled=1
 [pcbnew/Layer.F.Mask]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Dwgs.User]
 Enabled=0
 [pcbnew/Layer.Cmts.User]
