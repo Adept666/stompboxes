@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "Potentiometer Board 18 3x17 Dual-Single-Single"
+Title "1590BB Potentiometer Board 18 3x17 Dual-Single-Single"
 Date "2022-07-16"
 Rev "1A"
 Comp "Igor Ivanov"
