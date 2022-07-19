@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CD4013_COMPACT
+F http://www.ti.com/lit/ds/symlink/cd4013b.pdf
+$ENDCMP
+#
 $CMP HT8970_COMPACT
 F http://www.holtek.com/documents/10179/116711/8970v110.pdf
 $ENDCMP
