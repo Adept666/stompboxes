@@ -5,7 +5,7 @@ $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
 Title "1590BB2 Connector Board Extended"
-Date "2022-07-19"
+Date "2022-07-21"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -22,7 +22,7 @@ F 1 "POWER_V" H 6250 2000 100 0001 C CNN
 F 2 "" H 6250 2000 60  0001 C CNN
 F 3 "" H 6250 2000 60  0001 C CNN
 F 4 "V" H 6250 2250 100 0000 C CNN "Label"
-F 5 "+9,0 В" H 6250 2150 60  0000 C CNN "Voltage"
+F 5 "+9 В" H 6250 2150 60  0000 C CNN "Voltage"
 	1    6250 2000
 	1    0    0    -1  
 $EndComp
