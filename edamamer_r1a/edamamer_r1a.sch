@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Edamamer"
-Date "2022-02-20"
+Date "2022-07-21"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -512,7 +512,7 @@ F 2 "SBKCL-TH-ML:RPB-1590N1-18-3x17-1.6-PNL-7.4-2.8" V 9000 4500 60  0001 R CNN
 F 3 "" V 9000 4500 60  0001 R CNN
 F 4 "DRIVE" V 9050 4350 100 0000 R CNN "Title"
 F 5 "500 кОм (A)" V 8900 4350 60  0000 R CNN "Resistance"
-F 6 "R16K1-L20KC" V 8800 4350 60  0000 R CNN "Product"
+F 6 "R16K1-L15KC" V 8800 4350 60  0000 R CNN "Product"
 F 7 "Song Huei Electric" V 8700 4450 60  0000 R CNN "Manufacturer"
 	3    9000 4500
 	0    1    -1   0   
@@ -527,7 +527,7 @@ F 2 "SBKCL-TH-ML:RPB-1590N1-18-3x17-1.6-PNL-7.4-2.8" V 13000 4000 60  0001 R CNN
 F 3 "" V 13000 4000 60  0001 R CNN
 F 4 "TONE" V 13100 3850 100 0000 R CNN "Title"
 F 5 "500 кОм (A)" V 12950 3850 60  0000 R CNN "Resistance"
-F 6 "R16K1-L20KC" V 12850 3850 60  0000 R CNN "Product"
+F 6 "R16K1-L15KC" V 12850 3850 60  0000 R CNN "Product"
 F 7 "Song Huei Electric" V 12750 3850 60  0000 R CNN "Manufacturer"
 	2    13000 4000
 	0    1    -1   0   
@@ -792,7 +792,7 @@ F 2 "SBKCL-TH-ML:RPB-1590N1-18-3x17-1.6-PNL-7.4-2.8" V 20250 4000 60  0001 R CNN
 F 3 "" V 20250 4000 60  0001 R CNN
 F 4 "VOL" V 20300 3850 100 0000 R CNN "Title"
 F 5 "100 кОм (A)" V 20150 3850 60  0000 R CNN "Resistance"
-F 6 "R16K1-L20KC" V 20050 3850 60  0000 R CNN "Product"
+F 6 "R16K1-L15KC" V 20050 3850 60  0000 R CNN "Product"
 F 7 "Song Huei Electric" V 19950 3950 60  0000 R CNN "Manufacturer"
 	1    20250 4000
 	0    1    -1   0   
