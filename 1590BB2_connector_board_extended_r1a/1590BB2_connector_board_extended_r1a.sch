@@ -784,9 +784,9 @@ Wire Wire Line
 Wire Wire Line
 	12250 8500 13250 8500
 Text Label 8800 2500 0    70   ~ 0
-IN-BUF
+BUF-IN
 Text Label 14450 2750 2    70   ~ 0
-OUT-BUF
+BUF-OUT
 Wire Wire Line
 	10750 8000 11750 8000
 Wire Wire Line
@@ -794,11 +794,11 @@ Wire Wire Line
 Wire Wire Line
 	12250 8000 13250 8000
 Text Label 13200 8000 2    70   ~ 0
-IN-BUF
+BUF-IN
 Text Label 10800 8500 0    70   ~ 0
 DRY-OUT-CON
 Text Label 13200 8500 2    70   ~ 0
-OUT-BUF
+BUF-OUT
 Text Label 10800 8000 0    70   ~ 0
 IN-CON
 Connection ~ 12750 2750
