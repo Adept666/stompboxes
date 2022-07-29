@@ -5,7 +5,7 @@ $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
 Title "1590N1 Connector Board"
-Date "2022-07-19"
+Date "2022-07-29"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -152,7 +152,7 @@ U 1 1 619BF44A
 P 2250 8000
 F 0 "GB1" H 2500 8150 100 0000 L CNN
 F 1 "PP3" H 2250 8000 100 0001 L CNN
-F 2 "KCL:B-PP3-HV" H 2250 8000 60  0001 L CNN
+F 2 "KCL-VIRTUAL:B-PP3-HV" H 2250 8000 60  0001 L CNN
 F 3 "" H 2250 8000 60  0001 L CNN
 F 4 "9 В" H 2500 8050 60  0000 L CNN "Voltage"
 F 5 "PP3" H 2500 7950 60  0000 L CNN "Size"
