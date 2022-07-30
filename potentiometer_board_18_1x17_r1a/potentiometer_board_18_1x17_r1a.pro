@@ -1,4 +1,4 @@
-update=Вс 12 июн 2022 21:17:50
+update=Сб 30 июл 2022 14:23:56
 version=1
 last_client=kicad
 [cvpcb]
@@ -62,8 +62,8 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.2
-SolderMaskMinWidth=0.09999999999999999
+SolderMaskClearance=0
+SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
@@ -227,7 +227,7 @@ Enabled=1
 [pcbnew/Layer.F.CrtYd]
 Enabled=1
 [pcbnew/Layer.B.Fab]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Fab]
 Enabled=1
 [pcbnew/Layer.Rescue]
