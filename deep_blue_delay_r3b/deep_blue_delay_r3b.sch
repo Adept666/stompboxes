@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Deep Blue Delay"
-Date "2022-05-21"
+Date "2022-12-09"
 Rev "3B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1569,8 +1569,8 @@ F 1 "473" H 11750 8750 100 0001 L CNN
 F 2 "KCL:C-SM-0805" H 11750 8750 60  0001 L CNN
 F 3 "" H 11750 8750 60  0001 L CNN
 F 4 "47 нФ" H 12000 8850 60  0000 L CNN "Capacitance"
-F 5 "5%" H 12000 8750 60  0000 L CNN "Tolerance"
-F 6 "100 В" H 12000 8650 60  0000 L CNN "Voltage"
+F 5 "10%" H 12000 8750 60  0000 L CNN "Tolerance"
+F 6 "50 В" H 12000 8650 60  0000 L CNN "Voltage"
 F 7 "0805" H 12000 8550 60  0000 L CNN "Package"
 	1    11750 8750
 	1    0    0    -1  
