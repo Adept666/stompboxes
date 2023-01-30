@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title "Spacer MTS-1xx-A2")
-    (date 2023-01-30)
+    (date 2023-01-31)
     (rev 1A)
     (company "Igor Ivanov")
     (comment 1 https://github.com/Adept666)
@@ -22,12 +22,10 @@
   (layers
     (0 F.Cu jumper)
     (31 B.Cu signal)
-    (38 B.Mask user)
     (44 Edge.Cuts user)
     (45 Margin user)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
-    (49 F.Fab user)
   )
 
   (setup
