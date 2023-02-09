@@ -1,4 +1,4 @@
-update=Вс 02 янв 2022 02:47:41
+update=Пт 10 фев 2023 05:23:31
 version=1
 last_client=kicad
 [cvpcb]
@@ -37,8 +37,8 @@ MinMicroViaDrill=0
 MinHoleToHole=0.25
 TrackWidth1=1
 TrackWidth2=0.6
-ViaDiameter1=2
-ViaDrill1=1
+ViaDiameter1=1.5
+ViaDrill1=0.5
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -237,8 +237,8 @@ Enabled=0
 Name=Default
 Clearance=0
 TrackWidth=1
-ViaDiameter=2
-ViaDrill=1
+ViaDiameter=1.5
+ViaDrill=0.5
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
