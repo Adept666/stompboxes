@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Big Muff (NYC)"
-Date "2022-11-27"
+Date "2023-02-10"
 Rev "3A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1198,7 +1198,7 @@ U 1 1 62760F04
 P 19250 3000
 F 0 "VE1" H 19250 3500 100 0000 C CNN
 F 1 "B013" H 19250 3000 100 0001 C CNN
-F 2 "SBEL:B013_D1" H 19250 3000 60  0001 C CNN
+F 2 "SBEL:B013_E1" H 19250 3000 60  0001 C CNN
 F 3 "" H 19250 3000 60  0001 C CNN
 F 4 "B013" H 19250 3400 60  0000 C CNN "Product"
 F 5 "Gainta" H 19250 3300 60  0000 C CNN "Manufacturer"
