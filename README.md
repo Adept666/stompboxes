@@ -4,6 +4,26 @@
 
 ![Distortion + PCBs](http://sun9-67.userapi.com/ioU71lmwXr9TK0_9o4IcflxXugrnQxBiaA8EZA/to2xvcd5ym0.jpg)
 
+## Big Muff [REV3]
+
+[Gerber](/big_muff_r3a/output/big_muff_r3a_gerber.zip)
+
+### Bass
+
+[Schematic](/big_muff_r3a/bass/output/big_muff_r3a_bass_schematic.pdf)
+
+[F_Fab](/big_muff_r3a/bass/output/big_muff_r3a_bass_fab_top.pdf)
+
+[B_Fab](/big_muff_r3a/bass/output/big_muff_r3a_bass_fab_bottom.pdf)
+
+### NYC
+
+[Schematic](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_schematic.pdf)
+
+[F_Fab](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_fab_top.pdf)
+
+[B_Fab](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_fab_bottom.pdf)
+
 ## Big Muff [REV2]
 
 [Gerber](/big_muff_r2a/output/big_muff_r2a_gerber.zip)
@@ -23,6 +43,16 @@
 [F_Fab](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_fab_top.pdf)
 
 [B_Fab](/big_muff_r2a/nyc/output/big_muff_r2a_nyc_fab_bottom.pdf)
+
+## Crumbwave Multiplexer [REV1]
+
+[Schematic](/crumbwave_multiplexer_r1a/output/crumbwave_multiplexer_r1a_schematic.pdf)
+
+[F_Fab](/crumbwave_multiplexer_r1a/output/crumbwave_multiplexer_r1a_fab_top.pdf)
+
+[B_Fab](/crumbwave_multiplexer_r1a/output/crumbwave_multiplexer_r1a_fab_bottom.pdf)
+
+[Gerber](/crumbwave_multiplexer_r1a/output/crumbwave_multiplexer_r1a_gerber.zip)
 
 ## Deep Blue Delay [REV3]
 
