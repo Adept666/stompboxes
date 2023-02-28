@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "1590BB2 Connector Board Extended"
-Date "2022-07-30"
+Date "2023-02-28"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -722,13 +722,12 @@ $Comp
 L KCL:RESISTOR_GENERAL B.R1
 U 1 1 62D4503C
 P 9750 3000
-F 0 "B.R1" V 9900 2850 100 0000 R CNN
-F 1 "105" V 9750 3000 100 0001 R CNN
+F 0 "B.R1" V 9850 2850 100 0000 R CNN
+F 1 "X" V 9750 3000 100 0001 R CNN
 F 2 "KCL-SM:R-SM-1206" V 9750 3000 60  0001 R CNN
 F 3 "" V 9750 3000 60  0001 R CNN
-F 4 "1,0 МОм" V 9800 2850 60  0000 R CNN "Resistance"
-F 5 "1%" V 9700 2850 60  0000 R CNN "Tolerance"
-F 6 "1206" V 9600 2850 60  0000 R CNN "Package"
+F 4 "X" V 9750 2850 60  0000 R CNN "Resistance"
+F 5 "1206" V 9650 2850 60  0000 R CNN "Package"
 	1    9750 3000
 	0    -1   -1   0   
 $EndComp
