@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Тремоло Саши Огородникова"
-Date "2023-02-28"
+Date "2023-03-01"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -172,14 +172,14 @@ F 4 "V" H 6500 11700 100 0000 C CNN "Label"
 	1    0    0    -1  
 $EndComp
 $Comp
-L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD_B XB1
+L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD-V1_B XB1
 U 1 1 62732B87
 P 3625 7000
 F 0 "XB1" H 3625 7750 100 0000 C CNN
 F 1 "1590N1 Connector Board" H 3625 7000 100 0001 C CNN
 F 2 "SBKCL-VIRTUAL:XB-1590N1" H 3625 7000 60  0001 C CNN
 F 3 "" H 3625 7000 60  0001 C CNN
-F 4 "1590N1 Connector Board" H 3625 7650 60  0000 C CNN "Product"
+F 4 "1590N1 Connector Board [REV1A]" H 3625 7650 60  0000 C CNN "Product"
 F 5 "Конфигурация: B" H 3625 7550 60  0000 C CNN "Configuration"
 F 6 "ТТКРЧПДЛ" H 3625 7450 60  0000 C CNN "Manufacturer"
 	1    3625 7000

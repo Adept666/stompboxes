@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Edamamer"
-Date "2023-02-28"
+Date "2023-03-01"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -1177,20 +1177,6 @@ F 5 "JST" H 5500 12950 60  0000 C CNN "Manufacturer"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD_A XB1
-U 1 1 62732B87
-P 5125 8000
-F 0 "XB1" H 5125 8750 100 0000 C CNN
-F 1 "1590N1 Connector Board" H 5125 8000 100 0001 C CNN
-F 2 "SBKCL-VIRTUAL:XB-1590N1" H 5125 8000 60  0001 C CNN
-F 3 "" H 5125 8000 60  0001 C CNN
-F 4 "1590N1 Connector Board" H 5125 8650 60  0000 C CNN "Product"
-F 5 "Конфигурация: A" H 5125 8550 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 5125 8450 60  0000 C CNN "Manufacturer"
-	1    5125 8000
-	1    0    0    -1  
-$EndComp
-$Comp
 L KCL:RESISTOR_GENERAL IND.R2
 U 1 1 61DE6A25
 P 18750 8500
@@ -1362,4 +1348,18 @@ Wire Wire Line
 	17250 8000 17250 8150
 Wire Wire Line
 	17250 10000 17250 9850
+$Comp
+L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD-V1_A XB1
+U 1 1 62732B87
+P 5125 8000
+F 0 "XB1" H 5125 8750 100 0000 C CNN
+F 1 "1590N1 Connector Board" H 5125 8000 100 0001 C CNN
+F 2 "SBKCL-VIRTUAL:XB-1590N1" H 5125 8000 60  0001 C CNN
+F 3 "" H 5125 8000 60  0001 C CNN
+F 4 "1590N1 Connector Board [REV1A]" H 5125 8650 60  0000 C CNN "Product"
+F 5 "Конфигурация: A" H 5125 8550 60  0000 C CNN "Configuration"
+F 6 "ТТКРЧПДЛ" H 5125 8450 60  0000 C CNN "Manufacturer"
+	1    5125 8000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
