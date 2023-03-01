@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Crumbwave Multiplexer"
-Date "2023-02-28"
+Date "2023-03-01"
 Rev "1A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
@@ -96,17 +96,17 @@ $EndComp
 Wire Wire Line
 	22000 5950 22000 5450
 $Comp
-L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD-EXTENDED_A XB1
+L SBKCL:VIRTUAL_BOARD_CONNECTOR-BOARD-EXTENDED-V1_A XB1
 U 1 1 62E059D3
-P 19750 1750
-F 0 "XB1" H 19750 2500 100 0000 C CNN
-F 1 "1590BB2 Connector Board Extended" H 19750 1750 100 0001 C CNN
-F 2 "SBKCL-VIRTUAL:XB-1590BB2-EXTENDED" H 19750 1750 60  0001 C CNN
-F 3 "" H 19750 1750 60  0001 C CNN
-F 4 "1590BB2 Connector Board Extended" H 19750 2400 60  0000 C CNN "Product"
-F 5 "Конфигурация: A" H 19750 2300 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 19750 2200 60  0000 C CNN "Manufacturer"
-	1    19750 1750
+P 19750 2000
+F 0 "XB1" H 19750 2750 100 0000 C CNN
+F 1 "1590BB2 Connector Board Extended" H 19750 2000 100 0001 C CNN
+F 2 "SBKCL-VIRTUAL:XB-1590BB2-EXTENDED" H 19750 2000 60  0001 C CNN
+F 3 "" H 19750 2000 60  0001 C CNN
+F 4 "1590BB2 Connector Board Extended [REV1A]" H 19750 2650 60  0000 C CNN "Product"
+F 5 "Конфигурация: A" H 19750 2550 60  0000 C CNN "Configuration"
+F 6 "ТТКРЧПДЛ" H 19750 2450 60  0000 C CNN "Manufacturer"
+	1    19750 2000
 	1    0    0    -1  
 $EndComp
 $Comp
