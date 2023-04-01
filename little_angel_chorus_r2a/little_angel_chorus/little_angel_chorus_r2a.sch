@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "Little Angel Chorus"
-Date "2023-03-19"
+Date "2023-04-01"
 Rev "2A"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"

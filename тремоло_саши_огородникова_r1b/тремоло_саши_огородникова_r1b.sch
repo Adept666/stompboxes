@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Тремоло Саши Огородникова"
-Date "2023-03-05"
+Date "2023-04-01"
 Rev "1B"
 Comp "Igor Ivanov"
 Comment1 "https://github.com/Adept666"
