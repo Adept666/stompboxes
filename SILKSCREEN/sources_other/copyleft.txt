@@ -3,12 +3,20 @@ radioflyer (http://openclipart.org/artist/radioflyer)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+ambulance_emergency_doctor.svg (http://svgrepo.com/svg/308389/ambulance-emergency-doctor-medical-help)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
 denis_belov.jpg
 Анастасия Белова (http://vk.com/id447213274)
 CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
 
 dima.jpg
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+dima_crumb.jpg
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
@@ -31,6 +39,26 @@ jumping_fish.svg (http://freesvg.org/jumping-fish-vector-image)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+medical_history_doctor.svg (http://svgrepo.com/svg/258405/medical-history-doctor)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+medical_medicine_health_5.svg (http://svgrepo.com/svg/427171/medical-medicine-health-5)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+medical_medicine_health_14.svg (http://svgrepo.com/svg/427174/medical-medicine-health-14)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+medical_syringe.svg (http://freesvg.org/medical-syringe-icon-vector-clip-art)
+Public Domain
+http://creativecommons.org/licenses/publicdomain
+
+medicine_illustration_8.svg (http://svgrepo.com/svg/482786/medicine-illustration-8)
+Public Domain
+http://creativecommons.org/licenses/publicdomain
+
 mole.png
 Алексей Джерасимов (http://vk.com/struktualnyj_lingvist)
 CC BY-SA 4.0
@@ -49,7 +77,7 @@ sasha_ogorodnikov.jpg
 CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
 
-shovel.svg (http://www.svgrepo.com/svg/88016/shovel)
+shovel.svg (http://svgrepo.com/svg/88016/shovel)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
