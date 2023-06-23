@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="94mm"
+   height="119.5mm"
+   viewBox="0 0 93.999999 119.5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="копка_земли_r1sm_bottom.svg">
+  <title
+     id="title14">Копка Земли [REV1SM] Bottom</title>
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath96"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path94"
+         d="M 0,150 H 350 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath96-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path94-6"
+         d="M 0,150 H 350 V 0 H 0 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5587169"
+     inkscape:cx="177.6378"
+     inkscape:cy="225.82677"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="864"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Копка Земли [REV1SM] Bottom</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Igor Ivanov</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>23.06.2023</dc:date>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-177.5)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 177.63867 298.43164 A 37.795272 37.795272 0 0 0 139.8418 336.22656 A 37.795272 37.795272 0 0 0 177.63867 374.02148 A 37.795272 37.795272 0 0 0 215.43359 336.22656 A 37.795272 37.795272 0 0 0 177.63867 298.43164 z M 177.63867 315.43945 A 20.7874 20.7874 0 0 1 198.42578 336.22656 A 20.7874 20.7874 0 0 1 177.63867 357.01367 A 20.7874 20.7874 0 0 1 156.84961 336.22656 A 20.7874 20.7874 0 0 1 177.63867 315.43945 z "
+       id="path162-3"
+       transform="matrix(0.26458333,0,0,0.26458333,0,177.5)" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 20.041016 83.517578 C 12.503113 83.517578 6.4355469 89.585144 6.4355469 97.123047 L 6.4355469 116.02148 C 6.4355469 123.55939 12.503113 129.62695 20.041016 129.62695 L 335.25391 129.62695 C 342.79181 129.62695 348.86133 123.55939 348.86133 116.02148 L 348.86133 97.123047 C 348.86133 89.585144 342.79181 83.517578 335.25391 83.517578 L 20.041016 83.517578 z M 52.847656 94.855469 A 11.716535 11.716535 0 0 1 64.564453 106.57227 A 11.716535 11.716535 0 0 1 52.847656 118.28906 A 11.716535 11.716535 0 0 1 41.130859 106.57227 A 11.716535 11.716535 0 0 1 52.847656 94.855469 z M 177.64844 94.855469 A 11.716535 11.716535 0 0 1 189.36523 106.57227 A 11.716535 11.716535 0 0 1 177.64844 118.28906 A 11.716535 11.716535 0 0 1 165.93164 106.57227 A 11.716535 11.716535 0 0 1 177.64844 94.855469 z M 302.44727 94.855469 A 11.716535 11.716535 0 0 1 314.16406 106.57227 A 11.716535 11.716535 0 0 1 302.44727 118.28906 A 11.716535 11.716535 0 0 1 290.73242 106.57227 A 11.716535 11.716535 0 0 1 302.44727 94.855469 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,177.5)"
+       id="rect1003" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 5.3027803,226.26723 c -1.9944034,0 -3.5997803,1.60538 -3.5997803,3.59978 v 5.00021 c 0,1.99441 1.6053769,3.59978 3.5997803,3.59978 H 88.702858 c 1.994402,0 3.600296,-1.60537 3.600296,-3.59978 v -5.00021 c 0,-1.9944 -1.605894,-3.59978 -3.600296,-3.59978 z m 8.6800907,2.99982 a 3.0999999,3.0999999 0 0 1 3.100069,3.10007 3.0999999,3.0999999 0 0 1 -3.100069,3.10006 3.0999999,3.0999999 0 0 1 -3.100069,-3.10006 3.0999999,3.0999999 0 0 1 3.100069,-3.10007 z m 33.020206,0 a 3.0999999,3.0999999 0 0 1 3.100067,3.10007 3.0999999,3.0999999 0 0 1 -3.100067,3.10006 3.0999999,3.0999999 0 0 1 -3.10007,-3.10006 3.0999999,3.0999999 0 0 1 3.10007,-3.10007 z m 33.019691,0 a 3.0999999,3.0999999 0 0 1 3.100067,3.10007 3.0999999,3.0999999 0 0 1 -3.100067,3.10006 3.0999999,3.0999999 0 0 1 -3.099554,-3.10006 3.0999999,3.0999999 0 0 1 3.099554,-3.10007 z"
+       id="rect1003-3" />
+  </g>
+</svg>
