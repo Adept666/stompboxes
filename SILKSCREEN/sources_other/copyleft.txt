@@ -7,6 +7,21 @@ ambulance_emergency_doctor.svg (http://svgrepo.com/svg/308389/ambulance-emergenc
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+backward.svg (http://svgrepo.com/svg/514048/backward)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
+
+cassette.svg (http://svgrepo.com/svg/514066/cassette)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
+
+cross-round.svg (http://svgrepo.com/svg/514098/cross-round)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
+
 denis_belov.jpg
 Анастасия Белова (http://vk.com/id447213274)
 CC BY-SA 4.0
@@ -30,10 +45,20 @@ Headshots Photography (http://vk.com/headshots_ph)
 CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
 
+exclamation-round.svg (http://svgrepo.com/svg/514115/exclamation-round)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
+
 gosha.jpg
 Princess Essa (http://vk.com/id493327363)
 CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
+
+high-volume.svg (http://svgrepo.com/svg/514134/high-volume)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
 
 jumping_fish.svg (http://freesvg.org/jumping-fish-vector-image)
 CC0 1.0
