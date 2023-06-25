@@ -15,9 +15,9 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="salty_phaser_r1_panel_1.svg">
+   sodipodi:docname="salty_phaser_r1_plate_1.svg">
   <title
-     id="title16">Salty Phaser [REV1] Panel V1</title>
+     id="title16">Salty Phaser [REV1] Plate V1</title>
   <defs
      id="defs2">
     <clipPath
@@ -102,7 +102,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.4822317"
      inkscape:cx="169.13386"
-     inkscape:cy="141.80788"
+     inkscape:cy="141.80787"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Salty Phaser [REV1] Panel V1</dc:title>
+        <dc:title>Salty Phaser [REV1] Plate V1</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -130,7 +130,7 @@
             <dc:title>Igor Ivanov</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>24.06.2023</dc:date>
+        <dc:date>25.06.2023</dc:date>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)</dc:title>
