@@ -130,10 +130,12 @@
             <dc:title>Igor Ivanov</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>25.06.2023</dc:date>
+        <dc:date>09.07.2023</dc:date>
         <dc:contributor>
           <cc:Agent>
-            <dc:title>Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)</dc:title>
+            <dc:title>Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+B. Jackowski
+J.M. Nowacki</dc:title>
           </cc:Agent>
         </dc:contributor>
       </cc:Work>
