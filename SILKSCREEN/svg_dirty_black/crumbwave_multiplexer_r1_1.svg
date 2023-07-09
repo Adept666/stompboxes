@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="crumbwave_multiplexer_r1_1__21.svg">
+   sodipodi:docname="crumbwave_multiplexer_r1_1.svg">
   <title
      id="title16">Crumbwave Multiplexer [REV1] V1</title>
   <defs
@@ -119,10 +119,11 @@
             <dc:title>Igor Ivanov</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>11.05.2023</dc:date>
+        <dc:date>09.07.2023</dc:date>
         <dc:contributor>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title>B. Jackowski
+J.M. Nowacki</dc:title>
           </cc:Agent>
         </dc:contributor>
       </cc:Work>
