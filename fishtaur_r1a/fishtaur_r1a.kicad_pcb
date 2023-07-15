@@ -763,7 +763,7 @@
       (net 1 COM))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 6099DCD0)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 6099DCD0)
     (at 95.25 110.49 180)
     (path /60AB555F)
     (fp_text reference C1 (at 0 3.81 180) (layer F.SilkS)
@@ -1833,7 +1833,7 @@
       (net 32 "Net-(C11-Pad2)"))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 608D41D7)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 608D41D7)
     (at 78.74 182.88 270)
     (path /60BD1D9E)
     (fp_text reference C16 (at 3.81 0) (layer F.SilkS)
@@ -2124,7 +2124,7 @@
       (net 45 "Net-(C22-Pad2)"))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 60E27D2D)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 60E27D2D)
     (at 121.92 147.32)
     (path /60A2B6DC)
     (fp_text reference C23 (at 2.54 0) (layer F.SilkS)
@@ -2323,7 +2323,7 @@
       (net 8 /OUT))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 60E277C6)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 60E277C6)
     (at 71.12 163.83 180)
     (path /60DFF5F1)
     (fp_text reference C3 (at 0 3.81) (layer F.SilkS)
