@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.24.B-3"
-Date "2023-07-08"
+Date "2023-07-16"
 Rev "1B"
 Comp "Копка Земли [REV1B] Down-Tuned SM"
 Comment1 "http://github.com/Adept666"
@@ -1595,13 +1595,11 @@ $Comp
 L KCL:VIRTUAL_ELECTROCHEMICAL_BATTERY GB1
 U 1 1 61130D66
 P 2000 14000
-F 0 "GB1" H 2250 14150 100 0000 L CNN
-F 1 "PP3" H 2000 14000 100 0001 L CNN
+F 0 "GB1" H 2250 14050 100 0000 L CNN
+F 1 "X" H 2000 14000 100 0001 L CNN
 F 2 "KCL-VIRTUAL:B-PP3-HV" H 2000 14000 60  0001 L CNN
 F 3 "" H 2000 14000 60  0001 L CNN
-F 4 "9 В" H 2250 14050 60  0000 L CNN "Voltage"
-F 5 "PP3" H 2250 13950 60  0000 L CNN "Size"
-F 6 "Держатель: DCK4 (Daier)" H 2250 13850 60  0000 L CNN "Держатель"
+F 4 "X" H 2250 13950 60  0000 L CNN "Держатель"
 	1    2000 14000
 	1    0    0    -1  
 $EndComp

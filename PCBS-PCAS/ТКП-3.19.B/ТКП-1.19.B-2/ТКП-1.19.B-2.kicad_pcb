@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 16)
     (tracks 280)
     (zones 0)
     (modules 67)
@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title ТКП-1.19.B-2)
-    (date 2023-07-08)
+    (date 2023-07-16)
     (rev 1B)
     (company "Good Grief Overdrive [REV1B] SM")
     (comment 1 http://github.com/Adept666)
@@ -1209,7 +1209,7 @@
     (fp_text reference GB1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value PP3 (at 0 1.27) (layer F.Fab) hide
+    (fp_text value X (at 0 1.27) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start 24.25 -8.75) (end 24.25 8.75) (layer Dwgs.User) (width 0.2))
@@ -2356,6 +2356,21 @@
       (net 36 VREF))
   )
 
+  (gr_text "5. X1 и X2 не устанавливать." (at 90.17 250.19) (layer F.Fab) (tstamp 64B39B3F)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
+  (gr_text "4. SB1 установить на проставку ТКП-3.35.A." (at 90.17 246.38) (layer F.Fab) (tstamp 64B39111)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
+  (gr_text "3. SA3 установить на две проставки ТКП-3.36.A." (at 90.17 242.57) (layer F.Fab) (tstamp 64B39B39)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
+  (gr_text "2. SA2 установить на две проставки ТКП-3.36.A." (at 90.17 238.76) (layer F.Fab) (tstamp 64B390FF)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
+  (gr_text "1. SA1 установить на две проставки ТКП-3.36.A." (at 90.17 234.95) (layer F.Fab)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
   (gr_text - (at 114.935 107.95) (layer F.SilkS) (tstamp 62366D3E)
     (effects (font (size 1 1) (thickness 0.2)))
   )
