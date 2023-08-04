@@ -1,4 +1,4 @@
-update=Сб 16 июл 2022 17:53:03
+update=Сб 05 авг 2023 01:01:18
 version=1
 last_client=kicad
 [cvpcb]
@@ -199,9 +199,9 @@ Enabled=0
 [pcbnew/Layer.F.Adhes]
 Enabled=0
 [pcbnew/Layer.B.Paste]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Paste]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.B.SilkS]
 Enabled=1
 [pcbnew/Layer.F.SilkS]
