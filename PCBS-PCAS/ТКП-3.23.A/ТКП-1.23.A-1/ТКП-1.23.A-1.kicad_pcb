@@ -2,10 +2,10 @@
 
   (general
     (thickness 1.6)
-    (drawings 9)
+    (drawings 17)
     (tracks 980)
     (zones 0)
-    (modules 142)
+    (modules 156)
     (nets 106)
   )
 
@@ -24,6 +24,8 @@
   (layers
     (0 F.Cu jumper)
     (31 B.Cu signal)
+    (32 B.Adhes user)
+    (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
@@ -63,8 +65,8 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 1.9 1.9)
-    (pad_drill 1)
+    (pad_size 0.4 0.4)
+    (pad_drill 0)
     (pad_to_mask_clearance 0.2)
     (solder_mask_min_width 0.1)
     (aux_axis_origin 0 0)
@@ -319,6 +321,202 @@
     (add_net VREF)
   )
 
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CFCA7E)
+    (at 93.98 192.91)
+    (path /67EAD79A)
+    (fp_text reference VJ8.2 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 14 /OUT-CIR))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CFCA78)
+    (at 113.665 140.84)
+    (path /67EAD794)
+    (fp_text reference VJ8.1 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 37 "Net-(FB.C2-Pad1)"))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CF9180)
+    (at 115.41 158.95)
+    (path /6721780E)
+    (fp_text reference VJ6.2 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 9 /OUT6))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CF917A)
+    (at 95.41 158.95)
+    (path /67217808)
+    (fp_text reference VJ6.1 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 9 /OUT6))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CEC607)
+    (at 102.74 185.42)
+    (path /654D625A)
+    (fp_text reference VJ7.2 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 14 /OUT-CIR))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CEC601)
+    (at 111.125 140.84)
+    (path /654D6254)
+    (fp_text reference VJ7.1 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 35 "Net-(FB.C1-Pad2)"))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CEC5D8)
+    (at 96.749746 153.950001)
+    (path /65452727)
+    (fp_text reference VJ2.2 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 10 /OUT8))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer F.Cu) (tedit 64CDF0C6) (tstamp 64CECAA1)
+    (at 100.097408 157.526495)
+    (path /650C60E0)
+    (fp_text reference VJ2.1 (at 0 -1.143) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_text value TOP (at 0 -2.413) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers F.Cu)
+      (net 12 /WET))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93FD)
+    (at 104.08 185.42)
+    (path /65083A5D)
+    (fp_text reference VJ3.2 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 86 "Net-(IB.C1-Pad2)"))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93F7)
+    (at 104.08 186.69)
+    (path /65042284)
+    (fp_text reference VJ3.1 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 6 /DRY))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93F1)
+    (at 140.97 182.75)
+    (path /65000A98)
+    (fp_text reference VJ3.4 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 6 /DRY))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93EB)
+    (at 114.070254 153.95)
+    (path /64FBF351)
+    (fp_text reference VJ3.3 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 8 /OUT4))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93E5)
+    (at 99.19 182.88)
+    (path /64F7DAC0)
+    (fp_text reference VJ1.2 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 86 "Net-(IB.C1-Pad2)"))
+  )
+
+  (module KCL-VIRTUAL:VJ (layer B.Cu) (tedit 64CDF0C6) (tstamp 64CE93DF)
+    (at 103.505 184.15)
+    (path /64F3B1EF)
+    (fp_text reference VJ1.1 (at 0 1.143) (layer B.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_text value BOTTOM (at 0 2.413) (layer B.Fab) hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+    )
+    (fp_circle (center 0 0) (end 0.25 0) (layer B.Adhes) (width 0.5))
+    (pad 1 smd circle (at 0 0) (size 0.4 0.4) (layers B.Cu)
+      (net 6 /DRY))
+  )
+
   (module KCL-VIRTUAL:VTC (layer F.Cu) (tedit 64CD42EA) (tstamp 64CDB01C)
     (at 100.41 186.61)
     (path /64E3AF99)
@@ -567,7 +765,7 @@
       (net 28 "Net-(VMH5-Pad0)"))
   )
 
-  (module SBKCL-TH-ML:RPB-1590BB-18-3x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D92C93) (tstamp 6119922A)
+  (module SBKCL-TH-ML:RPB-1590BB-18-3x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D92C93) (tstamp 64CEC99C)
     (at 105.41 117.04)
     (path /61591352)
     (fp_text reference RPB1 (at 40.64 15.04) (layer F.SilkS)
@@ -4977,6 +5175,14 @@
     (fp_circle (center 0 0) (end 2.6 0) (layer F.Fab) (width 0.2))
   )
 
+  (gr_line (start 93.98 192.91) (end 113.665 140.84) (layer F.Adhes) (width 0.4))
+  (gr_line (start 102.74 185.42) (end 111.125 140.84) (layer F.Adhes) (width 0.4))
+  (gr_line (start 95.41 158.95) (end 115.41 158.95) (layer F.Adhes) (width 0.4))
+  (gr_line (start 96.749746 153.950001) (end 100.097408 157.526495) (layer F.Adhes) (width 0.4))
+  (gr_line (start 140.97 182.75) (end 114.070254 153.95) (layer B.Adhes) (width 0.4))
+  (gr_line (start 114.070254 153.95) (end 104.08 185.42) (layer B.Adhes) (width 0.4) (tstamp 64CEFD74))
+  (gr_line (start 104.08 185.42) (end 104.08 186.69) (layer B.Adhes) (width 0.4))
+  (gr_line (start 103.505 184.15) (end 99.19 182.88) (layer B.Adhes) (width 0.4))
   (gr_line (start 72.39 204.47) (end 138.43 204.47) (layer Edge.Cuts) (width 0.4) (tstamp 60F4EE79))
   (gr_line (start 62.23 194.31) (end 72.39 204.47) (layer Edge.Cuts) (width 0.4) (tstamp 60F4EE78))
   (gr_line (start 138.43 204.47) (end 148.59 194.31) (layer Edge.Cuts) (width 0.4) (tstamp 60F4EE77))
