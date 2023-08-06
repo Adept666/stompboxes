@@ -1007,7 +1007,7 @@
       (net 80 "Net-(IO.D1-Pad7)"))
   )
 
-  (module SBKCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS-OR-D06.3-P02.5-OR-D08.0-P03.5-CLS (layer F.Cu) (tedit 611E186C) (tstamp 611DF2DA)
+  (module SBKCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS-OR-D06.3-P02.5-CLS-OR-D08.0-P03.5-CLS (layer F.Cu) (tedit 611E186C) (tstamp 611DF2DA)
     (at 134.62 104.14)
     (path /6149EB61)
     (fp_text reference PS.C1 (at 0.635 5.08) (layer F.SilkS)
