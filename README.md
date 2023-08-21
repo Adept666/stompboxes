@@ -56,13 +56,13 @@
 
 ## Deep Blue Delay [REV3]
 
-[Schematic](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-SCH.pdf)
 
-[F_Fab](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-FAB-TOP.pdf)
 
-[B_Fab](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-FAB-BOTTOM.pdf)
 
-[Gerber](/deep_blue_delay_r3b/output/deep_blue_delay_r3b_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.17.B/output/deep_blue_delay_r3b_gerber.zip)
 
 ## Edamamer [REV1]
 
@@ -84,11 +84,11 @@
 
 ## Fishtaur [REV1]
 
-[Schematic](/fishtaur_r1a/output/fishtaur_r1a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-1/output/ТКП-1.21.A-1-SCH.pdf)
 
-[F_Fab](/fishtaur_r1a/output/fishtaur_r1a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-1/output/ТКП-1.21.A-1-FAB-TOP.pdf)
 
-[Gerber](/fishtaur_r1a/output/fishtaur_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.21.A/output/fishtaur_r1a_gerber.zip)
 
 ## Fuzz Factory [REV1]
 
@@ -126,11 +126,11 @@
 
 ### [REV1B]
 
-[Schematic](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-1/output/ТКП-1.19.B-1-SCH.pdf)
 
-[F_Fab](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-1/output/ТКП-1.19.B-1-FAB-TOP.pdf)
 
-[Gerber](/good_grief_overdrive_r1b/output/good_grief_overdrive_r1b_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.19.B/output/good_grief_overdrive_r1b_gerber.zip)
 
 ### [REV1A]
 
@@ -152,31 +152,43 @@
 
 ## Salty Phaser [REV1]
 
-[Schematic](/salty_phaser_r1a/output/salty_phaser_r1a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-SCH.pdf)
 
-[F_Fab](/salty_phaser_r1a/output/salty_phaser_r1a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-FAB-TOP.pdf)
 
-[B_Fab](/salty_phaser_r1a/output/salty_phaser_r1a_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-FAB-BOTTOM.pdf)
 
-[Gerber](/salty_phaser_r1a/output/salty_phaser_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.23.A/output/salty_phaser_r1a_gerber.zip)
 
 ## Копка Земли [REV1]
 
 ### [REV1B]
 
-[Gerber](/копка_земли_r1b/output/копка_земли_r1b_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.24.B/output/копка_земли_r1b_gerber.zip)
 
 ### [B] Down-Tuned
 
-[Schematic](/копка_земли_r1b/down-tuned/output/копка_земли_r1b_down-tuned_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-1/output/ТКП-1.24.B-1-SCH.pdf)
 
-[F_Fab](/копка_земли_r1b/down-tuned/output/копка_земли_r1b_down-tuned_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-1/output/ТКП-1.24.B-1-FAB-TOP.pdf)
 
 ### [B] Standard-Tuned
 
-[Schematic](/копка_земли_r1b/standard-tuned/output/копка_земли_r1b_standard-tuned_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-SCH.pdf)
 
-[F_Fab](/копка_земли_r1b/standard-tuned/output/копка_земли_r1b_standard-tuned_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-FAB-TOP.pdf)
+
+### [B] Down-Tuned SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-3/output/ТКП-1.24.B-3-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-3/output/ТКП-1.24.B-3-FAB-TOP.pdf)
+
+### [B] Standard-Tuned SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-4/output/ТКП-1.24.B-4-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-4/output/ТКП-1.24.B-4-FAB-TOP.pdf)
 
 ### [REV1A]
 
