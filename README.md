@@ -84,11 +84,21 @@
 
 ## Fishtaur [REV1]
 
+### [REV1A]
+
+[Gerber](/PCBS-PCAS/ТКП-3.21.A/output/fishtaur_r1a_gerber.zip)
+
+### [A]
+
 [Schematic](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-1/output/ТКП-1.21.A-1-SCH.pdf)
 
 [F_Fab](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-1/output/ТКП-1.21.A-1-FAB-TOP.pdf)
 
-[Gerber](/PCBS-PCAS/ТКП-3.21.A/output/fishtaur_r1a_gerber.zip)
+### [A] SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-2/output/ТКП-1.21.A-2-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.21.A/ТКП-1.21.A-2/output/ТКП-1.21.A-2-FAB-TOP.pdf)
 
 ## Fuzz Factory [REV1]
 
@@ -124,13 +134,22 @@
 
 ## Good Grief Overdrive [REV1]
 
+
 ### [REV1B]
+
+[Gerber](/PCBS-PCAS/ТКП-3.19.B/output/good_grief_overdrive_r1b_gerber.zip)
+
+### [B]
 
 [Schematic](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-1/output/ТКП-1.19.B-1-SCH.pdf)
 
 [F_Fab](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-1/output/ТКП-1.19.B-1-FAB-TOP.pdf)
 
-[Gerber](/PCBS-PCAS/ТКП-3.19.B/output/good_grief_overdrive_r1b_gerber.zip)
+### [B] SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-2/output/ТКП-1.19.B-2-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.19.B/ТКП-1.19.B-2/output/ТКП-1.19.B-2-FAB-TOP.pdf)
 
 ### [REV1A]
 
@@ -172,17 +191,17 @@
 
 [F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-1/output/ТКП-1.24.B-1-FAB-TOP.pdf)
 
-### [B] Standard-Tuned
-
-[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-SCH.pdf)
-
-[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-FAB-TOP.pdf)
-
 ### [B] Down-Tuned SM
 
 [Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-3/output/ТКП-1.24.B-3-SCH.pdf)
 
 [F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-3/output/ТКП-1.24.B-3-FAB-TOP.pdf)
+
+### [B] Standard-Tuned
+
+[Schematic](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.24.B/ТКП-1.24.B-2/output/ТКП-1.24.B-2-FAB-TOP.pdf)
 
 ### [B] Standard-Tuned SM
 
