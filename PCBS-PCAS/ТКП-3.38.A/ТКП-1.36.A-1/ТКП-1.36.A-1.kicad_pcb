@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 19)
+    (drawings 20)
     (tracks 448)
     (zones 0)
     (modules 93)
@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title ТКП-1.36.A-1)
-    (date 2023-08-22)
+    (date 2023-08-23)
     (rev 2A)
     (company "Копка Земли [REV2A] Down-Tuned")
     (comment 1 http://github.com/Adept666)
@@ -3361,10 +3361,13 @@
       (net 35 "Net-(PS.VD1-PadA)"))
   )
 
-  (gr_text "1. Установить либо PS.C1, либо PS.C2." (at 90.17 246.38) (layer F.Fab) (tstamp 64E3B887)
+  (gr_text "1. Перечёркнутые элементы не устанавливать." (at 90.17 242.57) (layer F.Fab) (tstamp 64E5A831)
     (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
   )
-  (gr_text "2. Установить либо PS.C4, либо PS.C5." (at 90.17 250.19) (layer F.Fab)
+  (gr_text "2. Установить либо PS.C1, либо PS.C2." (at 90.17 246.38) (layer F.Fab) (tstamp 64E3B887)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
+  (gr_text "3. Установить либо PS.C4, либо PS.C5." (at 90.17 250.19) (layer F.Fab)
     (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
   )
   (gr_arc (start 80.01 97.79) (end 80.01 100.33) (angle -90) (layer Edge.Cuts) (width 0.4))

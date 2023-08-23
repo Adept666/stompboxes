@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.36.A-1"
-Date "2023-08-22"
+Date "2023-08-23"
 Rev "2A"
 Comp "Копка Земли [REV2A] Down-Tuned"
 Comment1 "http://github.com/Adept666"
@@ -2506,4 +2506,6 @@ F 4 "1,0" H 20000 10150 60  0000 C CNN "Diameter"
 	1    20000 10000
 	1    0    0    -1  
 $EndComp
+Text Notes 18650 14750 0    100  ~ 0
+1. Установить либо PS.C1, либо PS.C2.\n2. Установить либо PS.C4, либо PS.C5.
 $EndSCHEMATC
