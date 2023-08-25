@@ -4,14 +4,14 @@ EELAYER END
 $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
-Title "Little Angel Chorus/Vibrato"
-Date "2023-04-06"
+Title "ТКП-1.37.A-3"
+Date "2023-08-26"
 Rev "2A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Little Angel Chorus/Vibrato [REV2A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 Wire Wire Line
 	4750 16000 4750 15850
@@ -2100,7 +2100,7 @@ F 2 "SBKCL-VIRTUAL:XB-1590N1" H 2875 17500 60  0001 C CNN
 F 3 "" H 2875 17500 60  0001 C CNN
 F 4 "1590N1 Connector Board [REV1B]" H 2875 18150 60  0000 C CNN "Product"
 F 5 "Конфигурация: A" H 2875 18050 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 2875 17950 60  0000 C CNN "Manufacturer"
+F 6 "-ТТКРЧПДЛ-" H 2875 17950 60  0000 C CNN "Manufacturer"
 	1    2875 17500
 	1    0    0    -1  
 $EndComp
