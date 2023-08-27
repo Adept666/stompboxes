@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.37.A-2"
-Date "2023-08-26"
+Date "2023-08-27"
 Rev "2A"
 Comp "Big Devil Vibrato [REV2A]"
 Comment1 "http://github.com/Adept666"
@@ -2916,4 +2916,6 @@ Wire Wire Line
 	11250 8250 11400 8250
 Wire Wire Line
 	12100 8250 12500 8250
+Text Notes 11800 21600 0    100  ~ 0
+1. Установить либо AL.C1, либо AL.C2.\n2. Установить либо PS.C1, либо PS.C2.\n3. Установить либо PS.C4, либо PS.C5.\n4. DWS.J1...4 и OC.J1...5 оставить разомкнутыми.
 $EndSCHEMATC
