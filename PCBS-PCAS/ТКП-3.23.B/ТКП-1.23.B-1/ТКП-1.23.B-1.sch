@@ -3650,7 +3650,7 @@ Wire Wire Line
 Wire Wire Line
 	15100 22750 15250 22750
 Wire Wire Line
-	15100 22250 15300 22250
+	15100 22250 15250 22250
 Wire Wire Line
 	16000 22250 16000 22350
 $Comp
@@ -5127,7 +5127,7 @@ Wire Wire Line
 Wire Wire Line
 	17700 23000 17000 23000
 Text Notes 18650 31350 0    100  ~ 0
-1. Установить либо OM.R4, либо OM.R5.\n2. Установить либо PS.C1, либо PS.C4.\n3. Установить либо PS.C3, либо PS.C5.
+1. Установить либо OM.R4, либо OM.R5.\n2. Установить либо PS.C1, либо PS.C4.\n3. Установить либо PS.C3, либо PS.C5.\n4. Установить либо PS.VD1, либо PS.VD2.
 $Comp
 L KCL:POWER_V #PWR0180
 U 1 1 658E3ACE
@@ -5304,4 +5304,27 @@ F 5 "1206" V 19400 8600 60  0000 R CNN "Package"
 	1    19500 8750
 	0    -1   -1   0   
 $EndComp
+$Comp
+L KCL:DIODE_SCHOTTKY PS.VD2
+U 1 1 65A6974C
+P 15500 21500
+F 0 "PS.VD2" H 15500 21750 100 0000 C CNN
+F 1 "0520" H 15500 21500 100 0001 C CNN
+F 2 "KCL-SM:P-SOD-123" H 15500 21500 60  0001 C CNN
+F 3 "" H 15500 21500 60  0001 C CNN
+F 4 "STPS0520Z" H 15500 21650 60  0000 C CNN "Product"
+	1    15500 21500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15250 22250 15250 21500
+Wire Wire Line
+	15250 21500 15300 21500
+Connection ~ 15250 22250
+Wire Wire Line
+	15250 22250 15300 22250
+Wire Wire Line
+	15700 21500 16000 21500
+Wire Wire Line
+	16000 21500 16000 22250
 $EndSCHEMATC
