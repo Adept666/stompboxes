@@ -5,7 +5,7 @@ $Descr A1 23386 33110 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.23.B-1"
-Date "2023-10-08"
+Date "2023-10-09"
 Rev "1B"
 Comp "Salty Phaser [REV1B]"
 Comment1 "http://github.com/Adept666"
@@ -2693,8 +2693,6 @@ $EndComp
 Connection ~ 16500 2500
 Wire Wire Line
 	16500 2500 16650 2500
-Wire Wire Line
-	16500 2750 17000 2750
 Wire Wire Line
 	16350 2500 16500 2500
 $Comp
@@ -5454,4 +5452,25 @@ F 5 "1206" H 12000 28900 60  0000 C CNN "Package"
 	1    12000 28750
 	1    0    0    -1  
 $EndComp
+$Comp
+L KCL:RESISTOR_GENERAL L.R9
+U 1 1 66528045
+P 16750 3000
+F 0 "L.R9" H 16750 3350 100 0000 C CNN
+F 1 "0" H 16750 3000 100 0001 C CNN
+F 2 "KCL-SM:R-SM-1206" H 16750 3000 60  0001 C CNN
+F 3 "" H 16750 3000 60  0001 C CNN
+F 4 "0" H 16750 3250 60  0000 C CNN "Resistance"
+F 5 "1206" H 16750 3150 60  0000 C CNN "Package"
+	1    16750 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16500 2750 16400 2750
+Wire Wire Line
+	16400 2750 16400 3000
+Wire Wire Line
+	17000 2750 17100 2750
+Wire Wire Line
+	17100 2750 17100 3000
 $EndSCHEMATC
