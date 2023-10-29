@@ -2523,7 +2523,7 @@ Wire Wire Line
 Wire Wire Line
 	17500 16250 19000 16250
 Text Label 14550 15250 0    70   ~ 0
-IN-CIR
+CIR-IN
 Wire Wire Line
 	14500 15250 14900 15250
 Wire Wire Line
@@ -2868,9 +2868,7 @@ Wire Wire Line
 Wire Wire Line
 	19850 28450 20500 28450
 Text Label 20200 28750 2    70   ~ 0
-IN-CIR
-Text Label 20200 28250 2    70   ~ 0
-OUT-CIR
+CIR-IN
 Wire Wire Line
 	19850 28250 20250 28250
 Wire Wire Line
@@ -2878,9 +2876,9 @@ Wire Wire Line
 Wire Wire Line
 	19000 29250 19150 29250
 Text Label 18550 28750 0    70   ~ 0
-IN-CON
+IN
 Text Label 18550 28250 0    70   ~ 0
-OUT-CON
+OUT
 Wire Wire Line
 	18500 28750 19150 28750
 Wire Wire Line
@@ -2911,7 +2909,7 @@ F 3 "" H 19500 29500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 20200 28950 2    70   ~ 0
-IN-CIR
+CIR-IN
 Wire Wire Line
 	19850 28950 20250 28950
 $Comp
@@ -2942,8 +2940,6 @@ F 6 "Dragon City Industries" H 22000 28700 60  0000 C CNN "Manufacturer"
 	1    21500 28250
 	1    0    0    -1  
 $EndComp
-Text Label 20800 28250 0    70   ~ 0
-OUT-CON
 Wire Wire Line
 	20750 28250 21400 28250
 $Comp
@@ -2961,7 +2957,7 @@ $EndComp
 Wire Wire Line
 	17600 28750 17750 28750
 Text Label 18200 28250 2    70   ~ 0
-IN-CON
+IN
 Wire Wire Line
 	17600 28250 18250 28250
 Wire Wire Line
@@ -3704,7 +3700,7 @@ Wire Wire Line
 Wire Wire Line
 	19350 19000 20000 19000
 Text Label 19950 19000 2    70   ~ 0
-OUT-CIR
+CIR-OUT
 Text Label 19950 19750 2    70   ~ 0
 VOL-IN
 $Comp
@@ -3929,9 +3925,9 @@ $EndComp
 Wire Wire Line
 	21350 13750 22000 13750
 Text Label 20100 13750 0    70   ~ 0
-IN-CON
+IN
 Text Label 21950 13750 2    70   ~ 0
-IN-CIR
+CIR-IN
 Wire Wire Line
 	20000 13750 20650 13750
 $Comp
@@ -3952,18 +3948,18 @@ L KCL:JUNCTION_SOLDER TP5
 U 1 1 65C7EE88
 P 20000 13750
 F 0 "TP5" H 19900 13750 100 0000 R CNN
-F 1 "IN-CON" H 20000 13750 100 0001 R CNN
+F 1 "IN" H 20000 13750 100 0001 R CNN
 F 2 "KCL-TH-ML:TP-2-1.0-1.9" H 20000 13750 60  0001 R CNN
 F 3 "" H 20000 13750 60  0001 R CNN
 	1    20000 13750
 	1    0    0    -1  
 $EndComp
 Text Label 20050 15750 0    70   ~ 0
-OUT-CIR
+CIR-OUT
 Wire Wire Line
 	20000 15750 20650 15750
 Text Label 21900 15750 2    70   ~ 0
-OUT-CON
+OUT
 Wire Wire Line
 	21350 15750 22000 15750
 $Comp
@@ -3984,7 +3980,7 @@ L KCL:JUNCTION_SOLDER TP9
 U 1 1 65D72A7C
 P 22000 15750
 F 0 "TP9" H 22100 15750 100 0000 L CNN
-F 1 "OUT-CON" H 22000 15750 100 0001 L CNN
+F 1 "OUT" H 22000 15750 100 0001 L CNN
 F 2 "KCL-TH-ML:TP-2-1.0-1.9" H 22000 15750 60  0001 L CNN
 F 3 "" H 22000 15750 60  0001 L CNN
 	1    22000 15750
@@ -4766,7 +4762,7 @@ $EndComp
 Wire Wire Line
 	12850 24250 13500 24250
 Text Label 13450 24250 2    70   ~ 0
-OUT-CIR
+CIR-OUT
 Wire Wire Line
 	11250 24250 11250 25250
 Wire Wire Line
@@ -4774,8 +4770,6 @@ Wire Wire Line
 Wire Wire Line
 	10500 25250 11250 25250
 Connection ~ 11250 25250
-Text Label 11300 24250 0    70   ~ 0
-VOL-OUT
 Wire Wire Line
 	12850 25250 13500 25250
 $Comp
@@ -6204,4 +6198,8 @@ Wire Wire Line
 Text Label 21900 14750 2    70   ~ 0
 LFO-AUTO
 Connection ~ 16750 15250
+Text Label 20800 28250 0    70   ~ 0
+OUT
+Text Label 20200 28250 2    70   ~ 0
+CIR-OUT
 $EndSCHEMATC
