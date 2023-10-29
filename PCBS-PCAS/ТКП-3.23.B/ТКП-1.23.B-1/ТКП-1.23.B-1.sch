@@ -2941,7 +2941,7 @@ F 6 "Dragon City Industries" H 22000 28700 60  0000 C CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	20750 28250 21400 28250
+	21000 28250 21400 28250
 $Comp
 L KCL:POWER_COM #PWR0105
 U 1 1 61445378
@@ -2956,10 +2956,10 @@ F 4 "COM" V 17750 28750 100 0001 L CNN "Label"
 $EndComp
 Wire Wire Line
 	17600 28750 17750 28750
-Text Label 18200 28250 2    70   ~ 0
+Text Label 17950 28250 2    70   ~ 0
 IN
 Wire Wire Line
-	17600 28250 18250 28250
+	17600 28250 18000 28250
 Wire Wire Line
 	21250 28750 21400 28750
 $Comp
@@ -6198,7 +6198,7 @@ Wire Wire Line
 Text Label 21900 14750 2    70   ~ 0
 LFO-AUTO
 Connection ~ 16750 15250
-Text Label 20800 28250 0    70   ~ 0
+Text Label 21050 28250 0    70   ~ 0
 OUT
 Text Label 20200 28250 2    70   ~ 0
 CIR-OUT
