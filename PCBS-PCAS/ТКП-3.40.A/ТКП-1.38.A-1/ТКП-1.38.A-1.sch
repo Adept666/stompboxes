@@ -4,14 +4,14 @@ EELAYER END
 $Descr A1 33110 23386
 encoding utf-8
 Sheet 1 1
-Title "Phaser A"
-Date "2023-04-09"
+Title "ТКП-1.38.A-1"
+Date "2023-10-31"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Phaser A [REV1A] Исполнение 1"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L ICL_TEXAS_INSTRUMENTS:LM13700 A.D1
@@ -1848,20 +1848,6 @@ Wire Wire Line
 	7250 10850 7250 11000
 Wire Wire Line
 	6750 11000 7250 11000
-$Comp
-L KCL:RESISTOR_GENERAL FB.R2
-U 1 1 68207BF0
-P 7250 10500
-F 0 "FB.R2" V 7400 10650 100 0000 L CNN
-F 1 "273" V 7250 10500 100 0001 L CNN
-F 2 "KCL-SM:R-SM-1206" V 7250 10500 60  0001 L CNN
-F 3 "" V 7250 10500 60  0001 L CNN
-F 4 "27 кОм" V 7300 10650 60  0000 L CNN "Resistance"
-F 5 "1%" V 7200 10650 60  0000 L CNN "Tolerance"
-F 6 "1206" V 7100 10650 60  0000 L CNN "Package"
-	1    7250 10500
-	0    -1   -1   0   
-$EndComp
 Text Notes 12750 9500 0    200  ~ 0
 POWER SUPPLY
 Connection ~ 13750 11000
@@ -3376,11 +3362,11 @@ L KCL:RESISTOR_GENERAL_2U_REAL-VIRTUAL L.R3
 U 1 1 675F591A
 P 27000 4750
 F 0 "L.R3" H 27000 4750 100 0001 C CNN
-F 1 "0" H 27000 4750 100 0001 C CNN
+F 1 "X" H 27000 4750 100 0001 C CNN
 F 2 "KCL-SM:R-SM-1206" H 27000 4750 60  0001 C CNN
 F 3 "" H 27000 4750 60  0001 C CNN
 F 4 "L.R3" H 27000 5100 100 0000 C CNN "Designator"
-F 5 "0" H 27000 5000 60  0000 C CNN "Resistance"
+F 5 "X" H 27000 5000 60  0000 C CNN "Resistance"
 F 6 "1206" H 27000 4900 60  0000 C CNN "Package"
 	1    27000 4750
 	1    0    0    -1  
@@ -3390,11 +3376,11 @@ L KCL:RESISTOR_GENERAL_2U_REAL-VIRTUAL L.R3
 U 2 1 67670F52
 P 22250 8250
 F 0 "L.R3" H 22250 8250 100 0001 C CNN
-F 1 "0" H 22250 8250 100 0001 C CNN
+F 1 "X" H 22250 8250 100 0001 C CNN
 F 2 "KCL-SM:R-SM-1206" H 22250 8250 60  0001 C CNN
 F 3 "" H 22250 8250 60  0001 C CNN
 F 4 "L.R3" H 22250 8600 100 0000 C CNN "Designator"
-F 5 "0" H 22250 8500 60  0000 C CNN "Resistance"
+F 5 "X" H 22250 8500 60  0000 C CNN "Resistance"
 F 6 "1206" H 22250 8400 60  0000 C CNN "Package"
 	2    22250 8250
 	1    0    0    -1  
@@ -3472,5 +3458,18 @@ F 6 "RV16AF-10-15K" H 26250 6050 60  0000 C CNN "Product"
 F 7 "Alpha" H 26250 5950 60  0000 C CNN "Manufacturer"
 	1    26250 5250
 	-1   0    0    -1  
+$EndComp
+$Comp
+L KCL:RESISTOR_GENERAL FB.R2
+U 1 1 68207BF0
+P 7250 10500
+F 0 "FB.R2" V 7350 10650 100 0000 L CNN
+F 1 "X" V 7250 10500 100 0001 L CNN
+F 2 "KCL-SM:R-SM-1206" V 7250 10500 60  0001 L CNN
+F 3 "" V 7250 10500 60  0001 L CNN
+F 4 "X" V 7250 10650 60  0000 L CNN "Resistance"
+F 5 "1206" V 7150 10650 60  0000 L CNN "Package"
+	1    7250 10500
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
