@@ -5,7 +5,7 @@ $Descr A1 33110 23386
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.38.A-1"
-Date "2023-10-31"
+Date "2023-11-14"
 Rev "1A"
 Comp "Phaser A [REV1A] Исполнение 1"
 Comment1 "http://github.com/Adept666"
@@ -3282,7 +3282,7 @@ F 2 "SBKCL-VIRTUAL:XB-1590N1" H 4875 14250 60  0001 C CNN
 F 3 "" H 4875 14250 60  0001 C CNN
 F 4 "1590N1 Connector Board [REV1B]" H 4875 14900 60  0000 C CNN "Product"
 F 5 "Конфигурация: C" H 4875 14800 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 4875 14700 60  0000 C CNN "Manufacturer"
+F 6 "-ТТКРЧПДЛ-" H 4875 14700 60  0000 C CNN "Manufacturer"
 	1    4875 14250
 	1    0    0    -1  
 $EndComp
