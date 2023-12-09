@@ -1,4 +1,4 @@
-update=Вс 19 мар 2023 18:10:18
+update=Sat Dec  9 19:32:17 2023
 version=1
 last_client=kicad
 [cvpcb]
@@ -205,7 +205,7 @@ Enabled=0
 [pcbnew/Layer.B.SilkS]
 Enabled=1
 [pcbnew/Layer.F.SilkS]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.B.Mask]
 Enabled=1
 [pcbnew/Layer.F.Mask]
