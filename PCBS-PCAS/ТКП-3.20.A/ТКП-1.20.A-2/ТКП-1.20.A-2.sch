@@ -4,24 +4,26 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "1590BB Potentiometer Board 18 3x17"
-Date "2022-07-16"
+Title "ТКП-1.20.A-2"
+Date "2023-12-09"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометров: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 18 мм"
+Comp "Копка Земли Potentiometer Board [REV1A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP2
 U 1 1 5FE7A122
 P 4250 5500
-F 0 "RP2" H 4250 5250 100 0000 C CNN
-F 1 "RP2: 16/17" H 4250 5500 100 0001 C CNN
+F 0 "RP2" H 4250 5000 100 0000 C CNN
+F 1 "RP2: B50K" H 4250 5500 100 0001 C CNN
 F 2 "KCL-TH-SL:RP-PDB181-K-20-P" H 4250 5500 60  0001 C CNN
 F 3 "" H 4250 5500 60  0001 C CNN
-F 4 "16/17 мм" H 4250 5350 60  0000 C CNN "Diameter"
+F 4 "50 кОм (B)" H 4250 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L20F" H 4250 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 4250 5300 60  0000 C CNN "Manufacturer"
 	1    4250 5500
 	-1   0    0    1   
 $EndComp
@@ -55,18 +57,6 @@ Wire Wire Line
 	4600 5500 5000 5500
 Wire Wire Line
 	5000 5500 5000 5950
-$Comp
-L KCL:RESISTOR_VARIABLE RP3
-U 1 1 60857FB0
-P 2500 5500
-F 0 "RP3" H 2500 5250 100 0000 C CNN
-F 1 "RP3: 16/17" H 2500 5500 100 0001 C CNN
-F 2 "KCL-TH-SL:RP-PDB181-K-20-P" H 2500 5500 60  0001 C CNN
-F 3 "" H 2500 5500 60  0001 C CNN
-F 4 "16/17 мм" H 2500 5350 60  0000 C CNN "Diameter"
-	1    2500 5500
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	2500 5750 2500 5950
 Wire Wire Line
@@ -81,11 +71,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP1
 U 1 1 60859B26
 P 6000 5500
-F 0 "RP1" H 6000 5250 100 0000 C CNN
-F 1 "RP1: 16/17" H 6000 5500 100 0001 C CNN
+F 0 "RP1" H 6000 5000 100 0000 C CNN
+F 1 "RP1: B50K" H 6000 5500 100 0001 C CNN
 F 2 "KCL-TH-SL:RP-PDB181-K-20-P" H 6000 5500 60  0001 C CNN
 F 3 "" H 6000 5500 60  0001 C CNN
-F 4 "16/17 мм" H 6000 5350 60  0000 C CNN "Diameter"
+F 4 "50 кОм (B)" H 6000 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L20F" H 6000 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 6000 5300 60  0000 C CNN "Manufacturer"
 	1    6000 5500
 	-1   0    0    1   
 $EndComp
@@ -196,4 +188,18 @@ Wire Wire Line
 Wire Wire Line
 	4250 6000 4450 6000
 Connection ~ 4250 6000
+$Comp
+L KCL:RESISTOR_VARIABLE RP3
+U 1 1 60857FB0
+P 2500 5500
+F 0 "RP3" H 2500 5000 100 0000 C CNN
+F 1 "RP3: B50K" H 2500 5500 100 0001 C CNN
+F 2 "KCL-TH-SL:RP-PDB181-K-20-P" H 2500 5500 60  0001 C CNN
+F 3 "" H 2500 5500 60  0001 C CNN
+F 4 "50 кОм (B)" H 2500 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L20F" H 2500 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 2500 5300 60  0000 C CNN "Manufacturer"
+	1    2500 5500
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
