@@ -4,24 +4,26 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "1590N1 Potentiometer Board 18 2x17"
-Date "2023-01-31"
+Title "ТКП-1.35.A-1"
+Date "2023-12-19"
 Rev "2A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометров: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 18 мм"
+Comp "Тремоло Саши Огородникова Potentiometer Board [REV2A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP2
 U 1 1 5FE7A122
 P 3500 5500
-F 0 "RP2" H 3500 5250 100 0000 C CNN
-F 1 "RP2: 16/17" H 3500 5500 100 0001 C CNN
+F 0 "RP2" H 3500 5000 100 0000 C CNN
+F 1 "RP2: A100K" H 3500 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 3500 5500 60  0001 C CNN
 F 3 "" H 3500 5500 60  0001 C CNN
-F 4 "16/17 мм" H 3500 5350 60  0000 C CNN "Diameter"
+F 4 "100 кОм (A)" H 3500 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L20KC" H 3500 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 3500 5300 60  0000 C CNN "Manufacturer"
 	1    3500 5500
 	-1   0    0    1   
 $EndComp
@@ -48,11 +50,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP1
 U 1 1 60859B26
 P 5000 5500
-F 0 "RP1" H 5000 5250 100 0000 C CNN
-F 1 "RP1: 16/17" H 5000 5500 100 0001 C CNN
+F 0 "RP1" H 5000 5000 100 0000 C CNN
+F 1 "RP1: A100K" H 5000 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 5000 5500 60  0001 C CNN
 F 3 "" H 5000 5500 60  0001 C CNN
-F 4 "16/17 мм" H 5000 5350 60  0000 C CNN "Diameter"
+F 4 "100 кОм (A)" H 5000 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L20KC" H 5000 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 5000 5300 60  0000 C CNN "Manufacturer"
 	1    5000 5500
 	-1   0    0    1   
 $EndComp
