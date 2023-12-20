@@ -177,6 +177,14 @@
 
 [B_Fab](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-FAB-BOTTOM.pdf)
 
+[F_Cuts](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-CUTS-TOP.pdf)
+
+[B_Cuts](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-CUTS-BOTTOM.pdf)
+
+[F_Jumpers](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-JUMPERS-TOP.pdf)
+
+[B_Jumpers](/PCBS-PCAS/ТКП-3.23.A/ТКП-1.23.A-1/output/ТКП-1.23.A-1-JUMPERS-BOTTOM.pdf)
+
 [Gerber](/PCBS-PCAS/ТКП-3.23.A/output/salty_phaser_r1a_gerber.zip)
 
 ## Копка Земли [REV1]
