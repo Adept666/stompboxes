@@ -4,24 +4,26 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "1590N1 Potentiometer Board 18 3x17"
-Date "2023-02-10"
+Title "ТКП-1.29.A-1"
+Date "2023-12-21"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометров: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 18 мм"
+Comp "Edamamer Potentiometer Board [REV1A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP2
 U 1 1 5FE7A122
 P 4250 5500
-F 0 "RP2" H 4250 5250 100 0000 C CNN
-F 1 "RP2: 16/17" H 4250 5500 100 0001 C CNN
+F 0 "RP2" H 4250 5000 100 0000 C CNN
+F 1 "RP2: A500K" H 4250 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 4250 5500 60  0001 C CNN
 F 3 "" H 4250 5500 60  0001 C CNN
-F 4 "16/17 мм" H 4250 5350 60  0000 C CNN "Diameter"
+F 4 "500 кОм (A)" H 4250 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L15KC" H 4250 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 4250 5300 60  0000 C CNN "Manufacturer"
 	1    4250 5500
 	-1   0    0    1   
 $EndComp
@@ -37,11 +39,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP3
 U 1 1 60857FB0
 P 2750 5500
-F 0 "RP3" H 2750 5250 100 0000 C CNN
-F 1 "RP3: 16/17" H 2750 5500 100 0001 C CNN
+F 0 "RP3" H 2750 5000 100 0000 C CNN
+F 1 "RP3: A500K" H 2750 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 2750 5500 60  0001 C CNN
 F 3 "" H 2750 5500 60  0001 C CNN
-F 4 "16/17 мм" H 2750 5350 60  0000 C CNN "Diameter"
+F 4 "500 кОм (A)" H 2750 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L15KC" H 2750 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 2750 5300 60  0000 C CNN "Manufacturer"
 	1    2750 5500
 	-1   0    0    1   
 $EndComp
@@ -59,11 +63,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP1
 U 1 1 60859B26
 P 5750 5500
-F 0 "RP1" H 5750 5250 100 0000 C CNN
-F 1 "RP1: 16/17" H 5750 5500 100 0001 C CNN
+F 0 "RP1" H 5750 5000 100 0000 C CNN
+F 1 "RP1: A100K" H 5750 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 5750 5500 60  0001 C CNN
 F 3 "" H 5750 5500 60  0001 C CNN
-F 4 "16/17 мм" H 5750 5350 60  0000 C CNN "Diameter"
+F 4 "100 кОм (A)" H 5750 5100 60  0000 C CNN "Resistance"
+F 5 "R16K1-L15KC" H 5750 5200 60  0000 C CNN "Product"
+F 6 "Song Huei Electric" H 5750 5300 60  0000 C CNN "Manufacturer"
 	1    5750 5500
 	-1   0    0    1   
 $EndComp
