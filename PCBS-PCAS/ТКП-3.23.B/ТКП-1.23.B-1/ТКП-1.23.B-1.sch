@@ -5,7 +5,7 @@ $Descr A1 23386 33110 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.23.B-1"
-Date "2023-11-13"
+Date "2023-12-21"
 Rev "1B"
 Comp "Salty Phaser [REV1B]"
 Comment1 "http://github.com/Adept666"
@@ -3081,7 +3081,7 @@ Wire Wire Line
 Text Label 5450 27950 2    70   ~ 0
 LED-SPEED
 Text Label 5450 28250 2    70   ~ 0
-LED-RATE
+LED-MS
 Text Label 5450 28450 2    70   ~ 0
 LFO-AUTO
 $Comp
@@ -3757,10 +3757,10 @@ L KCL:VIRTUAL_ENCLOSURE VE1
 U 1 1 6144538C
 P 13750 29500
 F 0 "VE1" H 13750 30050 100 0000 C CNN
-F 1 "ТКП-6.1.1.A1-2" H 13750 29500 100 0001 C CNN
-F 2 "SBEL:ТКП-6.1.1.A1" H 13750 29500 60  0001 C CNN
+F 1 "ТКП-6.1.1.B1-1" H 13750 29500 100 0001 C CNN
+F 2 "SBEL:ТКП-6.1.1.B1" H 13750 29500 60  0001 C CNN
 F 3 "" H 13750 29500 60  0001 C CNN
-F 4 "ТКП-6.1.1.A1-2" H 13750 29950 60  0000 C CNN "Product"
+F 4 "ТКП-6.1.1.B1-1" H 13750 29950 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 13750 29850 60  0000 C CNN "Manufacturer"
 	1    13750 29500
 	1    0    0    -1  
@@ -5918,7 +5918,7 @@ $EndComp
 Text Label 3050 30000 0    70   ~ 0
 LED-SPEED
 Text Label 5050 30000 0    70   ~ 0
-LED-RATE
+LED-MS
 Text Label 7050 30000 0    70   ~ 0
 LED-FB
 Wire Wire Line
