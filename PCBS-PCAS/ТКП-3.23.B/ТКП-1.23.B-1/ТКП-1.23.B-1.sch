@@ -5,7 +5,7 @@ $Descr A1 23386 33110 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.23.B-1"
-Date "2023-12-21"
+Date "2023-12-23"
 Rev "1B"
 Comp "Salty Phaser [REV1B]"
 Comment1 "http://github.com/Adept666"
@@ -3744,10 +3744,10 @@ L KCL:VIRTUAL_ENCLOSURE VE2
 U 1 1 64E73D0E
 P 13750 30500
 F 0 "VE2" H 13750 31050 100 0000 C CNN
-F 1 "ТКП-6.1.3.D1-1" H 13750 30500 100 0001 C CNN
-F 2 "SBEL:ТКП-6.1.3" H 13750 30500 60  0001 C CNN
+F 1 "ТКП-6.1.5.A1-1" H 13750 30500 100 0001 C CNN
+F 2 "SBEL:ТКП-6.1.5" H 13750 30500 60  0001 C CNN
 F 3 "" H 13750 30500 60  0001 C CNN
-F 4 "ТКП-6.1.3.D1-1" H 13750 30950 60  0000 C CNN "Product"
+F 4 "ТКП-6.1.5.A1-1" H 13750 30950 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 13750 30850 60  0000 C CNN "Manufacturer"
 	1    13750 30500
 	1    0    0    -1  
