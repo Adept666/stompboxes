@@ -97,7 +97,7 @@
      id="metadata5"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Salty Phaser [REV1SM] V1</dc:title><cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /><dc:creator><cc:Agent><dc:title>Igor Ivanov</dc:title></cc:Agent></dc:creator><dc:date>26.12.2023</dc:date><dc:contributor><cc:Agent><dc:title>Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /><dc:creator><cc:Agent><dc:title>Igor Ivanov</dc:title></cc:Agent></dc:creator><dc:date>28.12.2023</dc:date><dc:contributor><cc:Agent><dc:title>Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
 B. Jackowski
 J.M. Nowacki</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/"><cc:permits
@@ -968,9 +968,9 @@ J.M. Nowacki</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
        id="text2733-6-2-2-1-6"
        y="261.38266"
        x="4.2519975"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:0;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';letter-spacing:0.661458px;word-spacing:-3.96875px;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:0;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';letter-spacing:0.661458px;word-spacing:-3.96875px;stroke-width:0.265;stroke-dasharray:none"
          y="261.38266"
          x="4.2519975"
          id="tspan2731-1-0-3-89-4"
@@ -1050,7 +1050,40 @@ J.M. Nowacki</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
        d="m 336.59732,391.12711 -16.76066,7.35016 2.01491,-18.19023 z"
        transform="matrix(0.26458333,0,0,0.26458333,0.53997692,177.40154)"
        inkscape:transform-center-x="-1.3644901"
-       inkscape:transform-center-y="0.19927537" /></g><style
+       inkscape:transform-center-y="0.19927537" /><g
+       id="Sketch"
+       transform="matrix(1,0,0,-1,46.999998,267.73)"><path
+         id="Sketch_w0000"
+         d="m 3.5940054,2.075 1.7320508,1"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#020202;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+         id="Sketch_w0001"
+         d="m 4.15,0 h 2"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+         id="Sketch_w0002"
+         d="m 3.5940054,-2.075 1.7320508,-1"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+         id="Sketch_w0003"
+         d="m -3.5940054,2.075 -1.7320508,1"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+         id="Sketch_w0004"
+         d="m -4.15,0 h -2"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+         id="Sketch_w0005"
+         d="m -3.5940054,-2.075 -1.7320508,-1"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><title
+         id="title1">b'Sketch'</title></g></g><style
      type="text/css"
      id="style10089">
 	.st0{fill:#000000;}
