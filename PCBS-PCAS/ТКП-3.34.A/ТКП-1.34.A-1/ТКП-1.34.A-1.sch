@@ -4,14 +4,14 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "1590BB2 Connector Board Extended"
-Date "2023-02-28"
+Title "ТКП-1.34.A-1"
+Date "2024-01-14"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "1590BB2 Connector Board Extended [REV1A] A"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:SWITCH_GENERAL_02P_02T_C SA1
@@ -292,7 +292,7 @@ $EndComp
 Wire Wire Line
 	3250 2250 3550 2250
 $Comp
-L TMPKCL:CONNECTOR_M_004_10_con XP1
+L SBKCL:CONNECTOR_M_004_10_CONNECTOR-BOARD XP1
 U 1 1 62E7298F
 P 6000 8250
 F 0 "XP1" H 6500 8900 100 0000 C CNN
