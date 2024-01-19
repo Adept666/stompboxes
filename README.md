@@ -6,23 +6,23 @@
 
 ## Big Muff [REV3]
 
-[Gerber](/big_muff_r3a/output/big_muff_r3a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.30.A/output/big_muff_r3a_gerber.zip)
 
 ### Bass
 
-[Schematic](/big_muff_r3a/bass/output/big_muff_r3a_bass_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-2/output/ТКП-1.30.A-2-SCH.pdf)
 
-[F_Fab](/big_muff_r3a/bass/output/big_muff_r3a_bass_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-2/output/ТКП-1.30.A-2-FAB-TOP.pdf)
 
-[B_Fab](/big_muff_r3a/bass/output/big_muff_r3a_bass_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-2/output/ТКП-1.30.A-2-FAB-BOTTOM.pdf)
 
 ### NYC
 
-[Schematic](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-SCH.pdf)
 
-[F_Fab](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-FAB-TOP.pdf)
 
-[B_Fab](/big_muff_r3a/nyc/output/big_muff_r3a_nyc_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-FAB-BOTTOM.pdf)
 
 ## Big Muff [REV2]
 
