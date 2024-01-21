@@ -4,14 +4,14 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title "Big Muff (Bass)"
-Date "2023-02-10"
+Title "ТКП-1.30.A-2"
+Date "2024-01-21"
 Rev "3A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Big Muff [REV3A] Bass"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:SWITCH_BUTTON_LOCK_03P_02T SB1
