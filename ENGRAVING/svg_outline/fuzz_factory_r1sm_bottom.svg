@@ -49,7 +49,7 @@
      id="metadata5"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Fuzz Factory [REV1SM] Bottom</dc:title><cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /><dc:creator><cc:Agent><dc:title>Igor Ivanov</dc:title></cc:Agent></dc:creator><dc:date>07.02.2024</dc:date></cc:Work><cc:License
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" /><dc:creator><cc:Agent><dc:title>Igor Ivanov</dc:title></cc:Agent></dc:creator><dc:date>15.02.2024</dc:date></cc:Work><cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/"><cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
@@ -61,10 +61,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      transform="matrix(0.26458334,0,0,0.26458333,123.27,0)"><path
+       id="path4"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m -251.84826,161.08348 a 37.795271,37.795272 0 0 0 -37.79686,37.7949 37.795271,37.795272 0 0 0 37.79686,37.79494 37.795271,37.795272 0 0 0 37.79492,-37.79494 37.795271,37.795272 0 0 0 -37.79492,-37.7949 z m 0,17.0078 a 20.787399,20.7874 0 0 1 20.78711,20.78706 20.787399,20.7874 0 0 1 -20.78711,20.78714 20.787399,20.7874 0 0 1 -20.78905,-20.78714 20.787399,20.7874 0 0 1 20.78905,-20.78706 z"
-       id="path162-3"
-       inkscape:connector-curvature="0" /><path
+       d="M -251.84767 161.08399 A 37.795271 37.795272 0 0 0 -289.64454 198.87891 A 37.795271 37.795272 0 0 0 -268.35353 232.81836 L -235.34376 232.81836 A 37.795271 37.795272 0 0 0 -214.05275 198.87891 A 37.795271 37.795272 0 0 0 -251.84767 161.08399 z M -251.84767 178.0918 A 20.787399 20.7874 0 0 1 -231.06056 198.87891 A 20.787399 20.7874 0 0 1 -251.84767 219.66602 A 20.787399 20.7874 0 0 1 -272.63673 198.87891 A 20.787399 20.7874 0 0 1 -251.84767 178.0918 z " /><path
        id="path21"
        style="fill:#000000;fill-opacity:0.971828;stroke-width:0;stroke-dashoffset:2.26772"
        d="m -415.04923,29.895113 a 20.787401,20.787401 0 0 0 -20.78711,20.78711 20.787401,20.787401 0 0 0 20.78711,20.789063 20.787401,20.787401 0 0 0 20.78711,-20.789063 20.787401,20.787401 0 0 0 -20.78711,-20.78711 z m 0,9.072266 a 11.716536,11.716536 0 0 1 11.71679,11.714844 11.716536,11.716536 0 0 1 -11.71679,11.716797 11.716536,11.716536 0 0 1 -11.7168,-11.716797 11.716536,11.716536 0 0 1 11.7168,-11.714844 z" /><path
