@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "Potentiometer Board 18 1x17"
-Date "2022-07-30"
+Title "ТКП-1.31.A-1"
+Date "2024-04-29"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометра: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 18 мм"
+Comp "Potentiometer Board 18 1x17 [REV1A] R16K1-20KC-A100K"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP1
@@ -123,4 +123,6 @@ Wire Wire Line
 Connection ~ 3250 5750
 Wire Wire Line
 	3250 5750 3250 5950
+Text Notes 3550 9900 0    100  ~ 0
+1. J1 и J2 оставить разомкнутыми.
 $EndSCHEMATC

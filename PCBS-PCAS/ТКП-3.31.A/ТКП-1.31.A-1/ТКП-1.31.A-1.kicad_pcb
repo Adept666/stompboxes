@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.6-c6e7f7d~87~ubuntu19.10.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.12-84ad8e8a86~92~ubuntu20.04.1)
 
   (general
     (thickness 1.6)
-    (drawings 7)
+    (drawings 8)
     (tracks 15)
     (zones 0)
     (modules 4)
@@ -11,14 +11,14 @@
 
   (page A4 portrait)
   (title_block
-    (title "Potentiometer Board 18 1x17")
-    (date 2022-10-16)
+    (title ТКП-1.31.A-1)
+    (date 2024-04-29)
     (rev 1A)
-    (company "Igor Ivanov")
-    (comment 1 https://github.com/Adept666)
-    (comment 2 "This project is licensed under GNU General Public License v3.0 or later")
-    (comment 3 "Диаметр потенциометра: 16 мм, 17 мм")
-    (comment 4 "Расстояние от основной платы до корпуса: 18 мм")
+    (company "Potentiometer Board 18 1x17 [REV1A] R16K1-20KC-A100K")
+    (comment 1 http://github.com/Adept666)
+    (comment 2 "Igor Ivanov (Игорь Иванов)")
+    (comment 3 -ТТКРЧПДЛ-)
+    (comment 4 "This project is licensed under GNU General Public License v3.0 or later")
   )
 
   (layers
@@ -230,6 +230,9 @@
       (net 3 "Net-(J1-Pad1)"))
   )
 
+  (gr_text "1. J1 и J2 оставить разомкнутыми." (at 119.83 250.19) (layer B.Fab)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left mirror))
+  )
   (gr_line (start 110.41 142.875) (end 110.49 144.78) (layer B.Mask) (width 1.7))
   (gr_line (start 105.41 142.875) (end 105.41 144.78) (layer B.Mask) (width 1.7))
   (gr_line (start 100.41 142.875) (end 100.33 144.78) (layer B.Mask) (width 1.7))
