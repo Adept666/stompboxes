@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "Potentiometer Board 20 1x17"
-Date "2022-07-16"
+Title "ТКП-1.18.A-1"
+Date "2024-05-19"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометра: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 20 мм"
+Comp "Potentiometer Board 20 1x17 [REV1A] R16K1-20F-B50K"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP1
