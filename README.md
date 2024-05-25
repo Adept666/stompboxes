@@ -76,11 +76,11 @@
 
 ## Distortion + [REV2]
 
-[Schematic](/distortion_+_r2a/output/distortion_+_r2a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-SCH.pdf)
 
-[F_Fab](/distortion_+_r2a/output/distortion_+_r2a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-FAB-TOP.pdf)
 
-[Gerber](/distortion_+_r2a/output/distortion_+_r2a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.11.A/output/distortion_+_r2a_gerber.zip)
 
 ## Fishtaur [REV1]
 

@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Distortion +"
-Date "2021-07-04"
+Title "ТКП-1.11.A-1"
+Date "2024-05-25"
 Rev "2A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Distortion + [REV2A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:SWITCH_BUTTON_LOCK_03P_02T SB1

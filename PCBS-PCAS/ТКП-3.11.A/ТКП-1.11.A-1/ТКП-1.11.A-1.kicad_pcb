@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.6-c6e7f7d~87~ubuntu19.10.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.12-84ad8e8a86~92~ubuntu20.04.1)
 
   (general
     (thickness 1.6)
@@ -11,12 +11,14 @@
 
   (page A4 portrait)
   (title_block
-    (title "Distortion +")
-    (date 2022-07-16)
+    (title ТКП-1.11.A-1)
+    (date 2024-05-25)
     (rev 2A)
-    (company "Igor Ivanov")
-    (comment 1 https://github.com/Adept666)
-    (comment 2 "This project is licensed under GNU General Public License v3.0 or later")
+    (company "Distortion + [REV2A]")
+    (comment 1 http://github.com/Adept666)
+    (comment 2 "Igor Ivanov (Игорь Иванов)")
+    (comment 3 -ТТКРЧПДЛ-)
+    (comment 4 "This project is licensed under GNU General Public License v3.0 or later")
   )
 
   (layers
@@ -1258,7 +1260,7 @@
     (fp_text reference SB1 (at 0 -7.493) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value PBS-24-302SP (at 0 7.62) (layer F.Fab)
+    (fp_text value PBS-24-302SP (at 0 0) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_circle (center 0 0) (end 5 0) (layer F.Fab) (width 0.2))
