@@ -64,6 +64,14 @@
 
 [Gerber](/PCBS-PCAS/ТКП-3.17.B/output/deep_blue_delay_r3b_gerber.zip)
 
+## Distortion + [REV2]
+
+[Schematic](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-FAB-TOP.pdf)
+
+[Gerber](/PCBS-PCAS/ТКП-3.11.A/output/distortion_+_r2a_gerber.zip)
+
 ## Edamamer [REV1]
 
 [Schematic](/edamamer_r1a/output/edamamer_r1a_schematic.pdf)
@@ -73,14 +81,6 @@
 [B_Fab](/edamamer_r1a/output/edamamer_r1a_fab_bottom.pdf)
 
 [Gerber](/edamamer_r1a/output/edamamer_r1a_gerber.zip)
-
-## Distortion + [REV2]
-
-[Schematic](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-SCH.pdf)
-
-[F_Fab](/PCBS-PCAS/ТКП-3.11.A/ТКП-1.11.A-1/output/ТКП-1.11.A-1-FAB-TOP.pdf)
-
-[Gerber](/PCBS-PCAS/ТКП-3.11.A/output/distortion_+_r2a_gerber.zip)
 
 ## Fishtaur [REV1]
 
