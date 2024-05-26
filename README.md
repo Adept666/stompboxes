@@ -161,13 +161,13 @@
 
 ## Little Angel Chorus [REV1]
 
-[Schematic](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.12.A/ТКП-1.12.A-1/output/ТКП-1.12.A-1-SCH.pdf)
 
-[F_Fab](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.12.A/ТКП-1.12.A-1/output/ТКП-1.12.A-1-FAB-TOP.pdf)
 
-[B_Fab](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.12.A/ТКП-1.12.A-1/output/ТКП-1.12.A-1-FAB-BOTTOM.pdf)
 
-[Gerber](/little_angel_chorus_r1a/output/little_angel_chorus_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.12.A/output/little_angel_chorus_r1a_gerber.zip)
 
 ## Salty Phaser [REV1]
 
