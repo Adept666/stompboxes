@@ -194,7 +194,7 @@
     (add_net V)
   )
 
-  (module SBKCL-TH-SL:RPB-20-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5E5B6DB9)
+  (module SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5E5B6DB9)
     (at 124.46 108.15)
     (path /5F3FC4FA)
     (fp_text reference RP3 (at 0 15.04) (layer F.SilkS)
@@ -251,7 +251,7 @@
       (net 38 "Net-(R9-Pad2)"))
   )
 
-  (module SBKCL-TH-SL:RPB-20-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5F7F73E9)
+  (module SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5F7F73E9)
     (at 105.41 121.92)
     (path /5F3FC4FC)
     (fp_text reference RP2 (at 0 15.24) (layer F.SilkS)
@@ -306,7 +306,7 @@
       (net 31 "Net-(C13-Pad1)"))
   )
 
-  (module SBKCL-TH-SL:RPB-20-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5F457720)
+  (module SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.4-2.8 (layer F.Cu) (tedit 62D93815) (tstamp 5F457720)
     (at 86.36 108.15)
     (path /5F3FC4FD)
     (fp_text reference RP1 (at 0 8.69) (layer F.SilkS)
