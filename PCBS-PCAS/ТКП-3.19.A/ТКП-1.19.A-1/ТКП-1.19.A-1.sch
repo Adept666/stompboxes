@@ -4,14 +4,14 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title "Good Grief Overdrive"
-Date "2022-03-20"
+Title "ТКП-1.19.A-1"
+Date "2024-06-09"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Good Grief Overdrive [REV1A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:SWITCH_BUTTON_LOCK_03P_02T SB1
@@ -232,14 +232,14 @@ PP3-POS
 $Comp
 L KCL:VIRTUAL_ENCLOSURE VE1
 U 1 1 61326701
-P 20000 3950
-F 0 "VE1" H 20000 4450 100 0000 C CNN
-F 1 "1590BB" H 20000 3950 100 0001 C CNN
-F 2 "SBEL:1590BB_A1" H 20000 3950 60  0001 C CNN
-F 3 "" H 20000 3950 60  0001 C CNN
-F 4 "1590BB" H 20000 4350 60  0000 C CNN "Product"
-F 5 "Hammond" H 20000 4250 60  0000 C CNN "Manufacturer"
-	1    20000 3950
+P 20000 4000
+F 0 "VE1" H 20000 4500 100 0000 C CNN
+F 1 "1590BB" H 20000 4000 100 0001 C CNN
+F 2 "SBEL:1590BB_A1" H 20000 4000 60  0001 C CNN
+F 3 "" H 20000 4000 60  0001 C CNN
+F 4 "1590BB" H 20000 4400 60  0000 C CNN "Product"
+F 5 "Hammond" H 20000 4300 60  0000 C CNN "Manufacturer"
+	1    20000 4000
 	1    0    0    -1  
 $EndComp
 $Comp

@@ -153,11 +153,11 @@
 
 ### [REV1A]
 
-[Schematic](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.19.A/ТКП-1.19.A-1/output/ТКП-1.19.A-1-SCH.pdf)
 
-[F_Fab](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.19.A/ТКП-1.19.A-1/output/ТКП-1.19.A-1-FAB-TOP.pdf)
 
-[Gerber](/good_grief_overdrive_r1a/output/good_grief_overdrive_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.19.A/output/good_grief_overdrive_r1a_gerber.zip)
 
 ## Little Angel Chorus [REV1]
 
