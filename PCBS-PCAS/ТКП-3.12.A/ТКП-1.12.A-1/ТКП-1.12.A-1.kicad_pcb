@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 21)
+    (drawings 20)
     (tracks 248)
     (zones 0)
     (modules 70)
@@ -1118,7 +1118,7 @@
       (net 54 "Net-(C7-Pad+)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7320D1)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7320D1)
     (at 87.63 142.24 270)
     (path /5E9D1E6B)
     (fp_text reference C19 (at -4.445 0 90) (layer F.SilkS)
@@ -1149,7 +1149,7 @@
       (net 13 /OUT-SCH))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7D18E1)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7D18E1)
     (at 142.24 154.94 270)
     (path /5E9E2486)
     (fp_text reference C6 (at 0 -2.54 90) (layer F.SilkS)
@@ -1180,7 +1180,7 @@
       (net 53 "Net-(C6-Pad2)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7321FE)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E7321FE)
     (at 91.44 142.24 270)
     (path /5E821E29)
     (fp_text reference C20 (at -4.445 0 90) (layer F.SilkS)
@@ -1211,7 +1211,7 @@
       (net 13 /OUT-SCH))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E662551)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E662551)
     (at 123.19 139.7 270)
     (path /5E841722)
     (fp_text reference C17 (at -4.445 0 90) (layer F.SilkS)
@@ -1802,7 +1802,7 @@
       (net 31 VA))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6642EC)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6642EC)
     (at 106.68 130.81 90)
     (path /5E845B61)
     (fp_text reference C14 (at 0 -2.54 90) (layer F.SilkS)
@@ -1833,7 +1833,7 @@
       (net 37 "Net-(C14-Pad2)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E658122)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E658122)
     (at 111.76 130.81 90)
     (path /5E8239FC)
     (fp_text reference C13 (at 0 -2.54 90) (layer F.SilkS)
@@ -1864,7 +1864,7 @@
       (net 20 "Net-(C13-Pad2)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E65810C)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E65810C)
     (at 96.52 130.81 90)
     (path /5E4C0A59)
     (fp_text reference C16 (at 0 -2.54 90) (layer F.SilkS)
@@ -1895,7 +1895,7 @@
       (net 40 "Net-(C16-Pad2)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6580F6)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6580F6)
     (at 101.6 130.81 90)
     (path /5E7D01B1)
     (fp_text reference C15 (at 0 -2.54 90) (layer F.SilkS)
@@ -1926,7 +1926,7 @@
       (net 39 "Net-(C15-Pad2)"))
   )
 
-  (module KCL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6580CA)
+  (module KCL-TH-SL:C-RECT-L07.3-W02.5-P05.08-d0.5 (layer F.Cu) (tedit 5D77E0C2) (tstamp 5E6580CA)
     (at 111.76 156.21 90)
     (path /5E922F9F)
     (fp_text reference C18 (at 0 -2.54 90) (layer F.SilkS)
@@ -2369,17 +2369,18 @@
       (net 2 "Net-(HL1-PadC)"))
   )
 
-  (module KCL:LED-ROUND-05.0-UNI-SH-SPACER (layer F.Cu) (tedit 5D667E8C) (tstamp 5E6536A5)
+  (module KCL-TH-SL:LED-ROUND-05.0-UNI-SH-SPACER-PNL-5.3 (layer F.Cu) (tedit 5D667E8C) (tstamp 666EF51B)
     (at 105.41 153.67 270)
     (path /5E64318D)
     (fp_text reference HL1 (at 3.81 0 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value FYL-5013UWC (at 6.35 0.635 180) (layer F.Fab)
-      (effects (font (size 1 1) (thickness 0.2)))
+    (fp_text value FYL-5013UWC (at 3.81 -4.7625) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.2)) (justify right))
     )
     (fp_line (start -2.5 -1.466994) (end -2.5 1.466994) (layer F.Fab) (width 0.2))
     (fp_circle (center 0 0) (end 2.5 0) (layer F.Fab) (width 0.2))
+    (fp_circle (center 0 0) (end 2.65 0) (layer Eco1.User) (width 0.4))
     (fp_arc (start 0 0) (end -2.5 1.469694) (angle -299.1) (layer F.Fab) (width 0.2))
     (pad C thru_hole circle (at -1.27 0 270) (size 2 2) (drill 0.7) (layers B.Cu B.Mask)
       (net 2 "Net-(HL1-PadC)"))
@@ -2485,7 +2486,7 @@
     (fp_text reference VLS1 (at 0 5.08) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value BR-17.8 (at 0 7.62) (layer F.Fab)
+    (fp_text value BR-17.8 (at 0 5.08) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_circle (center 0 0) (end 2.6 0) (layer F.CrtYd) (width 0.1))
@@ -2532,7 +2533,6 @@
   (gr_text "5. R3: устанавливать либо R3.1, либо R3.2." (at 90.17 250.19) (layer F.Fab)
     (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
   )
-  (gr_circle (center 105.41 153.67) (end 108.06 153.67) (layer Eco1.User) (width 0.4))
   (gr_text "Little Angel Chorus [REV1A]\n-ТТКРЧПДЛ-\ngithub.com/Adept666" (at 125.095 95.885) (layer F.SilkS) (tstamp 5E7E46BD)
     (effects (font (size 1 1) (thickness 0.2)))
   )
