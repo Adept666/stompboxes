@@ -400,9 +400,9 @@ F 4 "COM" H 18250 10500 100 0001 C CNN "Label"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	20250 11000 19500 11000
-Text Label 20200 11000 2    70   ~ 0
-OUT-SCH
+	20000 11000 19500 11000
+Text Label 19950 11000 2    70   ~ 0
+OUT-CIR
 $Comp
 L KCL:VIRTUAL_ENCLOSURE VE1
 U 1 1 5E73CB02
@@ -710,7 +710,7 @@ Connection ~ 11250 12000
 Wire Wire Line
 	19000 11000 18500 11000
 Text Label 18950 11000 2    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	18500 11000 18500 11150
 Wire Wire Line
@@ -821,9 +821,9 @@ Wire Wire Line
 Wire Wire Line
 	18600 9000 19000 9000
 Text Label 18950 9000 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Text Label 18950 10000 2    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	18600 9700 19250 9700
 Wire Wire Line
@@ -1034,7 +1034,7 @@ Wire Wire Line
 Wire Wire Line
 	14250 5250 14850 5250
 Text Label 21700 5500 2    70   ~ 0
-OUT-SCH
+OUT-CIR
 Wire Wire Line
 	15150 5250 15400 5250
 Connection ~ 16250 5250
@@ -1139,7 +1139,7 @@ F 6 "1206" H 11750 4150 60  0000 C CNN "Package"
 	1    0    0    -1  
 $EndComp
 Text Label 14300 5250 0    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	10500 4750 12900 4750
 Wire Wire Line
@@ -1634,13 +1634,13 @@ Wire Wire Line
 Wire Wire Line
 	3250 7000 4200 7000
 Wire Wire Line
-	20250 12500 19500 12500
-Text Label 20200 12500 2    70   ~ 0
-OUT-SCH
+	20000 12500 19500 12500
+Text Label 19950 12500 2    70   ~ 0
+OUT-CIR
 Wire Wire Line
 	19000 12500 18500 12500
 Text Label 18950 12500 2    70   ~ 0
-IN-SCH
+IN-CIR
 Wire Wire Line
 	18500 12500 18500 12650
 Wire Wire Line
@@ -1948,4 +1948,6 @@ F 6 "0,125 Вт" V 21350 12850 60  0000 R CNN "Power"
 	1    21500 13000
 	0    -1   -1   0   
 $EndComp
+Text Notes 18650 14750 0    100  ~ 0
+1. Установить либо R2.1, либо R2.2.\n2. Установить либо R3.1, либо R3.2.
 $EndSCHEMATC
