@@ -635,7 +635,7 @@
       (net 30 VB))
   )
 
-  (module KCL:SW-KN3-1-PCB (layer F.Cu) (tedit 5E74819A) (tstamp 5E72FEA0)
+  (module KCL-TH-SL:SW-KN3-1-PNL-13.0 (layer F.Cu) (tedit 5E74819A) (tstamp 5E72FEA0)
     (at 132.08 148.59)
     (path /5E6A7BAC)
     (fp_text reference SA2 (at 8.89 0) (layer F.SilkS)
@@ -671,7 +671,7 @@
       (net 55 "Net-(C7-Pad-)"))
   )
 
-  (module KCL:SW-KN3-1-PCB (layer F.Cu) (tedit 5E74819A) (tstamp 5E72FE3B)
+  (module KCL-TH-SL:SW-KN3-1-PNL-13.0 (layer F.Cu) (tedit 5E74819A) (tstamp 5E72FE3B)
     (at 78.74 148.59)
     (path /5EBC8394)
     (fp_text reference SA1 (at -8.89 0) (layer F.SilkS)
