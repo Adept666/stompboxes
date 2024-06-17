@@ -219,19 +219,19 @@
 
 ### [REV1A]
 
-[Gerber](/копка_земли_r1a/output/копка_земли_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.24.A/output/копка_земли_r1a_gerber.zip)
 
 ### [A] Down-Tuned
 
-[Schematic](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.24.A/ТКП-1.24.A-1/output/ТКП-1.24.A-1-SCH.pdf)
 
-[F_Fab](/копка_земли_r1a/down-tuned/output/копка_земли_r1a_down-tuned_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.24.A/ТКП-1.24.A-1/output/ТКП-1.24.A-1-FAB-TOP.pdf)
 
 ### [A] Standard-Tuned
 
-[Schematic](/копка_земли_r1a/standard-tuned/output/копка_земли_r1a_standard-tuned_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.24.A/ТКП-1.24.A-2/output/ТКП-1.24.A-2-SCH.pdf)
 
-[F_Fab](/копка_земли_r1a/standard-tuned/output/копка_земли_r1a_standard-tuned_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.24.A/ТКП-1.24.A-2/output/ТКП-1.24.A-2-FAB-TOP.pdf)
 
 ## Тремоло Саши Огородникова [REV1]
 
