@@ -4,14 +4,14 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title "Копка Земли (Down-Tuned)"
-Date "2023-03-01"
+Title "ТКП-1.24.A-1"
+Date "2024-06-19"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Копка Земли [REV1A] Down-Tuned"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:VIRTUAL_ENCLOSURE VE1
