@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.24.A-1"
-Date "2024-06-19"
+Date "2024-06-20"
 Rev "1A"
 Comp "Копка Земли [REV1A] Down-Tuned"
 Comment1 "http://github.com/Adept666"
@@ -1651,13 +1651,12 @@ $Comp
 L KCL:RESISTOR_GENERAL R2
 U 1 1 61E22E65
 P 13500 12250
-F 0 "R2" V 13650 12100 100 0000 R CNN
+F 0 "R2" V 13600 12100 100 0000 R CNN
 F 1 "X" V 13500 12250 100 0001 R CNN
 F 2 "KCL-TH-ML:R-MFR-25" V 13500 12250 60  0001 R CNN
 F 3 "" V 13500 12250 60  0001 R CNN
-F 4 "1,0 МОм" V 13550 12100 60  0000 R CNN "Resistance"
-F 5 "1%" V 13450 12100 60  0000 R CNN "Tolerance"
-F 6 "0,25 Вт" V 13350 12100 60  0000 R CNN "Power"
+F 4 "X" V 13500 12100 60  0000 R CNN "Resistance"
+F 5 "0,25 Вт" V 13400 12100 60  0000 R CNN "Power"
 	1    13500 12250
 	0    -1   -1   0   
 $EndComp
