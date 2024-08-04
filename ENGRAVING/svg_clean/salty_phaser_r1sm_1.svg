@@ -84,9 +84,9 @@
      inkscape:snap-global="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"><inkscape:page
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"><inkscape:page
        x="0"
        y="0"
        width="93.999992"
