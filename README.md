@@ -74,13 +74,13 @@
 
 ## Edamamer [REV1]
 
-[Schematic](/edamamer_r1a/output/edamamer_r1a_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.28.A/ТКП-1.28.A-1/output/ТКП-1.28.A-1-SCH.pdf)
 
-[F_Fab](/edamamer_r1a/output/edamamer_r1a_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.28.A/ТКП-1.28.A-1/output/ТКП-1.28.A-1-FAB-TOP.pdf)
 
-[B_Fab](/edamamer_r1a/output/edamamer_r1a_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.28.A/ТКП-1.28.A-1/output/ТКП-1.28.A-1-FAB-BOTTOM.pdf)
 
-[Gerber](/edamamer_r1a/output/edamamer_r1a_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.28.A/output/edamamer_r1a_gerber.zip)
 
 ## Fishtaur [REV1]
 

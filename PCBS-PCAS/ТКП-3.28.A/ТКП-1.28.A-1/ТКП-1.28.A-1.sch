@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.28.A-1"
-Date "2024-08-24"
+Date "2024-08-25"
 Rev "1A"
 Comp "Edamamer [REV1A]"
 Comment1 "http://github.com/Adept666"
@@ -862,7 +862,7 @@ U 1 1 60C4860F
 P 10250 12500
 F 0 "PS.D1" H 10250 12900 100 0000 C CNN
 F 1 "7660S" H 10250 12500 100 0001 C CNN
-F 2 "KCL:P-DIP-08" H 10250 12500 60  0001 C CNN
+F 2 "KCL-TH-ML:P-DIP-08" H 10250 12500 60  0001 C CNN
 F 3 "http://www.renesas.com/eu/en/document/dst/icl7660s-icl7660a-datasheet?language=en&r=501846" H 10250 12500 60  0001 C CNN
 F 4 "ICL7660SCPA" H 10250 12800 60  0000 C CNN "Product"
 F 5 "Renesas" H 10250 12700 60  0000 C CNN "Manufacturer"
