@@ -104,13 +104,13 @@
 
 ### Main Board [REV1D] / Potentiometer Board [REV1C]
 
-[Schematic](/fuzz_factory_r1d_r1c/output/fuzz_factory_r1d_r1c_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.14.D-ТКП-3.15.C/ТКП-1.14.D-1-ТКП-1.15.C-1/output/ТКП-1.14.D-1-ТКП-1.15.C-1-SCH.pdf)
 
-[F_Fab](/fuzz_factory_r1d_r1c/output/fuzz_factory_r1d_r1c_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.14.D-ТКП-3.15.C/ТКП-1.14.D-1-ТКП-1.15.C-1/output/ТКП-1.14.D-1-ТКП-1.15.C-1-FAB-TOP.pdf)
 
-[Gerber (Main Board)](/fuzz_factory_r1d_r1c/output/fuzz_factory_main_board_r1d_gerber.zip)
+[Gerber (Main Board)](/PCBS-PCAS/ТКП-3.14.D-ТКП-3.15.C/output/fuzz_factory_main_board_r1d_gerber.zip)
 
-[Gerber (Potentiometer Board)](/fuzz_factory_r1d_r1c/output/fuzz_factory_potentiometer_board_r1c_gerber.zip)
+[Gerber (Potentiometer Board)](/PCBS-PCAS/ТКП-3.14.D-ТКП-3.15.C/output/fuzz_factory_potentiometer_board_r1c_gerber.zip)
 
 ### Main Board [REV1C] / Potentiometer Board [REV1B]
 

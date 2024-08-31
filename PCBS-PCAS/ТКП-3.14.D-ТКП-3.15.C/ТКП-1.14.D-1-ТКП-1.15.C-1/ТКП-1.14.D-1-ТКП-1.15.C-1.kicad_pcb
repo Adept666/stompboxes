@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.6-c6e7f7d~87~ubuntu19.10.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.12-84ad8e8a86~92~ubuntu20.04.1)
 
   (general
     (thickness 1.6)
@@ -11,12 +11,14 @@
 
   (page A4)
   (title_block
-    (title "Fuzz Factory")
-    (date 2022-02-20)
-    (rev MB:1D/PB:1C)
-    (company "Igor Ivanov")
-    (comment 1 https://github.com/Adept666)
-    (comment 2 "This project is licensed under GNU General Public License v3.0 or later")
+    (title "ТКП-1.14.D-1 / ТКП-1.15.C-1")
+    (date 2024-08-31)
+    (rev "1D / 1C")
+    (company "Fuzz Factory Main Board [REV1D] / Fuzz Factory Potentiometer Board [REV1C]")
+    (comment 1 http://github.com/Adept666)
+    (comment 2 "Igor Ivanov (Игорь Иванов)")
+    (comment 3 -ТТКРЧПДЛ-)
+    (comment 4 "This project is licensed under GNU General Public License v3.0 or later")
   )
 
   (layers
