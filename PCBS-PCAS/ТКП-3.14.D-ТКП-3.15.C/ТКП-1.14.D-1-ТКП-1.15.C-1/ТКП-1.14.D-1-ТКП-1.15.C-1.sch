@@ -745,7 +745,7 @@ Connection ~ 5500 9000
 Wire Wire Line
 	5500 9000 6500 9000
 Connection ~ 4500 9000
-Text Notes 11800 9950 0    100  ~ 0
+Text Notes 11800 9900 0    100  ~ 0
 1. XP11...14: PLS-03.\n2. XS11...14: PBS-03R.
 $Comp
 L KCL:SWITCH_BUTTON_LOCK_03P_02T SB1
