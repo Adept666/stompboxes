@@ -353,7 +353,7 @@
       (net 3 "Net-(SB1-PadNC1)"))
   )
 
-  (module KCL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F831DD7)
+  (module KCL-TH-SL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F831DD7)
     (at 114.935 105.41 180)
     (path /5F9AB078)
     (fp_text reference XP11 (at 0 2.54) (layer F.SilkS)
@@ -678,7 +678,7 @@
       (net 11 "Net-(C4-Pad1)"))
   )
 
-  (module KCL:C-DISK-D04.2-T03.0-P05.08-d0.5 (layer F.Cu) (tedit 66754B38) (tstamp 5F2F923A)
+  (module KCL-TH-SL:C-DISK-D04.2-T03.0-P05.08-d0.5 (layer F.Cu) (tedit 66754B38) (tstamp 5F2F923A)
     (at 168.91 95.25 180)
     (path /5F1C0224)
     (fp_text reference C4 (at 0 3.175) (layer F.SilkS)
@@ -709,7 +709,7 @@
       (net 12 "Net-(C4-Pad2)"))
   )
 
-  (module KCL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
+  (module KCL-TH-SL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
     (at 158.115 105.41 180)
     (path /5FA559CE)
     (fp_text reference XP13 (at 0 2.54) (layer F.SilkS)
@@ -738,7 +738,7 @@
       (net 29 /MB6))
   )
 
-  (module KCL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
+  (module KCL-TH-SL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
     (at 179.705 105.41 180)
     (path /5FA5EEB3)
     (fp_text reference XP14 (at 0 2.54) (layer F.SilkS)
@@ -767,7 +767,7 @@
       (net 1 COM))
   )
 
-  (module KCL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
+  (module KCL-TH-SL:CON-PLS-03 (layer F.Cu) (tedit 5DA59ABE) (tstamp 5F3047D7)
     (at 136.525 105.41 180)
     (path /5FA4F5D8)
     (fp_text reference XP12 (at 0 2.54) (layer F.SilkS)
@@ -796,7 +796,7 @@
       (net 26 /MB3))
   )
 
-  (module KCL:CON-PBS-03R (layer F.Cu) (tedit 66754B9A) (tstamp 5F83635B)
+  (module KCL-TH-SL:CON-PBS-03R (layer F.Cu) (tedit 66754B9A) (tstamp 5F83635B)
     (at 179.705 43.18 180)
     (path /5FA5EEC5)
     (fp_text reference XS14 (at 0 -1.905) (layer F.SilkS)
@@ -824,7 +824,7 @@
       (net 22 /PBV))
   )
 
-  (module KCL:CON-PBS-03R (layer F.Cu) (tedit 66754B8F) (tstamp 5F836427)
+  (module KCL-TH-SL:CON-PBS-03R (layer F.Cu) (tedit 66754B8F) (tstamp 5F836427)
     (at 158.115 43.18 180)
     (path /5FA559D4)
     (fp_text reference XS13 (at 0 -1.905) (layer F.SilkS)
@@ -852,7 +852,7 @@
       (net 17 /PBCOM))
   )
 
-  (module KCL:CON-PBS-03R (layer F.Cu) (tedit 66754B77) (tstamp 5F836502)
+  (module KCL-TH-SL:CON-PBS-03R (layer F.Cu) (tedit 66754B77) (tstamp 5F836502)
     (at 114.935 43.18 180)
     (path /5F9FF4FA)
     (fp_text reference XS11 (at 0 -1.905) (layer F.SilkS)
@@ -880,7 +880,7 @@
       (net 17 /PBCOM))
   )
 
-  (module KCL:CON-PBS-03R (layer F.Cu) (tedit 66754B83) (tstamp 5F83669D)
+  (module KCL-TH-SL:CON-PBS-03R (layer F.Cu) (tedit 66754B83) (tstamp 5F83669D)
     (at 136.525 43.18 180)
     (path /5FA4F5F0)
     (fp_text reference XS12 (at 0 -1.905) (layer F.SilkS)
@@ -908,7 +908,7 @@
       (net 19 /PB3))
   )
 
-  (module KCL:CON-DC-005 (layer F.Cu) (tedit 5EF3812C) (tstamp 5F836878)
+  (module KCL-TH-SL:CON-DC-005 (layer F.Cu) (tedit 5EF3812C) (tstamp 5F836878)
     (at 201.93 114.3 90)
     (path /5E7A1138)
     (fp_text reference XS1 (at 0 -15.24 90) (layer F.SilkS)
@@ -1163,7 +1163,7 @@
       (net 18 /PB2))
   )
 
-  (module KCL:CON-PJ-644C (layer F.Cu) (tedit 5F81A4F9) (tstamp 5E5B8C62)
+  (module KCL-TH-SL:CON-PJ-644C (layer F.Cu) (tedit 5F81A4F9) (tstamp 5E5B8C62)
     (at 95.885 128.905 270)
     (path /5F00D80C)
     (fp_text reference XS3 (at 11.43 -10.16 180) (layer F.SilkS)
@@ -1222,7 +1222,7 @@
       (net 1 COM))
   )
 
-  (module KCL:CON-PJ-644C (layer F.Cu) (tedit 5F81A4F9) (tstamp 5F831E14)
+  (module KCL-TH-SL:CON-PJ-644C (layer F.Cu) (tedit 5F81A4F9) (tstamp 5F831E14)
     (at 198.755 128.905 90)
     (path /5F00D80B)
     (fp_text reference XS2 (at -11.43 -10.16 180) (layer F.SilkS)
@@ -1335,7 +1335,7 @@
       (net 1 COM))
   )
 
-  (module KCL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5F82953E)
+  (module KCL-TH-SL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5F82953E)
     (at 162.56 138.43)
     (path /5E77B245)
     (fp_text reference X3 (at 0 -1.905) (layer F.SilkS)
@@ -1344,14 +1344,14 @@
     (fp_text value COM (at 0 1.5875) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_circle (center 0 0) (end 0.5 0) (layer F.CrtYd) (width 0.1))
+    (fp_circle (center 0 0) (end 0.762 0) (layer F.CrtYd) (width 0.1))
     (fp_circle (center 0 0) (end 0.762 0) (layer F.SilkS) (width 0.2))
     (fp_circle (center 0 0) (end 0.5 0) (layer F.Fab) (width 0.2))
     (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers B.Cu B.Mask)
       (net 1 COM))
   )
 
-  (module KCL:C-DISK-D04.2-T03.0-P05.08-d0.5 (layer F.Cu) (tedit 66754B10) (tstamp 5E5BF5C2)
+  (module KCL-TH-SL:C-DISK-D04.2-T03.0-P05.08-d0.5 (layer F.Cu) (tedit 66754B10) (tstamp 5E5BF5C2)
     (at 193.04 101.6)
     (path /5E7EFCE2)
     (fp_text reference C2 (at 0 -3.175) (layer F.SilkS)
@@ -1382,7 +1382,7 @@
       (net 1 COM))
   )
 
-  (module KCL:B-PP3-HV (layer F.Cu) (tedit 5E590763) (tstamp 5E5B5BAE)
+  (module KCL-VIRTUAL:B-PP3-HV (layer F.Cu) (tedit 5E590763) (tstamp 5E5B5BAE)
     (at 147.32 118.745)
     (path /5E643180)
     (fp_text reference GB1 (at 0 0) (layer F.SilkS) hide
@@ -1397,7 +1397,7 @@
     (fp_line (start 24.25 -8.75) (end 24.25 8.75) (layer Dwgs.User) (width 0.2))
   )
 
-  (module KCL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5E5EA7B3)
+  (module KCL-TH-SL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5E5EA7B3)
     (at 181.61 116.84)
     (path /5F00D813)
     (fp_text reference X2 (at 0 -1.905) (layer F.SilkS)
@@ -1406,7 +1406,7 @@
     (fp_text value - (at -2.54 0) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_circle (center 0 0) (end 0.5 0) (layer F.CrtYd) (width 0.1))
+    (fp_circle (center 0 0) (end 0.762 0) (layer F.CrtYd) (width 0.1))
     (fp_circle (center 0 0) (end 0.762 0) (layer F.SilkS) (width 0.2))
     (fp_circle (center 0 0) (end 0.5 0) (layer F.Fab) (width 0.2))
     (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers B.Cu B.Mask)
@@ -1457,7 +1457,7 @@
       (net 15 V))
   )
 
-  (module KCL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5F833E0B)
+  (module KCL-TH-SL:CON-PAD-S-1.0-2.0 (layer F.Cu) (tedit 6002F369) (tstamp 5F833E0B)
     (at 181.61 113.03)
     (path /5F00D808)
     (fp_text reference X1 (at 0 -1.905) (layer F.SilkS)
@@ -1466,7 +1466,7 @@
     (fp_text value + (at -2.54 0) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_circle (center 0 0) (end 0.5 0) (layer F.CrtYd) (width 0.1))
+    (fp_circle (center 0 0) (end 0.762 0) (layer F.CrtYd) (width 0.1))
     (fp_circle (center 0 0) (end 0.762 0) (layer F.SilkS) (width 0.2))
     (fp_circle (center 0 0) (end 0.5 0) (layer F.Fab) (width 0.2))
     (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers B.Cu B.Mask)
