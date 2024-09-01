@@ -170,7 +170,7 @@
     (add_net V)
   )
 
-  (module KCL:LED-ROUND-05.0-UNI-SH-SPACER-PNL-5.3 (layer F.Cu) (tedit 61100F3A) (tstamp 60688D61)
+  (module KCL-TH-SL:LED-ROUND-05.0-UNI-SH-SPACER-PNL-5.3 (layer F.Cu) (tedit 61100F3A) (tstamp 60688D61)
     (at 104.14 114.3 90)
     (path /5E64318D)
     (fp_text reference HL1 (at 5.08 0 180) (layer F.SilkS)
@@ -189,7 +189,7 @@
       (net 9 "Net-(HL1-PadA)"))
   )
 
-  (module KCL:P-КТЮ-3-6 (layer F.Cu) (tedit 60E1878C) (tstamp 5F30203A)
+  (module KCL-TH-SL:P-КТЮ-3-6 (layer F.Cu) (tedit 60E1878C) (tstamp 5F30203A)
     (at 158.115 92.71)
     (path /5F315B5B)
     (fp_text reference VT2 (at -6.35 0) (layer F.SilkS)
@@ -210,7 +210,7 @@
       (net 13 "Net-(R6-Pad2)"))
   )
 
-  (module KCL:P-КТЮ-3-6 (layer F.Cu) (tedit 60E1878C) (tstamp 5F301981)
+  (module KCL-TH-SL:P-КТЮ-3-6 (layer F.Cu) (tedit 60E1878C) (tstamp 5F301981)
     (at 136.525 92.71)
     (path /5F32C814)
     (fp_text reference VT3 (at -6.35 0) (layer F.SilkS)
@@ -231,7 +231,7 @@
       (net 14 "Net-(R8-Pad2)"))
   )
 
-  (module KCL:P-TO-92-E-B-C (layer F.Cu) (tedit 66754B2A) (tstamp 5F391366)
+  (module KCL-TH-SL:P-TO-92-E-B-C (layer F.Cu) (tedit 66754B2A) (tstamp 5F391366)
     (at 179.07 97.79 90)
     (path /5F310276)
     (fp_text reference VT1 (at 0 -3.81 90) (layer F.SilkS)
@@ -305,7 +305,7 @@
     (fp_arc (start 52.25 27.1) (end 52.25 23.85) (angle -90) (layer Eco1.User) (width 0.4))
   )
 
-  (module SBKCL:SW-PBS-24-302SP-2.5 (layer F.Cu) (tedit 606846B6) (tstamp 5DC671C0)
+  (module KCL-TH-SL:SW-PBS-24-302SP-2.5-PNL-13.0 (layer F.Cu) (tedit 606846B6) (tstamp 5DC671C0)
     (at 147.32 135.89)
     (path /5E643184)
     (fp_text reference SB1 (at 0 7.62) (layer F.SilkS)
@@ -382,7 +382,7 @@
       (net 1 COM))
   )
 
-  (module KCL:R-MFR-12 (layer F.Cu) (tedit 66754AFC) (tstamp 5F82F1E6)
+  (module KCL-TH-SL:R-MFR-12 (layer F.Cu) (tedit 66754AFC) (tstamp 5F82F1E6)
     (at 158.75 135.89 90)
     (path /5E774F49)
     (fp_text reference R2 (at 3.81 0 90) (layer F.SilkS)
@@ -412,7 +412,7 @@
       (net 32 /IN-CIR))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F2F9219)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F2F9219)
     (at 128.27 133.35)
     (path /5F23D482)
     (fp_text reference C5 (at 0 -3.81) (layer F.SilkS)
@@ -434,7 +434,7 @@
       (net 33 /OUT-CIR))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F2F9201)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F2F9201)
     (at 166.37 133.35 180)
     (path /5F241D61)
     (fp_text reference C3 (at 0 3.81) (layer F.SilkS)
@@ -456,7 +456,7 @@
       (net 32 /IN-CIR))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F312E76)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F312E76)
     (at 176.53 90.17)
     (path /5F1FD3C8)
     (fp_text reference C6 (at 0 3.81) (layer F.SilkS)
@@ -478,7 +478,7 @@
       (net 30 /MB7))
   )
 
-  (module KCL:R-MFR-12 (layer F.Cu) (tedit 66754AF1) (tstamp 5F2F93C0)
+  (module KCL-TH-SL:R-MFR-12 (layer F.Cu) (tedit 66754AF1) (tstamp 5F2F93C0)
     (at 135.89 135.89 90)
     (path /5F2B1A32)
     (fp_text reference R3 (at 3.81 0 90) (layer F.SilkS)
@@ -508,7 +508,7 @@
       (net 33 /OUT-CIR))
   )
 
-  (module KCL:R-MFR-25 (layer F.Cu) (tedit 66754B5C) (tstamp 5F2F93AB)
+  (module KCL-TH-SL:R-MFR-25 (layer F.Cu) (tedit 66754B5C) (tstamp 5F2F93AB)
     (at 125.73 100.33)
     (path /5F0D93F4)
     (fp_text reference R8 (at 0 -2.54) (layer F.SilkS)
@@ -542,7 +542,7 @@
       (net 14 "Net-(R8-Pad2)"))
   )
 
-  (module KCL:R-MFR-25 (layer F.Cu) (tedit 66754B66) (tstamp 5F391FBC)
+  (module KCL-TH-SL:R-MFR-25 (layer F.Cu) (tedit 66754B66) (tstamp 5F391FBC)
     (at 147.32 100.33 180)
     (path /5F1F1A20)
     (fp_text reference R7 (at 0 2.54) (layer F.SilkS)
@@ -576,7 +576,7 @@
       (net 27 /MB4))
   )
 
-  (module KCL:R-MFR-25 (layer F.Cu) (tedit 66754B51) (tstamp 5F2F9379)
+  (module KCL-TH-SL:R-MFR-25 (layer F.Cu) (tedit 66754B51) (tstamp 5F2F9379)
     (at 125.73 105.41 180)
     (path /5F0D72FE)
     (fp_text reference R6 (at 0 2.54) (layer F.SilkS)
@@ -610,7 +610,7 @@
       (net 13 "Net-(R6-Pad2)"))
   )
 
-  (module KCL:R-MFR-25 (layer F.Cu) (tedit 66754B3D) (tstamp 5F8345E1)
+  (module KCL-TH-SL:R-MFR-25 (layer F.Cu) (tedit 66754B3D) (tstamp 5F8345E1)
     (at 166.37 100.33 180)
     (path /5F18409A)
     (fp_text reference R5 (at 0 -2.54) (layer F.SilkS)
@@ -644,7 +644,7 @@
       (net 28 /MB5))
   )
 
-  (module KCL:R-MFR-25 (layer F.Cu) (tedit 66754B1D) (tstamp 5F83426A)
+  (module KCL-TH-SL:R-MFR-25 (layer F.Cu) (tedit 66754B1D) (tstamp 5F83426A)
     (at 185.42 100.33 90)
     (path /5F18B771)
     (fp_text reference R4 (at 0 -2.54 90) (layer F.SilkS)
@@ -938,7 +938,7 @@
       (net 8 "Net-(VD1-PadA)"))
   )
 
-  (module KCL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F836630)
+  (module KCL-TH-SL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F836630)
     (at 190.5 43.18)
     (path /5F0B6133)
     (fp_text reference RP5 (at 0 -5.715) (layer F.SilkS)
@@ -983,7 +983,7 @@
       (net 22 /PBV))
   )
 
-  (module KCL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F836483)
+  (module KCL-TH-SL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F836483)
     (at 168.91 43.18)
     (path /5F0B51C5)
     (fp_text reference RP4 (at 0 -5.715) (layer F.SilkS)
@@ -1028,7 +1028,7 @@
       (net 23 /PB7))
   )
 
-  (module KCL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F8363BA)
+  (module KCL-TH-SL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F8363BA)
     (at 147.32 43.18)
     (path /5F0B43DF)
     (fp_text reference RP3 (at 0 -5.715) (layer F.SilkS)
@@ -1073,7 +1073,7 @@
       (net 21 /PB4))
   )
 
-  (module KCL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F83654C)
+  (module KCL-TH-SL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F83654C)
     (at 125.73 43.18)
     (path /5EECB002)
     (fp_text reference RP2 (at 0 -5.715) (layer F.SilkS)
@@ -1118,7 +1118,7 @@
       (net 17 /PBCOM))
   )
 
-  (module KCL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F8365C7)
+  (module KCL-TH-SL:RP-RK1233N1-L15-KC (layer F.Cu) (tedit 5E7DC9AF) (tstamp 5F8365C7)
     (at 104.14 43.18)
     (path /5F0B0BD0)
     (fp_text reference RP1 (at 0 -5.715) (layer F.SilkS)
@@ -1281,7 +1281,7 @@
       (net 1 COM))
   )
 
-  (module KCL:P-DO-41 (layer F.Cu) (tedit 66754B08) (tstamp 5E5BAA64)
+  (module KCL-TH-SL:P-DO-41 (layer F.Cu) (tedit 66754B08) (tstamp 5E5BAA64)
     (at 194.31 105.41 180)
     (path /5F00D812)
     (fp_text reference VD1 (at 0 -2.54 180) (layer F.SilkS)
@@ -1313,7 +1313,7 @@
       (net 15 V))
   )
 
-  (module KCL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F836940)
+  (module KCL-TH-SL:CP-RADIAL-D05.0-P02.0-CLS (layer F.Cu) (tedit 5F1072EC) (tstamp 5F836940)
     (at 182.88 90.17 90)
     (path /5F00D814)
     (fp_text reference C1 (at -3.81 0 180) (layer F.SilkS)
@@ -1413,7 +1413,7 @@
       (net 7 /PP3-NEG))
   )
 
-  (module KCL:VLS-BR (layer F.Cu) (tedit 5CE6DA19) (tstamp 60688A1B)
+  (module KCL-VIRTUAL:VLS-BR (layer F.Cu) (tedit 5CE6DA19) (tstamp 60688A1B)
     (at 104.14 114.3)
     (path /5E88EC8A)
     (fp_text reference VLS1 (at 0 -3.81) (layer F.SilkS)
@@ -1427,7 +1427,7 @@
     (fp_circle (center 0 0) (end 2.6 0) (layer F.CrtYd) (width 0.1))
   )
 
-  (module KCL:R-MFR-12 (layer F.Cu) (tedit 66754B48) (tstamp 6068893C)
+  (module KCL-TH-SL:R-MFR-12 (layer F.Cu) (tedit 66754B48) (tstamp 6068893C)
     (at 113.03 113.03)
     (path /5E643187)
     (fp_text reference R1 (at 0 -2.54) (layer F.SilkS)
