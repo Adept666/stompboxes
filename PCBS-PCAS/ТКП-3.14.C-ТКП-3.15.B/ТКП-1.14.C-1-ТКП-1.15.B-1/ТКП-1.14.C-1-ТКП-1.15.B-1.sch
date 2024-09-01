@@ -4,14 +4,14 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "Fuzz Factory"
-Date "2022-01-08"
-Rev "MB:1C/PB:1B"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Title "ТКП-1.14.C-1 / ТКП-1.15.B-1"
+Date "2024-09-01"
+Rev "1C / 1B"
+Comp "Fuzz Factory Main Board [REV1C] / Fuzz Factory Potentiometer Board [REV1B]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 Wire Wire Line
 	13500 3700 12850 3700
@@ -924,7 +924,7 @@ Connection ~ 5500 9000
 Wire Wire Line
 	5500 9000 6500 9000
 Connection ~ 4500 9000
-Text Notes 11800 9950 0    100  ~ 0
+Text Notes 11800 9900 0    100  ~ 0
 1. XP11...14: PLS-03.\n2. XS11...14: PBS-03R.
 $Comp
 L KCL:SWITCH_BUTTON_LOCK_03P_02T SB1
