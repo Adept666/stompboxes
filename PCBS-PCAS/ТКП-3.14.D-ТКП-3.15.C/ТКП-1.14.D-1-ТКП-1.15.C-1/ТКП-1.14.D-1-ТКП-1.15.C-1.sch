@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.14.D-1 / ТКП-1.15.C-1"
-Date "2024-08-31"
+Date "2024-09-01"
 Rev "1D / 1C"
 Comp "Fuzz Factory Main Board [REV1D] / Fuzz Factory Potentiometer Board [REV1C]"
 Comment1 "http://github.com/Adept666"
