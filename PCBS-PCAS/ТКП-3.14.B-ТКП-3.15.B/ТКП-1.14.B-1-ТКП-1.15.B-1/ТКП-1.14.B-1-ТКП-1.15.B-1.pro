@@ -1,4 +1,4 @@
-update=Сб 16 июл 2022 18:02:38
+update=Mon Sep  2 23:54:01 2024
 version=1
 last_client=kicad
 [cvpcb]
@@ -195,11 +195,11 @@ Name=B.Cu
 Type=0
 Enabled=1
 [pcbnew/Layer.B.Adhes]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Adhes]
 Enabled=0
 [pcbnew/Layer.B.Paste]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Paste]
 Enabled=0
 [pcbnew/Layer.B.SilkS]
