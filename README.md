@@ -128,12 +128,15 @@
 
 [F_Fab](/PCBS-PCAS/ТКП-3.14.B-ТКП-3.15.B/ТКП-1.14.B-1-ТКП-1.15.B-1/output/ТКП-1.14.B-1-ТКП-1.15.B-1-FAB-TOP.pdf)
 
+[B_Cuts](/PCBS-PCAS/ТКП-3.14.B-ТКП-3.15.B/ТКП-1.14.B-1-ТКП-1.15.B-1/output/ТКП-1.14.B-1-ТКП-1.15.B-1-CUTS-BOTTOM.pdf)
+
+[B_Jumpers](/PCBS-PCAS/ТКП-3.14.B-ТКП-3.15.B/ТКП-1.14.B-1-ТКП-1.15.B-1/output/ТКП-1.14.B-1-ТКП-1.15.B-1-JUMPERS-BOTTOM.pdf)
+
 [Gerber (Main Board)](/PCBS-PCAS/ТКП-3.14.B-ТКП-3.15.B/output/fuzz_factory_main_board_r1b_gerber.zip)
 
 [Gerber (Potentiometer Board)](/PCBS-PCAS/ТКП-3.14.B-ТКП-3.15.B/output/fuzz_factory_potentiometer_board_r1b_gerber.zip)
 
 ## Good Grief Overdrive [REV1]
-
 
 ### [REV1B]
 
