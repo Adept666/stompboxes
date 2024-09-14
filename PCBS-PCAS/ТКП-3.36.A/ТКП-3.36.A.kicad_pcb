@@ -1,8 +1,8 @@
 (kicad_pcb (version 20171130) (host pcbnew 5.1.12-84ad8e8a86~92~ubuntu20.04.1)
 
   (general
-    (thickness 1.6)
-    (drawings 7)
+    (thickness 1.5)
+    (drawings 8)
     (tracks 0)
     (zones 0)
     (modules 0)
@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title ТКП-3.36.A)
-    (date 2023-12-19)
+    (date 2024-09-14)
     (rev 1A)
     (company "Spacer MTS-1xx-A2 [REV1A]")
     (comment 1 http://github.com/Adept666)
@@ -22,8 +22,9 @@
   )
 
   (layers
-    (0 F.Cu jumper)
+    (0 F.Cu signal)
     (31 B.Cu signal)
+    (41 Cmts.User user)
     (44 Edge.Cuts user)
     (45 Margin user)
     (46 B.CrtYd user)
@@ -60,7 +61,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x20000_7ffffffe)
+      (layerselection 0x00200_7ffffffe)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -77,7 +78,7 @@
       (psnegative false)
       (psa4output false)
       (plotreference false)
-      (plotvalue true)
+      (plotvalue false)
       (plotinvisibletext false)
       (padsonsilk true)
       (subtractmaskfromsilk false)
@@ -99,6 +100,9 @@
     (uvia_drill 0.1)
   )
 
+  (gr_text "1. Толщина 1.5 мм." (at 90.17 250.19) (layer Cmts.User) (tstamp 66E4EBE6)
+    (effects (font (size 2.54 2.54) (thickness 0.2)) (justify left))
+  )
   (gr_circle (center 105.41 153.29) (end 106.16 153.29) (layer Edge.Cuts) (width 0.4) (tstamp 63D7F470))
   (gr_circle (center 105.41 148.59) (end 106.16 148.59) (layer Edge.Cuts) (width 0.4) (tstamp 63D7F470))
   (gr_circle (center 105.41 143.89) (end 106.16 143.89) (layer Edge.Cuts) (width 0.4) (tstamp 63D7F470))
