@@ -16,6 +16,14 @@
 
 [B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-2/output/ТКП-1.30.A-2-FAB-BOTTOM.pdf)
 
+### Bass SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-4/output/ТКП-1.30.A-4-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-4/output/ТКП-1.30.A-4-FAB-TOP.pdf)
+
+[B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-4/output/ТКП-1.30.A-4-FAB-BOTTOM.pdf)
+
 ### NYC
 
 [Schematic](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-SCH.pdf)
@@ -23,6 +31,14 @@
 [F_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-FAB-TOP.pdf)
 
 [B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-1/output/ТКП-1.30.A-1-FAB-BOTTOM.pdf)
+
+### NYC SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-3/output/ТКП-1.30.A-3-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-3/output/ТКП-1.30.A-3-FAB-TOP.pdf)
+
+[B_Fab](/PCBS-PCAS/ТКП-3.30.A/ТКП-1.30.A-3/output/ТКП-1.30.A-3-FAB-BOTTOM.pdf)
 
 ## Big Muff [REV2]
 
