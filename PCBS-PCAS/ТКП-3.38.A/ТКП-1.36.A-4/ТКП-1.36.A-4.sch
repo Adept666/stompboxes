@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.36.A-4"
-Date "2024-11-30"
+Date "2024-12-01"
 Rev "2A"
 Comp "Копка Земли [REV2A] Standard-Tuned SM"
 Comment1 "http://github.com/Adept666"
@@ -2461,10 +2461,10 @@ L KCL:VIRTUAL_ENCLOSURE VE1
 U 1 1 62760F04
 P 20250 7500
 F 0 "VE1" H 20250 8050 100 0000 C CNN
-F 1 "ТКП-6.3.1.B1-1" H 20250 7500 100 0001 C CNN
-F 2 "SBEL:ТКП-6.3.1.B1" H 20250 7500 60  0001 C CNN
+F 1 "ТКП-6.3.1.A1.B1.A.1-1" H 20250 7500 100 0001 C CNN
+F 2 "SBEPL:ТКП-6.3.1.A1.B1.A" H 20250 7500 60  0001 C CNN
 F 3 "" H 20250 7500 60  0001 C CNN
-F 4 "ТКП-6.3.1.B1-1" H 20250 7950 60  0000 C CNN "Product"
+F 4 "ТКП-6.3.1.A1.B1.A.1-1" H 20250 7950 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 20250 7850 60  0000 C CNN "Manufacturer"
 	1    20250 7500
 	1    0    0    -1  
