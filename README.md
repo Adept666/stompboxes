@@ -72,13 +72,25 @@
 
 ## Deep Blue Delay [REV3]
 
+### [REV3B]
+
+[Gerber](/PCBS-PCAS/ТКП-3.17.B/output/deep_blue_delay_r3b_gerber.zip)
+
+### [B]
+
 [Schematic](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-SCH.pdf)
 
 [F_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-FAB-TOP.pdf)
 
 [B_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-1/output/ТКП-1.17.B-1-FAB-BOTTOM.pdf)
 
-[Gerber](/PCBS-PCAS/ТКП-3.17.B/output/deep_blue_delay_r3b_gerber.zip)
+### [B] SM
+
+[Schematic](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-2/output/ТКП-1.17.B-2-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-2/output/ТКП-1.17.B-2-FAB-TOP.pdf)
+
+[B_Fab](/PCBS-PCAS/ТКП-3.17.B/ТКП-1.17.B-2/output/ТКП-1.17.B-2-FAB-BOTTOM.pdf)
 
 ## Distortion + [REV2]
 
