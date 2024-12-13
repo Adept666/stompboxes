@@ -105,7 +105,7 @@ F 2 "SBKCL-VIRTUAL:XB-1590BB2-EXTENDED" H 19750 2000 60  0001 C CNN
 F 3 "" H 19750 2000 60  0001 C CNN
 F 4 "1590BB2 Connector Board Extended [REV1A]" H 19750 2650 60  0000 C CNN "Product"
 F 5 "Конфигурация: A" H 19750 2550 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 19750 2450 60  0000 C CNN "Manufacturer"
+F 6 "-ТТКРЧПДЛ-" H 19750 2450 60  0000 C CNN "Manufacturer"
 	1    19750 2000
 	1    0    0    -1  
 $EndComp
