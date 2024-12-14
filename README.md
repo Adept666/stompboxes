@@ -268,13 +268,13 @@
 
 ### [REV1B]
 
-[Schematic](/тремоло_саши_огородникова_r1b/output/тремоло_саши_огородникова_r1b_schematic.pdf)
+[Schematic](/PCBS-PCAS/ТКП-3.25.B/ТКП-1.25.B-1/output/ТКП-1.25.B-1-SCH.pdf)
 
-[F_Fab](/тремоло_саши_огородникова_r1b/output/тремоло_саши_огородникова_r1b_fab_top.pdf)
+[F_Fab](/PCBS-PCAS/ТКП-3.25.B/ТКП-1.25.B-1/output/ТКП-1.25.B-1-FAB-TOP.pdf)
 
-[B_Fab](/тремоло_саши_огородникова_r1b/output/тремоло_саши_огородникова_r1b_fab_bottom.pdf)
+[B_Fab](/PCBS-PCAS/ТКП-3.25.B/ТКП-1.25.B-1/output/ТКП-1.25.B-1-FAB-BOTTOM.pdf)
 
-[Gerber](/тремоло_саши_огородникова_r1b/output/тремоло_саши_огородникова_r1b_gerber.zip)
+[Gerber](/PCBS-PCAS/ТКП-3.25.B/output/тремоло_саши_огородникова_r1b_gerber.zip)
 
 ### [REV1A]
 
