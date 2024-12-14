@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.32.A-1"
-Date "2024-12-13"
+Date "2024-12-14"
 Rev "1A"
 Comp "Crumbwave Multiplexer [REV1A]"
 Comment1 "http://github.com/Adept666"
@@ -1025,7 +1025,7 @@ U 1 1 61445386
 P 14000 13000
 F 0 "VLS1" H 14200 13100 100 0000 L CNN
 F 1 "BR-12.7" H 14000 13000 100 0001 L CNN
-F 2 "KCL:VLS-BR" H 14000 13000 60  0001 L CNN
+F 2 "KCL-VIRTUAL:VLS-BR" H 14000 13000 60  0001 L CNN
 F 3 "" H 14000 13000 60  0001 L CNN
 F 4 "BR-12.7" H 14200 13000 60  0000 L CNN "Product"
 F 5 "Kingbright" H 14200 12900 60  0000 L CNN "Manufacturer"
