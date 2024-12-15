@@ -4,14 +4,14 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title "Тремоло Саши Огородникова"
-Date "2023-03-05"
+Title "ТКП-1.25.A-1"
+Date "2024-12-15"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 ""
-Comment4 ""
+Comp "Тремоло Саши Огородникова [REV1A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 Wire Wire Line
 	6500 13500 6500 13350
@@ -181,7 +181,7 @@ F 2 "SBKCL-VIRTUAL:XB-1590N1" H 3625 7000 60  0001 C CNN
 F 3 "" H 3625 7000 60  0001 C CNN
 F 4 "1590N1 Connector Board [REV1A]" H 3625 7650 60  0000 C CNN "Product"
 F 5 "Конфигурация: B" H 3625 7550 60  0000 C CNN "Configuration"
-F 6 "ТТКРЧПДЛ" H 3625 7450 60  0000 C CNN "Manufacturer"
+F 6 "-ТТКРЧПДЛ-" H 3625 7450 60  0000 C CNN "Manufacturer"
 	1    3625 7000
 	1    0    0    -1  
 $EndComp
