@@ -284,6 +284,12 @@
 
 [B_Fab](/PCBS-PCAS/ТКП-3.25.A/ТКП-1.25.A-1/output/ТКП-1.25.A-1-FAB-BOTTOM.pdf)
 
+[F_Cuts](/PCBS-PCAS/ТКП-3.25.A/ТКП-1.25.A-1/output/ТКП-1.25.A-1-CUTS-TOP.pdf)
+
+[B_Cuts](/PCBS-PCAS/ТКП-3.25.A/ТКП-1.25.A-1/output/ТКП-1.25.A-1-CUTS-BOTTOM.pdf)
+
+[B_Jumpers](/PCBS-PCAS/ТКП-3.25.A/ТКП-1.25.A-1/output/ТКП-1.25.A-1-JUMPERS-BOTTOM.pdf)
+
 [Gerber](/PCBS-PCAS/ТКП-3.25.A/output/тремоло_саши_огородникова_r1a_gerber.zip)
 
 ## Requirements (Требования)
