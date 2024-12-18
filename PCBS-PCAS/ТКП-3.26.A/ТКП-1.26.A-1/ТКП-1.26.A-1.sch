@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title "1590N1 Potentiometer Board 18 2x17"
-Date "2022-07-16"
+Title "ТКП-1.26.A-1"
+Date "2024-12-18"
 Rev "1A"
-Comp "Igor Ivanov"
-Comment1 "https://github.com/Adept666"
-Comment2 "This project is licensed under GNU General Public License v3.0 or later"
-Comment3 "Диаметр потенциометров: 16 мм, 17 мм"
-Comment4 "Расстояние от основной платы до корпуса: 18 мм"
+Comp "Тремоло Саши Огородникова Potentiometer Board [REV1A]"
+Comment1 "http://github.com/Adept666"
+Comment2 "Igor Ivanov (Игорь Иванов)"
+Comment3 "-ТТКРЧПДЛ-"
+Comment4 "This project is licensed under GNU General Public License v3.0 or later"
 $EndDescr
 $Comp
 L KCL:RESISTOR_VARIABLE RP2
