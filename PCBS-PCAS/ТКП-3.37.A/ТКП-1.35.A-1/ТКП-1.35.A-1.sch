@@ -5,7 +5,7 @@ $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.35.A-1"
-Date "2023-12-19"
+Date "2024-12-30"
 Rev "2A"
 Comp "Тремоло Саши Огородникова Potentiometer Board [REV2A]"
 Comment1 "http://github.com/Adept666"
@@ -17,13 +17,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP2
 U 1 1 5FE7A122
 P 3500 5500
-F 0 "RP2" H 3500 5000 100 0000 C CNN
+F 0 "RP2" H 3500 5050 100 0000 C CNN
 F 1 "RP2: A100K" H 3500 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 3500 5500 60  0001 C CNN
 F 3 "" H 3500 5500 60  0001 C CNN
-F 4 "100 кОм (A)" H 3500 5100 60  0000 C CNN "Resistance"
-F 5 "R16K1-L20KC" H 3500 5200 60  0000 C CNN "Product"
-F 6 "Song Huei Electric" H 3500 5300 60  0000 C CNN "Manufacturer"
+F 4 "100 кОм (A)" H 3500 5150 60  0000 C CNN "Resistance"
+F 5 "PDB181-K420K" H 3500 5250 60  0000 C CNN "Product"
+F 6 "Bourns" H 3500 5350 60  0000 C CNN "Manufacturer"
 	1    3500 5500
 	-1   0    0    1   
 $EndComp
@@ -50,13 +50,13 @@ $Comp
 L KCL:RESISTOR_VARIABLE RP1
 U 1 1 60859B26
 P 5000 5500
-F 0 "RP1" H 5000 5000 100 0000 C CNN
+F 0 "RP1" H 5000 5050 100 0000 C CNN
 F 1 "RP1: A100K" H 5000 5500 100 0001 C CNN
 F 2 "SBKCL-TH-SL:RP-PDB181-K-20-P-CIRCULAR" H 5000 5500 60  0001 C CNN
 F 3 "" H 5000 5500 60  0001 C CNN
-F 4 "100 кОм (A)" H 5000 5100 60  0000 C CNN "Resistance"
-F 5 "R16K1-L20KC" H 5000 5200 60  0000 C CNN "Product"
-F 6 "Song Huei Electric" H 5000 5300 60  0000 C CNN "Manufacturer"
+F 4 "100 кОм (A)" H 5000 5150 60  0000 C CNN "Resistance"
+F 5 "PDB181-K420K" H 5000 5250 60  0000 C CNN "Product"
+F 6 "Bourns" H 5000 5350 60  0000 C CNN "Manufacturer"
 	1    5000 5500
 	-1   0    0    1   
 $EndComp
