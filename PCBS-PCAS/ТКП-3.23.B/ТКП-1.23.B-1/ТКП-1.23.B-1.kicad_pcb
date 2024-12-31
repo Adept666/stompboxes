@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title ТКП-1.23.B-1)
-    (date 2024-10-11)
+    (date 2024-12-31)
     (rev 1B)
     (company "Salty Phaser [REV1B]")
     (comment 1 http://github.com/Adept666)
@@ -350,13 +350,13 @@
     (add_net VREF)
   )
 
-  (module SBEL:ТКП-6.1.5 locked (layer F.Cu) (tedit 6585D271) (tstamp 64E2792E)
+  (module SBEPL:ТКП-6.1.3.A2 locked (layer F.Cu) (tedit 6585D271) (tstamp 64E2792E)
     (at 105.41 148.59)
     (path /64E73D0E)
     (fp_text reference VE2 (at 0 -53.34) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value ТКП-6.1.5.A1-1 (at 0 -52.07) (layer F.Fab) hide
+    (fp_text value ТКП-6.1.3.A2.D1.2-1.D1.E1 (at 0 -52.07) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start 47 -56.65) (end 47 56.65) (layer Eco1.User) (width 0.4))
@@ -373,13 +373,13 @@
     (fp_arc (start -43.9 -56.65) (end -43.9 -59.75) (angle -90) (layer Eco1.User) (width 0.4))
   )
 
-  (module SBEL:ТКП-6.1.1.B1 locked (layer F.Cu) (tedit 65836DBD) (tstamp 5FA7CCC5)
+  (module SBEPL:ТКП-6.1.1.A1.B1.A locked (layer F.Cu) (tedit 6755976D) (tstamp 5FA7CCC5)
     (at 105.41 148.59)
     (path /6144538C)
     (fp_text reference VE1 (at 0 -56.515) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value ТКП-6.1.1.B1-1 (at 0 -55.245) (layer F.Fab) hide
+    (fp_text value ТКП-6.1.1.A1.B1.A.1-1 (at 0 -55.245) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start 33.05 57.75) (end 33.05 59.25) (layer Eco2.User) (width 0.4))
@@ -438,6 +438,10 @@
     (fp_line (start 43.4 -87.65) (end 44.8 -87.65) (layer Eco2.User) (width 0.4))
     (fp_line (start -43.4 -90.75) (end -43.4 -87.65) (layer Eco2.User) (width 0.4))
     (fp_line (start 43.4 -90.75) (end 43.4 -87.65) (layer Eco2.User) (width 0.4))
+    (fp_circle (center -38.6 -51.35) (end -36.475 -51.35) (layer Eco2.User) (width 0.4))
+    (fp_circle (center 38.6 -51.35) (end 40.725 -51.35) (layer Eco2.User) (width 0.4))
+    (fp_circle (center -38.6 51.35) (end -36.475 51.35) (layer Eco2.User) (width 0.4))
+    (fp_circle (center 38.6 51.35) (end 40.725 51.35) (layer Eco2.User) (width 0.4))
     (fp_arc (start -36.9 -49.65) (end -36.9 -46.55) (angle -90) (layer Eco2.User) (width 0.4))
     (fp_arc (start 36.9 -49.65) (end 33.8 -49.65) (angle -90) (layer Eco2.User) (width 0.4))
     (fp_arc (start -36.9 49.65) (end -33.8 49.65) (angle -90) (layer Eco2.User) (width 0.4))
