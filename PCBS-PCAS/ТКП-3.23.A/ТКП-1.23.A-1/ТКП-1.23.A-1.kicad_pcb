@@ -12,7 +12,7 @@
   (page A4 portrait)
   (title_block
     (title ТКП-1.23.A-1)
-    (date 2024-01-07)
+    (date 2025-01-04)
     (rev 1A)
     (company "Salty Phaser [REV1A]")
     (comment 1 http://github.com/Adept666)
@@ -322,13 +322,13 @@
     (add_net VREF)
   )
 
-  (module SBEL:ТКП-6.1.4.A1 locked (layer F.Cu) (tedit 6583587A) (tstamp 659AC989)
+  (module SBEPL:ТКП-6.1.4.A1.A1 locked (layer F.Cu) (tedit 6583587A) (tstamp 659AC989)
     (at 105.41 148.59)
     (path /65968DAF)
     (fp_text reference VE2 (at 0 -53.34) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value ТКП-6.1.4.A1-1 (at 0 -52.07) (layer F.Fab) hide
+    (fp_text value ТКП-6.1.4.A1.A1.2-1.A1 (at 0 -52.07) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_circle (center -16.51 -10.16) (end -12.51 -10.16) (layer Eco1.User) (width 0.4))
@@ -345,10 +345,10 @@
     (fp_circle (center 33.02 -31.55) (end 36.62 -31.55) (layer Eco1.User) (width 0.4))
     (fp_circle (center -19.05 10.36) (end -17.55 10.36) (layer Eco1.User) (width 0.4))
     (fp_line (start -41.5 17.54) (end 41.5 17.54) (layer Eco1.User) (width 0.4))
-    (fp_arc (start 41.5 14.29) (end 41.5 17.54) (angle -90) (layer Eco1.User) (width 0.4))
-    (fp_arc (start -41.5 14.29) (end -44.75 14.29) (angle -90) (layer Eco1.User) (width 0.4))
-    (fp_arc (start 41.5 -54.25) (end 44.75 -54.25) (angle -90) (layer Eco1.User) (width 0.4))
     (fp_arc (start -41.5 -54.25) (end -41.5 -57.5) (angle -90) (layer Eco1.User) (width 0.4))
+    (fp_arc (start 41.5 -54.25) (end 44.75 -54.25) (angle -90) (layer Eco1.User) (width 0.4))
+    (fp_arc (start -41.5 14.29) (end -44.75 14.29) (angle -90) (layer Eco1.User) (width 0.4))
+    (fp_arc (start 41.5 14.29) (end 41.5 17.54) (angle -90) (layer Eco1.User) (width 0.4))
   )
 
   (module KCL-TH-SL:CON-PAD-S-1.0-1.9 (layer F.Cu) (tedit 6557932E) (tstamp 61120B0C)
@@ -1268,7 +1268,7 @@
     (fp_text reference XS3 (at 6.35 -13.335 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value PJ-309 (at 0 -13.335) (layer F.Fab)
+    (fp_text value ST-008S-05 (at 0 -13.335) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start 5.2 -2) (end 7 -2) (layer F.CrtYd) (width 0.1))
@@ -1322,7 +1322,7 @@
     (fp_text reference XS2 (at -6.35 -13.335 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.2)))
     )
-    (fp_text value PJ-309 (at 0 -13.335) (layer F.Fab)
+    (fp_text value ST-008S-05 (at 0 -13.335) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.2)))
     )
     (fp_line (start 5.2 -2) (end 7 -2) (layer F.CrtYd) (width 0.1))
