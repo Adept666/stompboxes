@@ -1,15 +1,10 @@
-(module копка_земли_r2sm_bottom (layer F.Cu) (tedit 66AF1C36)
+(module ТКП-6.3.3.A1.A1-B (layer F.Cu) (tedit 65E3313E)
   (fp_text reference REF** (at 0 -58.801) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value копка_земли_r2sm_bottom (at 0 -60.071) (layer F.Fab) hide
+  (fp_text value ТКП-6.3.3.A1.A1-B (at 0 -60.071) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_circle (center 19.05 44.45) (end 21.7 44.45) (layer Eco1.User) (width 0.4))
-  (fp_circle (center 0 44.45) (end 6 44.45) (layer Eco1.User) (width 0.4))
-  (fp_circle (center 0 1.47) (end 3.6 1.47) (layer Eco1.User) (width 0.4))
-  (fp_circle (center -19.05 -12.5) (end -15.45 -12.5) (layer Eco1.User) (width 0.4))
-  (fp_circle (center 19.05 -12.5) (end 22.65 -12.5) (layer Eco1.User) (width 0.4))
   (fp_line (start -32.47 55.98) (end 32.47 55.98) (layer Eco1.User) (width 0.2))
   (fp_line (start -32.47 56.98) (end 32.47 56.98) (layer Eco1.User) (width 0.4))
   (fp_line (start -32.47 -56.98) (end 32.47 -56.98) (layer Eco1.User) (width 0.4))
@@ -22,5 +17,7 @@
   (fp_line (start -32.47 57.98) (end 32.47 57.98) (layer Eco1.User) (width 0.4))
   (fp_line (start -32.47 -57.98) (end 32.47 -57.98) (layer Eco1.User) (width 0.4))
   (fp_circle (center -19.05 -40.44) (end -15.45 -40.44) (layer Eco1.User) (width 0.4))
+  (fp_circle (center 0 -7.62) (end 2.65 -7.62) (layer Eco1.User) (width 0.4))
+  (fp_circle (center 0 19.05) (end 6 19.05) (layer Eco1.User) (width 0.4))
   (fp_line (start -32.47 -55.98) (end 32.47 -55.98) (layer Eco1.User) (width 0.2))
 )
