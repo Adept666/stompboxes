@@ -50,6 +50,10 @@ Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
 MIT
 http://choosealicense.com/licenses/mit
 
+full_moon.svg (http://svgrepo.com/svg/260536/full-moon-moon)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
 gosha.jpg
 Princess Essa (http://vk.com/id493327363)
 CC BY-SA 4.0
@@ -103,6 +107,10 @@ CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
 
 shovel.svg (http://svgrepo.com/svg/88016/shovel)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
+
+skyscraper.svg (http://svgrepo.com/svg/208452/skyscraper)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
