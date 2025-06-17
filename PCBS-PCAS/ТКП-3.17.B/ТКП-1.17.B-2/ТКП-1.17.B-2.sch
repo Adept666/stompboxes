@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.17.B-2"
-Date "2024-12-30"
+Date "2025-06-17"
 Rev "3B"
 Comp "Deep Blue Delay [REV3B] SM"
 Comment1 "http://github.com/Adept666"
@@ -1334,8 +1334,8 @@ F 2 "SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.2" V 3000 10500 60  0001 R CNN
 F 3 "" V 3000 10500 60  0001 R CNN
 F 4 "DELAY" V 3100 10350 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 2950 10350 60  0000 R CNN "Resistance"
-F 6 "R16K1-L20F" V 2850 10350 60  0000 R CNN "Product"
-F 7 "Song Huei Electric" V 2750 10350 60  0000 R CNN "Manufacturer"
+F 6 "PDB181-K415F" V 2850 10350 60  0000 R CNN "Product"
+F 7 "Bourns" V 2750 10350 60  0000 R CNN "Manufacturer"
 	1    3000 10500
 	0    1    -1   0   
 $EndComp
@@ -1802,8 +1802,8 @@ F 2 "SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.2" V 10750 8500 60  0001 R CNN
 F 3 "" V 10750 8500 60  0001 R CNN
 F 4 "REPEAT" V 10850 8350 100 0000 R CNN "Title"
 F 5 "50 кОм (B)" V 10700 8350 60  0000 R CNN "Resistance"
-F 6 "R16K1-L20F" V 10600 8350 60  0000 R CNN "Product"
-F 7 "Song Huei Electric" V 10500 8350 60  0000 R CNN "Manufacturer"
+F 6 "PDB181-K415F" V 10600 8350 60  0000 R CNN "Product"
+F 7 "Bourns" V 10500 8350 60  0000 R CNN "Manufacturer"
 	1    10750 8500
 	0    1    -1   0   
 $EndComp
@@ -1817,8 +1817,8 @@ F 2 "SBKCL-TH-SL:RPB-18-1x17-1.5-PNL-7.2" H 9750 5500 60  0001 C CNN
 F 3 "" H 9750 5500 60  0001 C CNN
 F 4 "LEVEL" H 9750 5150 100 0000 C CNN "Title"
 F 5 "50 кОм (B)" H 9750 5000 60  0000 C CNN "Resistance"
-F 6 "R16K1-L20F" H 9750 4900 60  0000 C CNN "Product"
-F 7 "Song Huei Electric" H 9750 4800 60  0000 C CNN "Manufacturer"
+F 6 "PDB181-K415F" H 9750 4900 60  0000 C CNN "Product"
+F 7 "Bourns" H 9750 4800 60  0000 C CNN "Manufacturer"
 	1    9750 5500
 	1    0    0    -1  
 $EndComp
@@ -1845,10 +1845,10 @@ L KCL:VIRTUAL_ENCLOSURE VE2
 U 1 1 66A9E96D
 P 12000 17750
 F 0 "VE2" H 12000 18300 100 0000 C CNN
-F 1 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 12000 17750 100 0001 C CNN
+F 1 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 12000 17750 100 0001 C CNN
 F 2 "SBEPL:ТКП-6.3.3.A1" H 12000 17750 60  0001 C CNN
 F 3 "" H 12000 17750 60  0001 C CNN
-F 4 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 12000 18200 60  0000 C CNN "Product"
+F 4 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 12000 18200 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 12000 18100 60  0000 C CNN "Manufacturer"
 	1    12000 17750
 	1    0    0    -1  
