@@ -5,7 +5,7 @@ $Descr A2 16535 23386 portrait
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.17.C-2"
-Date "2024-12-11"
+Date "2025-06-18"
 Rev "3C"
 Comp "Deep Blue Delay [REV3C] SM"
 Comment1 "http://github.com/Adept666"
@@ -2145,10 +2145,10 @@ L KCL:VIRTUAL_ENCLOSURE VE2
 U 1 1 67555CBE
 P 12000 18000
 F 0 "VE2" H 12000 18550 100 0000 C CNN
-F 1 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 12000 18000 100 0001 C CNN
+F 1 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 12000 18000 100 0001 C CNN
 F 2 "SBEPL:ТКП-6.3.3.A1" H 12000 18000 60  0001 C CNN
 F 3 "" H 12000 18000 60  0001 C CNN
-F 4 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 12000 18450 60  0000 C CNN "Product"
+F 4 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 12000 18450 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 12000 18350 60  0000 C CNN "Manufacturer"
 	1    12000 18000
 	1    0    0    -1  
