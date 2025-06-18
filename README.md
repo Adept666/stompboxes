@@ -206,6 +206,16 @@
 
 [Gerber](/PCBS-PCAS/ТКП-3.19.A/output/good_grief_overdrive_r1a_gerber.zip)
 
+## Great Depression Phaser [REV1]
+
+[Schematic](/PCBS-PCAS/ТКП-3.40.A/ТКП-1.38.A-1/output/ТКП-1.38.A-1-SCH.pdf)
+
+[F_Fab](/PCBS-PCAS/ТКП-3.40.A/ТКП-1.38.A-1/output/ТКП-1.38.A-1-FAB-TOP.pdf)
+
+[B_Fab](/PCBS-PCAS/ТКП-3.40.A/ТКП-1.38.A-1/output/ТКП-1.38.A-1-FAB-BOTTOM.pdf)
+
+[Gerber](/PCBS-PCAS/ТКП-3.40.A/output/phaser_a_r1a_gerber.zip)
+
 ## Little Angel Chorus [REV1]
 
 [Schematic](/PCBS-PCAS/ТКП-3.12.A/ТКП-1.12.A-1/output/ТКП-1.12.A-1-SCH.pdf)
