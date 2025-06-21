@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.30.A-3"
-Date "2024-12-30"
+Date "2025-06-21"
 Rev "3A"
 Comp "Big Muff [REV3A] NYC SM"
 Comment1 "http://github.com/Adept666"
@@ -1629,10 +1629,10 @@ L KCL:VIRTUAL_ENCLOSURE VE2
 U 1 1 65BB7CA9
 P 19250 3000
 F 0 "VE2" H 19250 3550 100 0000 C CNN
-F 1 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 19250 3000 100 0001 C CNN
+F 1 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 19250 3000 100 0001 C CNN
 F 2 "SBEPL:ТКП-6.3.3.A1" H 19250 3000 60  0001 C CNN
 F 3 "" H 19250 3000 60  0001 C CNN
-F 4 "ТКП-6.3.3.A1.A1.2-1.A1.00" H 19250 3450 60  0000 C CNN "Product"
+F 4 "ТКП-6.3.3.A1.A1.3-1.A1.00" H 19250 3450 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 19250 3350 60  0000 C CNN "Manufacturer"
 	1    19250 3000
 	1    0    0    -1  
