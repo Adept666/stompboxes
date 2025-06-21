@@ -5,7 +5,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.30.B-1"
-Date "2024-07-07"
+Date "2025-06-21"
 Rev "3B"
 Comp "Big Muff [REV3B] NYC"
 Comment1 "http://github.com/Adept666"
@@ -1033,24 +1033,9 @@ F 2 "SBKCL-TH-ML:RPB-18-1x17-1.6-PNL-7.4-2.8" V 7250 6500 60  0001 R CNN
 F 3 "" V 7250 6500 60  0001 R CNN
 F 4 "SUSTAIN" V 7300 6350 100 0000 R CNN "Title"
 F 5 "100 кОм (A)" V 7150 6350 60  0000 R CNN "Resistance"
-F 6 "PDB181-K420K" V 7050 6350 60  0000 R CNN "Product"
-F 7 "Bourns" V 6950 6350 60  0000 R CNN "Manufacturer"
+F 6 "R16K1-L20KC" V 7050 6350 60  0000 R CNN "Product"
+F 7 "Song Huei Electric" V 6950 6350 60  0000 R CNN "Manufacturer"
 	1    7250 6500
-	0    1    -1   0   
-$EndComp
-$Comp
-L KCL:RESISTOR_VARIABLE RP2
-U 1 1 5F3FC4FC
-P 16250 6750
-F 0 "RP2" V 16450 6600 100 0000 R CNN
-F 1 "B100K" V 16250 6750 100 0001 R CNN
-F 2 "SBKCL-TH-ML:RPB-18-1x17-1.6-PNL-7.4-2.8" V 16250 6750 60  0001 R CNN
-F 3 "" V 16250 6750 60  0001 R CNN
-F 4 "TONE" V 16300 6600 100 0000 R CNN "Title"
-F 5 "100 кОм (B)" V 16150 6600 60  0000 R CNN "Resistance"
-F 6 "PDB181-K420K" V 16050 6600 60  0000 R CNN "Product"
-F 7 "Bourns" V 15950 6600 60  0000 R CNN "Manufacturer"
-	1    16250 6750
 	0    1    -1   0   
 $EndComp
 Connection ~ 2500 6750
@@ -1105,8 +1090,8 @@ F 2 "SBKCL-TH-ML:RPB-18-1x17-1.6-PNL-7.4-2.8" V 20250 6750 60  0001 R CNN
 F 3 "" V 20250 6750 60  0001 R CNN
 F 4 "VOLUME" V 20350 6600 100 0000 R CNN "Title"
 F 5 "100 кОм (A)" V 20200 6600 60  0000 R CNN "Resistance"
-F 6 "PDB181-K420K" V 20100 6600 60  0000 R CNN "Product"
-F 7 "Bourns" V 20000 6600 60  0000 R CNN "Manufacturer"
+F 6 "R16K1-L20KC" V 20100 6600 60  0000 R CNN "Product"
+F 7 "Song Huei Electric" V 20000 6600 60  0000 R CNN "Manufacturer"
 	1    20250 6750
 	0    1    -1   0   
 $EndComp
@@ -1897,4 +1882,19 @@ F 6 "1206" V 8000 6500 60  0000 C CNN "Package"
 $EndComp
 Text Notes 18650 14750 0    100  ~ 0
 1. Точность резисторов — 1...5%.\n2. Точность конденсаторов 1206 — 5...10%.\n3. Установить либо VT1, либо VT2.\n4. Установить либо VT3, либо VT4.\n5. Установить либо VT5, либо VT6.\n6. Установить либо VT7, либо VT8.
+$Comp
+L KCL:RESISTOR_VARIABLE RP2
+U 1 1 5F3FC4FC
+P 16250 6750
+F 0 "RP2" V 16450 6600 100 0000 R CNN
+F 1 "B100K" V 16250 6750 100 0001 R CNN
+F 2 "SBKCL-TH-ML:RPB-18-1x17-1.6-PNL-7.4-2.8" V 16250 6750 60  0001 R CNN
+F 3 "" V 16250 6750 60  0001 R CNN
+F 4 "TONE" V 16300 6600 100 0000 R CNN "Title"
+F 5 "100 кОм (B)" V 16150 6600 60  0000 R CNN "Resistance"
+F 6 "R16K1-L20KC" V 16050 6600 60  0000 R CNN "Product"
+F 7 "Song Huei Electric" V 15950 6700 60  0000 R CNN "Manufacturer"
+	1    16250 6750
+	0    1    -1   0   
+$EndComp
 $EndSCHEMATC
