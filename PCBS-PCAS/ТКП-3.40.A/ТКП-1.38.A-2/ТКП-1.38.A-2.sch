@@ -5,7 +5,7 @@ $Descr A1 33110 23386
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.38.A-2"
-Date "2025-05-04"
+Date "2025-08-09"
 Rev "1A"
 Comp "Great Depression Phaser [REV1A] SM"
 Comment1 "http://github.com/Adept666"
@@ -3478,7 +3478,7 @@ U 1 1 66E73684
 P 10750 18500
 F 0 "VE1" H 10750 19050 100 0000 C CNN
 F 1 "ТКП-6.2.1.A1.A1.A.1-1" H 10750 18500 100 0001 C CNN
-F 2 "" H 10750 18500 60  0001 C CNN
+F 2 "SBEPL:ТКП-6.2.1.A1.A1.A" H 10750 18500 60  0001 C CNN
 F 3 "" H 10750 18500 60  0001 C CNN
 F 4 "ТКП-6.2.1.A1.A1.A.1-1" H 10750 18950 60  0000 C CNN "Product"
 F 5 "-ТТКРЧПДЛ-" H 10750 18850 60  0000 C CNN "Manufacturer"

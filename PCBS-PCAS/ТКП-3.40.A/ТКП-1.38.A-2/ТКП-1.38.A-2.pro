@@ -1,4 +1,4 @@
-update=Ср 05 апр 2023 23:48:28
+update=Sat Aug  9 15:53:21 2025
 version=1
 last_client=kicad
 [cvpcb]
@@ -55,7 +55,7 @@ CopperTextThickness=0.2
 CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.4
-CourtyardLineWidth=0.09999999999999999
+CourtyardLineWidth=0.05
 OthersLineWidth=0.2
 OthersTextSizeV=1
 OthersTextSizeH=1
@@ -217,7 +217,7 @@ Enabled=0
 [pcbnew/Layer.Eco1.User]
 Enabled=1
 [pcbnew/Layer.Eco2.User]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Edge.Cuts]
 Enabled=1
 [pcbnew/Layer.Margin]
