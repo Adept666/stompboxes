@@ -1,8 +1,8 @@
 # ТТКРЧПДЛ / Тут короче педали
 
-Здесь хранятся схемы и чертежи гитарных педалек ТТКРЧПДЛ (штаб-квартира: Омск, Сибирь). Купить педальки или задать вопросы можно через группу [вконтакте](http://vk.com/stompboxes). Заценить звук можно на [YouTube-канале](http://youtube.com/channel/UCtStMn9qLL_V5MzlzgSMkUA).
+Здесь хранятся схемы и чертежи гитарных педалек *ТТКРЧПДЛ* (штаб-квартира: Омск, Сибирь). Купить педальки или задать вопросы можно через группу [ВКонтакте](https://vk.com/stompboxes). Заценить звук можно на [YouTube-канале](https://youtube.com/channel/UCtStMn9qLL_V5MzlzgSMkUA).
 
-![Distortion + PCBs](http://sun9-67.userapi.com/ioU71lmwXr9TK0_9o4IcflxXugrnQxBiaA8EZA/to2xvcd5ym0.jpg)
+![Distortion + PCBs](https://sun9-67.userapi.com/ioU71lmwXr9TK0_9o4IcflxXugrnQxBiaA8EZA/to2xvcd5ym0.jpg)
 
 ## Big Muff [REV3]
 
@@ -320,18 +320,27 @@
 
 ## Requirements (Требования)
 
-Работа с исходными файлами осуществляется в программе [KiCad](http://kicad-pcb.org).
+Работа с исходными файлами осуществляется в программе [KiCad](https://kicad.org).
 
 Для просмотра и редактирования принципиальных схем необходимо подключить следующие библиотеки символов:
-* [KCL](http://github.com/Adept666/KCL)
-* [SBKCL](http://github.com/Adept666/stompboxes/tree/master/SBKCL)
+* [KCL](https://github.com/Adept666/KCL)
+* [SBKCL](/SBKCL)
 
-Для работы с чертежами печатных узлов подключение библиотек не требуется, так как все использованные футпринты вшиты в файлы *.kicad_pcb. При необходимости футпринты могут быть найдены в библиотеках [KCL](http://github.com/Adept666/KCL) и [SBKCL](http://github.com/Adept666/stompboxes/tree/master/SBKCL).
+Для работы с чертежами печатных узлов подключение библиотек не требуется, так как все использованные футпринты вшиты в файлы *.kicad_pcb. При необходимости футпринты могут быть найдены в библиотеках [KCL](https://github.com/Adept666/KCL) и [SBKCL](/SBKCL).
 
-## Author (Автор)
+## Authors (Авторы)
 
-[Igor Ivanov](http://vk.com/igor_ivanov_93) ([Игорь Иванов](http://vk.com/igor_ivanov_93))
+Основной разработчик: *Igor Ivanov* (*Игорь Иванов*).  
+Связь: adept.666.1993@gmail.com • [Telegram](https://t.me/adept666_2) • [ВКонтакте](https://vk.com/igor_ivanov_93) • [Google Scholar](https://scholar.google.com/citations?user=dhN1LfkAAAAJ).
 
-## License (Лицензия)
+Репозиторий также содержит сторонние открытые изображения и шрифты, использованные при создании макетов рисунков, наносимых на корпуса педалей. Информация об авторах и лицензиях представлена в сопроводительных текстовых файлах, размещённых в соответствующих директориях.
 
-This project is licensed under GNU General Public License v3.0 or later (данный проект находится под лицензией GNU General Public License v3.0 или более новой)
+## Licenses (Лицензии)
+
+Настоящий репозиторий использует раздельное лицензирование:
+
+* Основная часть файлов распространяется на условиях *GNU General Public License v3.0 or later*, если не указано иное.
+
+* Проект печатной платы [Clipper A](/PCBS-PCAS/ТКП-3.44.A) распространяется на условиях *CERN Open Hardware Licence Version 2 - Strongly Reciprocal*.
+
+* Сторонние [изображения](/graphics/source_images) и [шрифты](/graphics/source_fonts) распространяются на условиях иных лицензий, указанных в соответствующих файлах.
