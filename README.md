@@ -341,6 +341,6 @@
 
 * Основная часть файлов распространяется на условиях *GNU General Public License v3.0 or later*, если не указано иное.
 
-* Проект печатной платы [Clipper A](/PCBS-PCAS/ТКП-3.44.A) распространяется на условиях *CERN Open Hardware Licence Version 2 - Strongly Reciprocal*.
+* Проекты печатных плат [Clipper A](/PCBS-PCAS/ТКП-3.44.A) и [OCD](/PCBS-PCAS/ТКП-3.45.A) распространяются на условиях *CERN Open Hardware Licence Version 2 - Strongly Reciprocal*.
 
 * Сторонние [изображения](/graphics/source_images) и [шрифты](/graphics/source_fonts) распространяются на условиях иных лицензий, указанных в соответствующих файлах.
