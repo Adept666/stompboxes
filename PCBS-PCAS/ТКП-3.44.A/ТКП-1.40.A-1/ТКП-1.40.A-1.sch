@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "ТКП-1.40.A-1"
-Date "2026-06-09"
+Date "2026-07-05"
 Rev "1A"
 Comp "Clipper A [REV1A]"
 Comment1 "http://github.com/Adept666"
@@ -123,14 +123,14 @@ $Comp
 L KCL:CAPACITOR_POLARIZED PS.C1
 U 1 1 60AB555F
 P 4500 7250
-F 0 "PS.C1" H 4750 7400 100 0000 L CNN
+F 0 "PS.C1" H 4750 7450 100 0000 L CNN
 F 1 "107" H 4500 7250 100 0001 L CNN
 F 2 "KCL-SM:CP-CTSMD-D" H 4500 7250 60  0001 L CNN
 F 3 "" H 4500 7250 60  0001 L CNN
-F 4 "100 мкФ" H 4750 7300 60  0000 L CNN "Capacitance"
-F 5 "20%" H 4750 7200 60  0000 L CNN "Tolerance"
-F 6 "25 В" H 4750 7100 60  0000 L CNN "Voltage"
-F 7 "CTSMD-D" H 4750 7000 60  0000 L CNN "Package"
+F 4 "100 мкФ" H 4750 7350 60  0000 L CNN "Capacitance"
+F 5 "20%" H 4750 7250 60  0000 L CNN "Tolerance"
+F 6 "25 В" H 4750 7150 60  0000 L CNN "Voltage"
+F 7 "CTSMD-D" H 4750 7050 60  0000 L CNN "Package"
 	1    4500 7250
 	1    0    0    -1  
 $EndComp
