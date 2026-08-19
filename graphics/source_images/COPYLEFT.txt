@@ -114,7 +114,16 @@ skyscraper.svg (http://svgrepo.com/svg/208452/skyscraper)
 CC0 1.0
 http://creativecommons.org/publicdomain/zero/1.0
 
+spool.svg (http://svgrepo.com/svg/514245/spool)
+Adam Whitcroft (http://svgrepo.com/author/adam%20whitcroft)
+MIT
+http://choosealicense.com/licenses/mit
+
 stargazer.jpg
 Елизавета Чайкина (http://vk.com/x.carlie)
 CC BY-SA 4.0
 http://creativecommons.org/licenses/by-sa/4.0
+
+tape.svg (http://svgrepo.com/svg/359523/tape)
+CC0 1.0
+http://creativecommons.org/publicdomain/zero/1.0
